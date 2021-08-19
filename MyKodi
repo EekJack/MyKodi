@@ -564,207 +564,207 @@ http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 http://stream.tvtap.net:8081/live/us-ae.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="706" tvg-id="706" tvg-chno="706" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png",FOX Sports HD
 http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="707" tvg-id="707" tvg-chno="707" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png",FOX Sports 2 HD
 http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="708" tvg-id="708" tvg-chno="708" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",FOX Sports 3 HD
 http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/2021081116172640657u.png",unifi Sports 1 HD
 http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811161847362lc0.png",unifi Sports 2 HD
 http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="703" tvg-id="703" tvg-chno="703" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811162003633ulc.png",unifi Sports 3 HD
 http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="704" tvg-id="704" tvg-chno="704" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811162111899up2.png",unifi Sports 4 HD
 http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811162210893gcu.png",unifi Sports 5 HD
 http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="631" tvg-id="631" tvg-chno="631" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073135741874.png",BNC
 http://1.9.62.158/PLTV/88888888/224/3221227511/3221227511.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="633" tvg-id="633" tvg-chno="633" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073249333u7e.png",Parlimen Malaysia
 http://1.9.62.158/PLTV/88888888/224/3221227546/3221227546.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="501" tvg-id="501" tvg-chno="501" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png",BBC Earth HD
 http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="508" tvg-id="508" tvg-chno="508" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png",National Geographic HD
 http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="509" tvg-id="509" tvg-chno="509" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202009/20200907/20200907034018802dtj.PNG",Nat Geo Wild HD
 http://1.9.62.158/PLTV/88888888/224/3221227628/3221227628.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="511" tvg-id="511" tvg-chno="511" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065806236c1s.png",Nat Geo People HD
 http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="512" tvg-id="512" tvg-chno="512" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",BBC Lifestyle HD
 http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="521" tvg-id="521" tvg-chno="521" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073823792x3y.png",Travel Channel HD
 http://1.9.62.158/PLTV/88888888/224/3221227593/3221227593.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="502" tvg-id="502" tvg-chno="502" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png",Love Nature HD
 http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="455" tvg-id="455" tvg-chno="455" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073811029jld.png",FOX Life
 http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="473" tvg-id="473" tvg-chno="473" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",Blue Ant Entertainment
 http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="474" tvg-id="474" tvg-chno="474" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png",Blue Ant Extreme
 http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="408" tvg-id="408" tvg-chno="408" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png",Paramount Network
 http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="411" tvg-id="411" tvg-chno="411" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065916134bcf.png",CinemaWorld HD
 http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="451" tvg-id="451" tvg-chno="451" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png",Warner TV HD
 http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="453" tvg-id="453" tvg-chno="453" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073643920hhv.png",FOX
 http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="454" tvg-id="454" tvg-chno="454" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073911037n9t.png",FX
 http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="401" tvg-id="401" tvg-chno="401" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY",FOX Movies HD
 http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="402" tvg-id="402" tvg-chno="402" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/nTbDkLcm",FOX Action Movies HD
 http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="403" tvg-id="403" tvg-chno="403" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/2ZouB2Ve",FOX Family Movies HD
 http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
 http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
 http://1.9.62.158/PLTV/88888888/224/3221227815/3221227815.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
 http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",DidikTV KPM
 http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV
 http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MDE1YmRkZTUtNWNkYi0zNjNiLTg0Y2EtNjI2MjJhZGFhMzZh||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MGY3NTk2ZDAtNjQzNC0zMjk3LTg5N2UtOTg2MWM1ZmRmZGUw||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="UnifiPlay" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png",TV9
 http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd

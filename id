@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" url-tvg="https://unifiplaytv.samsam123.tk/epg" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/thisistyx/epg/master/astro.xml" url-tvg="https://raw.githubusercontent.com/thisistyx/epg/master/astro.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 

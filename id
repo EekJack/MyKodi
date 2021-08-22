@@ -162,25 +162,25 @@ https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://52.221.7.162:443/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=https://52.221.7.162/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="Movie" ch-number="401" tvg-id="401" tvg-chno="401" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY",FOX Movies HD
 https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://52.221.7.162:443/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=https://52.221.7.162/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="Movie" ch-number="402" tvg-id="402" tvg-chno="402" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/nTbDkLcm",FOX Action Movies HD
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://52.221.7.162:443/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=https://52.221.7.162/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="Movie" ch-number="403" tvg-id="403" tvg-chno="403" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/2ZouB2Ve",FOX Family Movies HD
 https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://52.221.7.162:443/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=https://52.221.7.162/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1||R{SSM}|
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/440px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" tvg-id="453" group-title="Entertainment",FOX 
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd

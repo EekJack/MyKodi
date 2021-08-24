@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" url-tvg="https://unifiplaytv.samsam123.tk/epg" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://thisistyx.github.io/epg/mytv.xml" url-tvg="https://unifiplaytv.samsam123.tk/epg" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -373,10 +373,12 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 http://50.7.161.82:8278/streams/d/awani_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="Lokal" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
 #EXTINF:-1 group-title="Lokal" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
-http://50.7.161.82:8278/streams/d/tv2_pye/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/tv2_pye/playlist.m3u8
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
 #EXTINF:-1 group-title="Lokal" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
 http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
@@ -386,6 +388,15 @@ http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="Lokal" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
 http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal" Broadcasting: TV" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",TV OKEY FHD
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+
+#EXTINF:-1 group-title="Lokal" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS HD
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+
+#EXTINF:-1 group-title="Lokal" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM HD
+https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="Sport" tvg-id="wwe",WWE
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
@@ -478,6 +489,21 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/Duck/961ac1c875f5884f31bdd177365ef1e
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="US",CINEMAX (US)
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="US", TNT
+http://31.220.41.88:8081/live/us-tnt.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/210/810/png-clipart-starz-encore-starz-distribution-logo-television-others-television-angle.png" group-title="US", Starz
+http://31.220.41.88:8081/live/us-starz.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Starz_Edge_logo.svg/800px-Starz_Edge_logo.svg.png" group-title="US", Starz Edge
+http://31.220.41.88:8081/live/us-starzedge.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/464/1022/330/tv-channel-icons-pack-starz-cinema-color-png-icon.jpg" group-title="US", Starz Cinema
+http://31.220.41.88:8081/live/us-starzcinema.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/277-2770653_transparent-starz-png-starz-encore-logo-png-png.png" group-title="US", Starz Encore
+http://31.220.41.88:8081/live/us-starzencore.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://rtd.rt.com/s/redesign/pub/img/logo.png" group-title="Documentary" type="stream",RT Documentary
 https://rt-doc-gd.secure2.footprint.net/1101.m3u8
 
@@ -493,10 +519,10 @@ https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-country="IN" tvg-language="" tvg-logo="" group-title="Documentary",Travel XP (EURO)
 https://travelxp-travelxp-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-country="" tvg-language="" tvg-logo="" group-title="Sport",BT Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-country="" tvg-language="" tvg-logo="" group-title="UK",BT Sport 1
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-country="" tvg-language="" tvg-logo="" group-title="Sport",BT Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-country="" tvg-language="" tvg-logo="" group-title="UK",BT Sport 2
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/225px-A%26E_Network_logo.svg.png" group-title="Documentary",A&E US
@@ -504,6 +530,42 @@ http://stream.tvtap.net:8081/live/us-ae.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5znakl6.png?v=1.0.0.1" group-title="Documentary", Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviesactionnadventure.jpg" group-title="UK",  Sky Movies Action & Adventure
+http://31.220.41.88:8081/live/maction.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviescomedy.jpg" group-title="UK",  Sky Movies Comedy 
+http://31.220.41.88:8081/live/mcomedy.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviescrimenthriller.jpg" group-title="UK",  Sky Movies Crime & Thriller
+http://31.220.41.88:8081/live/mcrime.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/c/ce/Media-sky-movies-disney_1.jpg" group-title="UK",  Sky Movies Disney
+http://31.220.41.88:8081/live/mdisney.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviesfamily.jpg" group-title="UK",  Sky Movies Family
+http://31.220.41.88:8081/live/mfamily.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviespremiere.jpg" group-title="UK",  Sky Movies Premiere
+http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

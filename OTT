@@ -426,7 +426,7 @@ http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A&E.us" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/300px-A%26E_Network_logo.svg.png" group-title="Documentary",A&E
 #https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
-http://gcs2.xyz:2052/anh/123/3086907
+http://gcs2.xyz:2052/ryan/ryan/3086907
 
 #EXTINF:-1 tvg-id="syfy.us" tvg-country="US" tvg-logo="https://www.syfy.com/sites/syfy/themes/wired/assets/images/icons/syfy.svg" group-title="US",SyFy
 https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
@@ -518,11 +518,13 @@ https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-country="IN" tvg-language="" tvg-logo="" group-title="Documentary",Travel XP (EURO)
 https://travelxp-travelxp-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-country="" tvg-language="" tvg-logo="" group-title="UK",BT Sport 1
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-country="" tvg-language="" tvg-logo="" group-title="Sport",BT Sport 1
+#http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+http://gcs2.xyz:2052/ryan/ryan/2484221
 
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-country="" tvg-language="" tvg-logo="" group-title="UK",BT Sport 2
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-country="" tvg-language="" tvg-logo="" group-title="Sport",BT Sport 2
+#http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+http://gcs2.xyz:2052/ryan/ryan/2484222
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/225px-A%26E_Network_logo.svg.png" group-title="US",A&E US
 http://stream.tvtap.net:8081/live/us-ae.stream/playlist.m3u8

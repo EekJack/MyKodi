@@ -364,16 +364,20 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 http://51.79.82.231:8080/US_SYFY_EAST_USA/video.m3u8
 
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/440_144.png" group-title="Sport",Astro SuperSport
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+http://clientportal.link:80/MatiasBoegli/dHUk2O435/23453
 
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sport",Astro SuperSport 2
-http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+http://clientportal.link:80/MatiasBoegli/dHUk2O435/23452
 
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sport",Astro SuperSport 3
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+http://clientportal.link:80/MatiasBoegli/dHUk2O435/23451
 
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport",Astro SuperSport 4
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+http://clientportal.link:80/MatiasBoegli/dHUk2O435/33973
 
 #EXTINF:-1 tvg-id="801" tvg-name="Astro Arena HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sport",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8

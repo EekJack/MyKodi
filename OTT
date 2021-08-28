@@ -184,7 +184,8 @@ https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="Movie",HBO HD
 #https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 #http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-https://gratismkctv.net/film/hbo.m3u8
+#https://gratismkctv.net/film/hbo.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -563,7 +564,17 @@ http://31.220.41.88:8081/live/mfamily.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviespremiere.jpg" group-title="UK",  Sky Movies Premiere
 http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-ten1.jpg" group-title="Sport",Sony TEN 1
+https://feed.play.mv/live/10005200/fMLTkj4OJC/1.m3u8
 
+#EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-ten2.jpg" group-title="Sport",Sony TEN 2
+https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
+
+#EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-ten-3.jpg" group-title="Sport",Sony TEN 3
+https://feed.play.mv/live/10005200/RG2fKR6d9p/1.m3u8
+
+#EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-six.jpg" group-title="Sport",Sony Six
+https://feed.play.mv/live/10005200/hr55LTnS53/1.m3u8
 
 
 

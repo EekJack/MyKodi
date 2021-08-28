@@ -57,7 +57,8 @@ http://gcs2.xyz:2052/anh/123/1109852
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Documentary",History HD
-https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+#https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+http://topwin-tv.my.id/2/chunklist.m3u8?id=history&bandwidth=default&sync=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1

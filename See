@@ -28,3 +28,8 @@ http://topwin-tv.my.id/2/chunklist.m3u8?id=foxsport2&bandwidth=default&sync=0
 
 #EXTINF:-1 group-title="Sport" ch-number="708" tvg-id="708" tvg-chno="708" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",FOX Sports 3 HD
 http://topwin-tv.my.id/2/chunklist.m3u8?id=foxsport3&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="Movie",HBO HD
+#http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+https://gratismkctv.net/film/hbo.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8

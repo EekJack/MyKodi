@@ -53,6 +53,7 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #http://gcs2.xyz:2052/anh/123/1109852
+#http://tigerfights.xyz:80/live/anh/123/2599210.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -353,19 +354,19 @@ http://51.79.82.231:8080/US_SYFY_EAST_USA/video.m3u8
 
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/440_144.png" group-title="Sport",Astro SuperSport
 #http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-http://clientportal.link:80/MatiasBoegli/dHUk2O435/23453
+http://gcs2.xyz:2052/anh/123/2599208
 
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sport",Astro SuperSport 2
 #http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-http://clientportal.link:80/MatiasBoegli/dHUk2O435/23452
+http://gcs2.xyz:2052/live/anh/123/2599210
 
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sport",Astro SuperSport 3
 #http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
-http://clientportal.link:80/MatiasBoegli/dHUk2O435/23451
+http://gcs2.xyz:2052/live/anh/123/2599211
 
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport",Astro SuperSport 4
 #http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-http://clientportal.link:80/MatiasBoegli/dHUk2O435/33973
+http://gcs2.xyz:2052/live/anh/123/2599212
 
 #EXTINF:-1 tvg-id="801" tvg-name="Astro Arena HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sport",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8

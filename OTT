@@ -576,6 +576,8 @@ https://feed.play.mv/live/10005200/jmW41EycvT/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-chno="558" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Biznet_Home_Logo.svg/1200px-Biznet_Home_Logo.svg.png" group-title="Documentary",ADVENTURE 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/chunklist_w45338377_b5256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1pSllpd3ZzQWhLTGdZanRNY294VnAxR1pnMVhXX3dOY3J2Zy1sY05xNlZkeXZfbFdWRXIwY1NFT0JDa0l5ZlRT.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Unsolved_mysteries_logo.png/250px-Unsolved_mysteries_logo.png" group-title="Documentary",UNsolved mysteries
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_unsolvedmysteries_001.m3u8?ads.caid%3DFilmriseUnsolvedMysteries%26ads.csid%3Dsamsungtvplus_us_filmriseunsolvedmysteries_ssai%26ads.xumo_platform%3Dsamsung%26ads._fw_is_lat%3D%7BTARGETOPT%7D%26ads._fw_us_privacy%3D1YNY%26ads._fw_coppa%3D0%26ads._fw_did%3D%7BPSID%7D%26ads._fw_content_category%3DIAB1-7%26ads._fw_content_genre%3Dtelevision%26ads._fw_content_language%3Den%26ads._fw_content_rating%3Dtv-14%26ads._fw_deviceMake%3Dsamsung%26ads._fw_gdpr%3D0%26ads.appName%3D%7BAPP_NAME%7D%26ads.xumo_contentId%3D260%26ads.xumo_contentName%3DFilmRise%26ads.xumo_providerId%3D260%26ads.xumo_providerName%3DFilmRise%26ads.xumo_channelId%3D9999539%26ads.xumo_adsystem%3Dmediatailor%26ads.tpcl%3DMIDROLL%26ads._fw_app_store_url%3D%7BAPP_DOMAIN%7D
 
 
 

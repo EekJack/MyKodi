@@ -12,20 +12,40 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTINF:-1 tvg-id="1401" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movie",Hits Movies HD
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
+#EXTINF:-1 tvg-id="1401" tvg-chno="401" tvg-logo="https://i.kampung.xyz/c/7fa0f8a9a21d94fa.png" group-title="Movie",HITS Movies HD (MY)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 group-title="Movie" ch-number="1712" tvg-id="1712" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png",Warner TV HD
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
+#EXTINF:-1 tvg-id="1712" tvg-chno="712" tvg-logo="https://i.kampung.xyz/c/528a44ee230855d4.png" group-title="Movie",Warner TV HD (MY)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 group-title="Movie" tvg-id="1309" ch-number="1309" tvg-chno="1308" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png",Celestial Movies HD
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
+#EXTINF:-1 tvg-id="1309" tvg-chno="309" tvg-logo="https://i.kampung.xyz/c/08d74f9657c4060e.png" group-title="Movie",Celestial Movies HD (MY)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 group-title="Movie" tvg-id="1321" ch-number="1321" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",Celestial Classic Movies
+#EXTINF:-1 group-title="Movie" tvg-id="1321" ch-number="1321" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM HD
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
+#EXTINF:-1 tvg-id="1321" tvg-chno="321" tvg-logo="https://i.kampung.xyz/c/ef4b02da256791bb.png" group-title="Movie",CCM HD (MY)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -601,15 +621,14 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 #EXTINF:-1 tvg-id="A+E.us" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/A%2BE_Networks_2017.svg/440px-A%2BE_Networks_2017.svg.png" group-title="US",A+E|Lively place
 http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A&E.us" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/300px-A%26E_Network_logo.svg.png" group-title="Documentary",A&E
-#https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
-http://gcs2.xyz:2052/ryan/ryan/3086907
-
 #EXTINF:-1 tvg-id="syfy.us" tvg-country="US" tvg-logo="https://www.syfy.com/sites/syfy/themes/wired/assets/images/icons/syfy.svg" group-title="US",SyFy
 https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="Movie",Star Movies
 http://84.17.41.7/StarMoviesHD-Hin/mono.m3u8
+
+#EXTINF:-1 tvg-id="1CHN" tvg-name="Star WORLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Star_World_HD_India.png" group-title="Movie",Star World HD
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="US",Discovery Channel
 https://bozztv.com/teleyupp/teleup-discovery/tracks-v1a1/mono.m3u8

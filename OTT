@@ -724,10 +724,12 @@ https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-country="" tvg-language="" tvg-logo="" group-title="Sport",BT Sport 1
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+http://mydvr220.freeddns.org:80/87/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-country="" tvg-language="" tvg-logo="" group-title="Sport",BT Sport 2
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+http://mydvr220.freeddns.org:80/88/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/225px-A%26E_Network_logo.svg.png" group-title="US",A&E US
 http://stream.tvtap.net:8081/live/us-ae.stream/playlist.m3u8
@@ -755,6 +757,21 @@ http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://e2.365dm.com/21/02/192x192/skysports-ssf1-sky-2021_5261156.png?20210204125536" group-title="Sport",Sky Sports F1
 http://mydvr220.freeddns.org:80/6/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="Documentary",Discovery (UK)
+http://mydvr220.freeddns.org:80/79/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-history-plus1-us-uk.png" group-title="Documentary",Discovery History (UK)
+http://mydvr220.freeddns.org:80/80/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-uk-plus1-us-uk.png" group-title="Documentary",Discovery Sceince (UK)
+http://mydvr220.freeddns.org:80/81/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.history.co.uk/themes/custom/sky_history/images/logo.png" group-title="Documentary",SKY History (UK)
+http://mydvr220.freeddns.org:80/84/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/investigation-discovery-us.png" group-title="Documentary"'Investigation Discovery (UK)
+http://mydvr220.freeddns.org:80/86/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eurosport_1_Logo_2015.png/220px-Eurosport_1_Logo_2015.png" group-title="Sport",Eurosport1 UK
 http://mydvr220.freeddns.org:80/7/video.m3u8

@@ -2,7 +2,7 @@
 #EXTM3U x-tvg-url="https://epg.kampung.xyz/IPTV.xml.gz"
 
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="HIT.MY" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="Movie",Hits 
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
@@ -226,13 +226,13 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #KODIPROP:inputstream.adaptive.license_key=3277ef8871450f8a04ae27e08ad32b10:02add6e074f2bc9fc182a83e1c60f718
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2307/default_ott.mpd
 
-#EXTINF:-1 tvg-id="FOXSports2" group-title="Sport" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png",816 FOX Sports 2 HD (MY)
+#EXTINF:-1 tvg-id="FOXSports2" group-title="Sport" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png",FOX Sports 2 HD (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe81682b4308fe8856ceb1b930748610:bab26309304e7ea06f00cca49ace357b
 # https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2704/default_ott.mpd
 
-#EXTINF:-1 tvg-id="FOXSports3" group-title="Sport" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",817 FOX Sports 3 HD (MY)
+#EXTINF:-1 tvg-id="FOXSports3" group-title="Sport" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",FOX Sports 3 HD (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=905726656d80825a5ef032db4dcf5110:c3f38e563922732300edfca4ff80d9c3
 # https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
@@ -721,12 +721,10 @@ https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-country="" tvg-language="" tvg-logo="" group-title="Sport",BT Sport 1
-#http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-http://gcs2.xyz:2052/ryan/ryan/2484221
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-country="" tvg-language="" tvg-logo="" group-title="Sport",BT Sport 2
-#http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-http://gcs2.xyz:2052/ryan/ryan/2484222
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/225px-A%26E_Network_logo.svg.png" group-title="US",A&E US
 http://stream.tvtap.net:8081/live/us-ae.stream/playlist.m3u8

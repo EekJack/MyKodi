@@ -705,7 +705,7 @@ http://mydvr220.freeddns.org:80/84/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/investigation-discovery-us.png" group-title="Documentary"'Investigation Discovery (UK)
 http://mydvr220.freeddns.org:80/86/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Documentary"'Net Geo Wild (UK)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="Documentary"'Net Geo Wild (UK)
 http://mydvr220.freeddns.org:80/83/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Documentary"'Net Geo (UK)

@@ -655,11 +655,11 @@ https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-country="IN" tvg-language="" tvg-logo="" group-title="Documentary",Travel XP (EURO)
 https://travelxp-travelxp-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-country="" tvg-language="" tvg-logo="" group-title="Sport",BT Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORT 1" tvg-country="" tvg-language="English" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sport",BT Sport 1
 #http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 http://mydvr220.freeddns.org:80/87/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-country="" tvg-language="" tvg-logo="" group-title="Sport",BT Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sport",BT Sport 2
 #http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 http://mydvr220.freeddns.org:80/88/video.m3u8
 
@@ -704,6 +704,12 @@ http://mydvr220.freeddns.org:80/84/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/investigation-discovery-us.png" group-title="Documentary"'Investigation Discovery (UK)
 http://mydvr220.freeddns.org:80/86/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Documentary"'Net Geo Wild (UK)
+http://mydvr220.freeddns.org:80/83/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Documentary"'Net Geo (UK)
+http://mydvr220.freeddns.org:80/82/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eurosport_1_Logo_2015.png/220px-Eurosport_1_Logo_2015.png" group-title="Sport",Eurosport1 UK
 http://mydvr220.freeddns.org:80/7/video.m3u8

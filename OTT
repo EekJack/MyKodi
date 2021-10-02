@@ -470,12 +470,23 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2307/default_ott.mpd
 #http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
+#EXTINF: -1 tvg-id="AstroArena2" tvg-id="1802" group-title="Sport" ch-number="802" tvg-logo="https://i.postimg.cc/bvmDFm4D/Astro-Arena2.png",Astro Arena 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+
+#EXTINF:-1 tvg-id="eGGNetwork" group-title="Sport" tvg-logo="https://i.kampung.xyz/c/5a8c2149409e6e47.png",eGG Network HD
+KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6526808b951b1f75b2818b0ef4f47110:27e96c5d6577f0fc12004a50a2e11d35
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_ott.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tbur8nX.png?v=1.0.0.1" group-title="Documentary",Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="Astro" tvg-id="AstroAwaniHD",AWANI
 #http://50.7.161.82:8278/streams/d/awani_pye/playlist.m3u8
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+https://linear03-playback.sooka.my/CH5/masterCH5.mpd
 
 #EXTINF:-1 group-title="Lokal" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
@@ -505,6 +516,13 @@ http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 
 #EXTINF:-1 group-title="Lokal" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM HD
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV6" group-title="Lokal" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
+# https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+
+#EXTINF:-1 tvg-id="Hello" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello HD
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90

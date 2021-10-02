@@ -485,8 +485,7 @@ https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="Astro" tvg-id="AstroAwaniHD",AWANI
 #http://50.7.161.82:8278/streams/d/awani_pye/playlist.m3u8
-#https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-https://linear03-playback.sooka.my/CH5/masterCH5.mpd
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTINF:-1 group-title="Lokal" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
@@ -520,9 +519,6 @@ https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-id="TV6" group-title="Lokal" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 # https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
-
-#EXTINF:-1 tvg-id="Hello" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello HD
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90

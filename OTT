@@ -160,11 +160,6 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 #KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7767361ab680b840c143d486983fce10:860e965b012c4f2e66b93ec7d793cf3a
-#EXTINF:-1 tvg-id="1557" tvg-chno="557" tvg-logo="https://i.kampung.xyz/c/4a22841e7cebe0f3.png" group-title="Documentary",Discovery Science HD (MY)
-http://linearjitp-playback.astro.com.my/dash-wv/linear/508/default_ott.mpd
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Eve.svg/revision/latest/scale-to-width-down/200?cb=20151128124825" group-title="Documentary",DISCOVERY EVE
 http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
 
@@ -438,7 +433,7 @@ http://51.79.82.231:8080/US_SYFY_EAST_USA/video.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/440_144.png" group-title="Sport",Astro SuperSport HD
-https://linears-playback.astro.com.my/vsg/21DZ0_bsWpIvmB_59owB5HdYPIbAeZhN7mrM35QE1xB7k=vbUX/dash-wv/jitp-linearwm/601/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/21qvqtA0EjjjaEayi-egpPeubda_IVSvap9U-nkEiu1e8=aOKt/dash-wv/jitp-linearwm/601/default_ott.mpd
 #http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -493,7 +488,7 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
 #EXTINF:-1 group-title="Lokal" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
 #http://50.7.161.82:8278/streams/d/tv2_pye/playlist.m3u8
-https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1 group-title="Lokal" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
 http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8

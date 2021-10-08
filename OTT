@@ -655,6 +655,9 @@ https://rt-doc-gd.secure2.footprint.net/1101.m3u8
 #EXTINF:-1 group-title="Documentary" ch-number="502" tvg-id="502" tvg-chno="502" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png",Love Nature HD
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="557" tvg-name="Discovery Science HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/375_144.png" group-title="Documentary",Discovery Science
+https://itvoign.multitvsolution.com/idvo/discoverscienceeng.m3u8
+
 #EXTINF:-1  tvg-id=""  group-title="Sport" tvg-logo="http://static.epg.best/gr/EdgeSport.gr.png" type="stream", Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 

@@ -430,7 +430,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/584fc8cd6a5ae41a83ddee7e.png" group-title="Movie",SY FY 
 http://51.79.82.231:8080/US_SYFY_EAST_USA/video.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/440_144.png" group-title="Sport",Astro SuperSport HD
 https://linears-playback.astro.com.my/vsg/21qvqtA0EjjjaEayi-egpPeubda_IVSvap9U-nkEiu1e8=aOKt/dash-wv/jitp-linearwm/601/default_ott.mpd
@@ -448,7 +448,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_ott.mpd
 #http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport",Astro SuperSport 4 HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd

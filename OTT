@@ -658,12 +658,6 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-id=""  group-title="Sport" tvg-logo="http://static.epg.best/gr/EdgeSport.gr.png" type="stream", Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-country="IN;AU" tvg-language="English" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Documentary",Travel XP (Aus)
-https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-country="IN" tvg-language="" tvg-logo="" group-title="Documentary",Travel XP (EURO)
-https://travelxp-travelxp-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/225px-A%26E_Network_logo.svg.png" group-title="US",A&E US
 http://stream.tvtap.net:8081/live/us-ae.stream/playlist.m3u8
 

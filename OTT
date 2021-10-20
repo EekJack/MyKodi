@@ -706,7 +706,8 @@ https://feed.play.mv/live/10005200/jmW41EycvT/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-chno="558" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Biznet_Home_Logo.svg/1200px-Biznet_Home_Logo.svg.png" group-title="Documentary",ADVENTURE 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/chunklist_w45338377_b5256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1pSllpd3ZzQWhLTGdZanRNY294VnAxR1pnMVhXX3dOY3J2Zy1sY05xNlZkeXZfbFdWRXIwY1NFT0JDa0l5ZlRT.m3u8
 
-
+#EXTINF:-1 tvg-ID="" tvg-chno="558" tvg-logo="https://www.themoviedb.org/t/p/original/dT0hWF4qNncG7JgtqakwmQ2VqXy.jpg" group-title="Wayang Kulit",CandyMan
+http://m-cdn.fr33.click/M/b74830cbaa2d165025550ae65bbd8280?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
 
 

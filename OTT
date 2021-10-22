@@ -451,8 +451,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport",Astro SuperSport 4 HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 #http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+https://b.jazzy.to:30443/live/126/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMSA0OjI3OjIxIEFNJmhhc2hfdmFsdWU9d1hrdzg3Mi80aVVGSzd2RDlCYTExQT09JnZhbGlkbWludXRlcz0xMjA=
 
 #EXTINF: -1 tvg-id="AstroSupersport5" tvg-id="1815" group-title="Sport" tvg-chno="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png",Astro Supersport 5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -705,15 +706,6 @@ https://feed.play.mv/live/10005200/jmW41EycvT/master.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-chno="558" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Biznet_Home_Logo.svg/1200px-Biznet_Home_Logo.svg.png" group-title="Documentary",ADVENTURE 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/chunklist_w45338377_b5256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1pSllpd3ZzQWhLTGdZanRNY294VnAxR1pnMVhXX3dOY3J2Zy1sY05xNlZkeXZfbFdWRXIwY1NFT0JDa0l5ZlRT.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-chno="558" tvg-logo="https://www.themoviedb.org/t/p/original/dT0hWF4qNncG7JgtqakwmQ2VqXy.jpg" group-title="Wayang Kulit",CandyMan
-http://m-cdn.fr33.click/M/b74830cbaa2d165025550ae65bbd8280?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
-
-
-
-
-
-
 
 
 

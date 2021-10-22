@@ -685,6 +685,30 @@ http://31.220.41.88:8081/live/mfamily.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviespremiere.jpg" group-title="UK",  Sky Movies Premiere
 http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv-plus-1-uk.png" group-title="UK", itv 1
+http://93.190.139.35:8278/streams/d/itv1_antik/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv_uk_2.png" group-title="UK", itv 2
+http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv_uk_3.png" group-title="UK", itv 3
+http://93.190.139.35:8278/streams/d/itv3_antik/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv_uk_4.png" group-title="UK", itv 4
+http://93.190.139.35:8278/streams/d/itv4_antik/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sport", BT Sport
+http://master2c.uefa-tv.com:80/live/1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sport", BT Sport 2
+http://master2a.uefa-tv.com:80/live/2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sport", BT Sport 3
+http://master2a.uefa-tv.com:80/live/2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-espn-uk.png" group-title="Sport", BT Sport ESPN
+http://master2a.uefa-tv.com:80/live/4/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-ten1.jpg" group-title="Sport",Sony TEN 1
 https://feed.play.mv/live/10005200/fMLTkj4OJC/1.m3u8
 

@@ -453,7 +453,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport",Astro SuperSport 4 HD
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 #http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-https://b.jazzy.to:30443/live/126/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMSA0OjI3OjIxIEFNJmhhc2hfdmFsdWU9d1hrdzg3Mi80aVVGSzd2RDlCYTExQT09JnZhbGlkbWludXRlcz0xMjA=
+#https://b.jazzy.to:30443/live/126/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMSA0OjI3OjIxIEFNJmhhc2hfdmFsdWU9d1hrdzg3Mi80aVVGSzd2RDlCYTExQT09JnZhbGlkbWludXRlcz0xMjA=
+https://daddylive.me/embed/stream-126.php
 
 #EXTINF: -1 tvg-id="AstroSupersport5" tvg-id="1815" group-title="Sport" tvg-chno="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png",Astro Supersport 5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

@@ -524,7 +524,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
 #EXTINF:-1 tvg-id="AstroWarnaHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Astro",Astro Warna HD
-#http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
+http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 #http://190.2.133.47:8277/streams/d/Warna/playlist.m3u8
 #https://linears-playback.astro.com.my/vsg/21m6J4oA_cyadj407Yn2OYpCBiYOK7tZamCmAHHWc5p_0=0kmS/dash-wv/jitp-linearwm/2402/default_ott.mpd
 #http://zalogitv.tech:8080/luffytaro/2323/1818

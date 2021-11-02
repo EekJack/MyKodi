@@ -149,7 +149,7 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5199f1513a0286e038dae8f7d820010:4d4d4d9dc41be43f528a4940cf66f14c
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
-
+3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="Documentary",Discovery Channel HD 
@@ -232,19 +232,19 @@ https://master.server-cdn-streaming.com/api/live-player/32/live.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_th.png",True Sport 4 (TH)
 https://master.server-cdn-streaming.com/api/live-player/44/live.m3u8
 
-#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl1.png",Premier Football HD 1 (TH)
+#EXTINF:-1   tvg-id="N/A" group-title="Sport" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl1.png",Premier Football HD 1 (TH)
 https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl2.png",Premier Football HD 2 (TH)
+#EXTINF:-1   tvg-id="N/A" group-title="Sport" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl2.png",Premier Football HD 2 (TH)
 https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3 (TH)
+#EXTINF:-1   tvg-id="N/A" group-title="Sport" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3 (TH)
 https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4 (TH)
+#EXTINF:-1   tvg-id="N/A" group-title="ชSport" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4 (TH)
 https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1   tvg-id="N/A" group-title="ช่อง Sports" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl5.png",Premier Football HD 5(TH)
+#EXTINF:-1   tvg-id="N/A" group-title="Sport" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl5.png",Premier Football HD 5(TH)
 https://smart-tv.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SPOTV" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_th.png",True Sport 7 (TH)

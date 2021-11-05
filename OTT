@@ -773,8 +773,7 @@ https://feed.play.mv/live/10005200/jmW41EycvT/master.m3u8
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/chunklist_w45338377_b5256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1pSllpd3ZzQWhLTGdZanRNY294VnAxR1pnMVhXX3dOY3J2Zy1sY05xNlZkeXZfbFdWRXIwY1NFT0JDa0l5ZlRT.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Test", test1
-https://ewcdnsite02.nowe.com/session/09-a2060ab9ce0cc5d6f5bcdeca399b8/Content/HLS/LIVE/Channel(HLS_CH630)/index.m3u8?token=66f7365e92b588480613e67998d02ea5_1636091657
-
+http://livetv.dnsfor.me:80/channel.12.m3u8
 
 
 

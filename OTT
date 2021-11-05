@@ -569,7 +569,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 #http://190.2.133.47:8277/streams/d/Warna/playlist.m3u8
 #http://linears-playback.astro.com.my/vsg/21m6J4oA_cyadj407Yn2OYpCBiYOK7tZamCmAHHWc5p_0=0kmS/dash-wv/jitp-linearwm/2402/default_ott.mpd
 #http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
-http://king-tv.online:80/live/wctinney/aRaD1Pq2Rg/240990.ts
+#http://king-tv.online:80/live/wctinney/aRaD1Pq2Rg/240990.ts
+http://5.161.45.72:5080/WebRTCApp/streams/warna.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27536caa86695b7ededcc1f4a8ec7710:6183f4bb8a8b781c57eee44a08d0fa79
@@ -580,7 +581,8 @@ http://king-tv.online:80/live/wctinney/aRaD1Pq2Rg/240990.ts
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Astro" tvg-id="",Astro Ria HD
 #http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 #https://linears-playback.astro.com.my/vsg/21RXuNISnl14VoL90ntbat3A7TFvEz_ZqA3wlr9Y5DD34=2n7A/dash-wv/jitp-linearwm/1004/default_ott.mpd
-http://king-tv.online:80/live/wctinney/aRaD1Pq2Rg/240987.ts
+#http://king-tv.online:80/live/wctinney/aRaD1Pq2Rg/240987.ts
+http://5.161.45.72:5080/WebRTCApp/streams/riaa.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
@@ -769,6 +771,10 @@ https://feed.play.mv/live/10005200/jmW41EycvT/master.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-chno="558" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Biznet_Home_Logo.svg/1200px-Biznet_Home_Logo.svg.png" group-title="Documentary",ADVENTURE 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/chunklist_w45338377_b5256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1pSllpd3ZzQWhLTGdZanRNY294VnAxR1pnMVhXX3dOY3J2Zy1sY05xNlZkeXZfbFdWRXIwY1NFT0JDa0l5ZlRT.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Test", test1
+
+https://ewcdnsite02.nowe.com/session/09-a2060ab9ce0cc5d6f5bcdeca399b8/Content/HLS/LIVE/Channel(HLS_CH630)/index.m3u8?token=66f7365e92b588480613e67998d02ea5_1636091657
 
 
 

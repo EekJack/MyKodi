@@ -4,7 +4,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="HIT.MY" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="Movie",Hits 
+#EXTINF:-1 tvg-id="HIT.MY" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="Movie",Hits
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -700,7 +700,7 @@ https://rt-doc-gd.secure2.footprint.net/1101.m3u8
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="557" tvg-name="Discovery Science HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/375_144.png" group-title="Documentary",Discovery Science
-https://itvoign.multitvsolution.com/idvo/discoverscienceeng.m3u8
+https://itvoign.multitvsolution.com/idvo/discoverscienceeng_540p/index.m3u8
 
 #EXTINF:-1  tvg-id=""  group-title="Sport" tvg-logo="http://static.epg.best/gr/EdgeSport.gr.png" type="stream", Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
@@ -746,7 +746,8 @@ http://93.190.139.35:8278/streams/d/itv4_antik/playlist.m3u8
 http://king-tv.online:80/wctinney/aRaD1Pq2Rg/158259
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sport", BT Sport 2
-http://king-tv.online:80/wctinney/aRaD1Pq2Rg/158262
+#http://king-tv.online:80/wctinney/aRaD1Pq2Rg/158262
+http://93.152.174.144:4000/play/btsport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sport", BT Sport 3
 http://king-tv.online:80/wctinney/aRaD1Pq2Rg/158265

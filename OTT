@@ -615,17 +615,11 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 #EXTINF:-1 tvg-id="A+E.us" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/A%2BE_Networks_2017.svg/440px-A%2BE_Networks_2017.svg.png" group-title="US",A+E|Lively place
 http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="syfy.us" tvg-country="US" tvg-logo="https://www.syfy.com/sites/syfy/themes/wired/assets/images/icons/syfy.svg" group-title="US",SyFy
-https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="Movie",Star Movies
 http://84.17.41.7/StarMoviesHD-Hin/mono.m3u8
 
 #EXTINF:-1 tvg-id="1CHN" tvg-name="Star WORLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Star_World_HD_India.png" group-title="Movie",Star World HD
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="US",Discovery Channel
-https://bozztv.com/teleyupp/teleup-discovery/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jsQLDy1.png" group-title="US",FIGHT NIGHT
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Fight/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8

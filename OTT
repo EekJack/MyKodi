@@ -777,6 +777,9 @@ https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="4K" ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://play-lh.googleusercontent.com/RjM1R-ktRX0zRfdqLvCKrfMt9qFLSFXYP4Nt9ndfAFtbfeeyDeCijvbH-tT0T_UYM8s=s360",Loupe FHD
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
 
+#EXTINF:-1 ch-id="OUTSIDE (US)" tvg-logo="https://function-snow.com/wp-content/uploads/2013/03/Outside_logo.png"  group-title="4K",OUTSIDE (US)
+https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
+
 
 
 

@@ -773,6 +773,7 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 group-title="4K" ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_640/v1590012051/Dish/images/isolated/4k-logo-01_f78kb4",Clarity FHD
 https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8
+https://ent.gcdn.co/E332/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="4K" ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://play-lh.googleusercontent.com/RjM1R-ktRX0zRfdqLvCKrfMt9qFLSFXYP4Nt9ndfAFtbfeeyDeCijvbH-tT0T_UYM8s=s360",Loupe FHD
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
@@ -780,8 +781,93 @@ https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 ch-id="OUTSIDE (US)" tvg-logo="https://function-snow.com/wp-content/uploads/2013/03/Outside_logo.png"  group-title="4K",OUTSIDE (US)
 https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
 
-#EXTINF:-1 ch-id="A&E(US)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ae_us.png" group-title="Documentary",A&E (US)
+#EXTINF:-1 ch-id="A&E(US)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ae_us.png" group-title="US",A&E (US)
 https://ent.gcdn.co/E1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="A&E(US)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="US",Animal Planet (US)
+https://ent.gcdn.co/E13/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="A&E(US)" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmt-us.png" group-title="US",CMT (US)
+https://ent.gcdn.co/E33/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us.png" group-title="US",Discovery Turbo (US)
+https://ent.gcdn.co/E50/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/diy_network_ca.png" group-title="US",Diy Network (US)
+https://ent.gcdn.co/E52/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx_us.png" group-title="US",FX (US)
+https://ent.gcdn.co/E71/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fxm-us.png" group-title="US",FXM (US)
+https://ent.gcdn.co/E72/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fxx_east.png" group-title="US",FXX (US)
+https://ent.gcdn.co/E73/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fyi_us.png" group-title="US",Fyi (US)
+https://ent.gcdn.co/E74/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hallmark_channel_east.png" group-title="US",Hallmark Channel (US)
+https://ent.gcdn.co/E88/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hallmark-drama-us.png" group-title="US",Hallmark Drama (US)
+https://ent.gcdn.co/E89/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hallmark_movies_mysteries_east.png" group-title="US",Hallmark Movies & More (US)
+https://ent.gcdn.co/E90/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hallmark_movies_mysteries_east.png" group-title="US",Hallmark Movies & Mystery (US)
+https://ent.gcdn.co/E91/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="US",HGTV (US)
+https://ent.gcdn.co/E93/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="US",History (US)
+https://ent.gcdn.co/E94/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ii/ifc_east.png" group-title="US",IFC (US)
+https://ent.gcdn.co/E97/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ii/investigation-discovery-us.png" group-title="US",ID (US)
+https://ent.gcdn.co/E100/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://image.roku.com/developer_channels/prod/3b7841e4bbba7534e129db9d0eba1a9ac173d1899590822b2122080cb405e9c7.png" group-title="US",Journy (US)
+https://ent.gcdn.co/E103/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifetime-africa-us.png" group-title="US",Lifetime (US)
+https://ent.gcdn.co/E107/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifetime-movies-us.png" group-title="US",LMN (US)
+https://ent.gcdn.co/E108/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/lively-place.jpg?w=405&ssl=1" group-title="US",Lively place (US)
+htps://ent.gcdn.co/E109/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/225px-History_Logo.svg.png" group-title="US",History² (US)
+htps://ent.gcdn.co/E112/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MTV_HD_Logo_2015.png/800px-MTV_HD_Logo_2015.png" group-title="US",MTV (US)
+htps://ent.gcdn.co/E115/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-classic-uk-us-uk.png" group-title="US",MTV Classic (US)
+htps://ent.gcdn.co/E117/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-live-hd-us.png" group-title="US",MTV Live (US)
+htps://ent.gcdn.co/E118/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

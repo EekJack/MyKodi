@@ -892,6 +892,50 @@ https://ent.gcdn.co/E139/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movie-1.png" group-title="US",Movie1 (US)
 https://ent.gcdn.co/E142/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/smithsonian-channel-us.png" group-title="US",Smithsonian channel (US)
+https://ent.gcdn.co/E146/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-movies-us-uk.png" group-title="US",Sony Movie (US)
+https://ent.gcdn.co/E147/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sundance_tv_us.png" group-title="US",Sundance (US)
+https://ent.gcdn.co/E148/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syfy_us_global.png" group-title="US",SyFy (US)
+https://ent.gcdn.co/E150/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs_br.png" group-title="US",TBS (US)
+https://ent.gcdn.co/E152/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt_es.png" group-title="US",TNT (US)
+https://ent.gcdn.co/E158/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel-channel-usa-us.png" group-title="US",TRVL Channel (US)
+https://ent.gcdn.co/E159/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tru_tv_lam.png" group-title="US",TRU (US)
+https://ent.gcdn.co/E160/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/uu/usa_network_east.png" group-title="US",USA (US)
+https://ent.gcdn.co/E168/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vice-uk-us.png" group-title="US",Vice (US)
+https://ent.gcdn.co/E170/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ww/we_tv_us.png" group-title="US",We Tv (US)
+https://ent.gcdn.co/E172/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/nn/newsnation-us.png" group-title="US",Newsnation (US)
+https://ent.gcdn.co/E175/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/330px-UFC_Logo.svg.png" group-title="Sport",UFC (US)
+https://ent.gcdn.co/S37/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/320px-Impact_Wrestling_Logo.svg.png" group-title="Sport",TNA Wrestling (US)
+https://ent.gcdn.co/S46/tracks-v1a1/mono.m3u8
+
+
+
 
 
 

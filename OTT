@@ -842,28 +842,55 @@ https://ent.gcdn.co/E107/tracks-v1a1/mono.m3u8
 https://ent.gcdn.co/E108/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ch-id="" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/lively-place.jpg?w=405&ssl=1" group-title="US",Lively place (US)
-htps://ent.gcdn.co/E109/tracks-v1a1/mono.m3u8
+https://ent.gcdn.co/E109/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ch-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/225px-History_Logo.svg.png" group-title="US",History² (US)
-htps://ent.gcdn.co/E112/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ch-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/225px-History_Logo.svg.png" group-title="US",History S2 (US)
+https://ent.gcdn.co/E112/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ch-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MTV_HD_Logo_2015.png/800px-MTV_HD_Logo_2015.png" group-title="US",MTV (US)
-htps://ent.gcdn.co/E115/tracks-v1a1/mono.m3u8
+https://ent.gcdn.co/E115/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-classic-uk-us-uk.png" group-title="US",MTV Classic (US)
-htps://ent.gcdn.co/E117/tracks-v1a1/mono.m3u8
+https://ent.gcdn.co/E117/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-live-hd-us.png" group-title="US",MTV Live (US)
-htps://ent.gcdn.co/E118/tracks-v1a1/mono.m3u8
+https://ent.gcdn.co/E118/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" group-title="US",Nat Geo Wild (US)
+https://ent.gcdn.co/E121/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us_hd.png" group-title="US",National Geographic (US)  
+https://ent.gcdn.co/E122/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/oo/outdoor-channel-us.png" group-title="US",Outdoor+ (US)
+https://ent.gcdn.co/E123/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/oo/outside-tv-us.png" group-title="US",Outside (US)
+https://ent.gcdn.co/E124/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/oo/ovation-us.png" group-title="US",Ovition (US)
+https://ent.gcdn.co/E125/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/city-tv-co.png" group-title="US",CityTv (US)
+https://ent.gcdn.co/E126/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/oo/oprah-winfrey-network-us.png" group-title="US",OWN (US)
+https://ent.gcdn.co/E129/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/oo/oxygen_tv_us_east.png" group-title="US",Oxygen Truecrime (US)
+https://ent.gcdn.co/E130/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/paramount-network-latin-america-us.png" group-title="US",Parmount Network (US)
+https://ent.gcdn.co/E131/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop-in.png" group-title="US",Pop (US)
+https://ent.gcdn.co/E134/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/rr/reelz_tv_us.png" group-title="US",Reelz (US)
+https://ent.gcdn.co/E139/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movie-1.png" group-title="US",Movie1 (US)
+https://ent.gcdn.co/E142/tracks-v1a1/mono.m3u8
 
 
 

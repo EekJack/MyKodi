@@ -949,6 +949,43 @@ https://ent.gcdn.co/E16/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ww/we_tv_us.png" group-title="US",WE TV (US)
 https://ent.gcdn.co/E5/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/awe_us_international.png" group-title="US",AWE (US)
+https://ent.gcdn.co/E18/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axs-tv-us.png" group-title="US",AXS (US)
+https://ent.gcdn.co/E19/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_america_east.png" group-title="US",BBC AMERICA (US)
+https://ent.gcdn.co/E20/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/court-tv-us.png" group-title="US",COURT TV (US)
+https://ent.gcdn.co/E42/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Crime_and_Investigation_logo.png/200px-Crime_and_Investigation_logo.png" group-title="US",CI (US)
+https://ent.gcdn.co/E45/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/corp/dd/discovery_networks.png" group-title="US",DISCOVERY CHANNEL (US)
+https://ent.gcdn.co/E47/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_life_pl.png" group-title="US",DISCOVERY LIFE (US)
+https://ent.gcdn.co/E49/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

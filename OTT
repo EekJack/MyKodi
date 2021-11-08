@@ -934,8 +934,20 @@ https://ent.gcdn.co/S37/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/320px-Impact_Wrestling_Logo.svg.png" group-title="Sport",TNA Wrestling (US)
 https://ent.gcdn.co/S46/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sport",NBCSN (US)
+https://ent.gcdn.co/S10/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png" group-title="US",CNN (US)
+https://ent.gcdn.co/N5/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="US",AMC+ (US)
+https://ent.gcdn.co/E4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aptn-ca.png" group-title="US",APTN (US)
+https://ent.gcdn.co/E16/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ww/we_tv_us.png" group-title="US",WE TV (US)
+https://ent.gcdn.co/E5/tracks-v1a1/mono.m3u8
 
 
 

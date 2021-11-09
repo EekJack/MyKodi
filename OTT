@@ -487,7 +487,8 @@ http://king-tv.online:80/live/wctinney/aRaD1Pq2Rg/240969.ts
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sport",Astro SuperSport 3 HD
 #http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 #https://linears-playback.astro.com.my/vsg/215nsy9IqHEeMRCoTmBdMY91FnSAKM4KIx3fA7TzTOQmc=59k8/dash-wv/jitp-linearwm/2701/default_ott.mpd
-http://king-tv.online:80/live/wctinney/aRaD1Pq2Rg/240970.ts
+#http://king-tv.online:80/live/wctinney/aRaD1Pq2Rg/240970.ts
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6711
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e

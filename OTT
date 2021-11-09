@@ -696,30 +696,6 @@ https://itvoign.multitvsolution.com/idvo/discoverscienceeng_540p/index.m3u8
 #EXTINF:-1  tvg-id=""  group-title="Sport" tvg-logo="http://static.epg.best/gr/EdgeSport.gr.png" type="stream", Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/225px-A%26E_Network_logo.svg.png" group-title="US",A&E US
-http://stream.tvtap.net:8081/live/us-ae.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5znakl6.png?v=1.0.0.1" group-title="Documentary", Smithsonian Channel
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviesactionnadventure.jpg" group-title="UK",  Sky Movies Action & Adventure
-http://31.220.41.88:8081/live/maction.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviescomedy.jpg" group-title="UK",  Sky Movies Comedy 
-http://31.220.41.88:8081/live/mcomedy.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviescrimenthriller.jpg" group-title="UK",  Sky Movies Crime & Thriller
-http://31.220.41.88:8081/live/mcrime.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/c/ce/Media-sky-movies-disney_1.jpg" group-title="UK",  Sky Movies Disney
-http://31.220.41.88:8081/live/mdisney.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviesfamily.jpg" group-title="UK",  Sky Movies Family
-http://31.220.41.88:8081/live/mfamily.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviespremiere.jpg" group-title="UK",  Sky Movies Premiere
-http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv-plus-1-uk.png" group-title="UK", itv 1
 http://93.190.139.35:8278/streams/d/itv1_antik/playlist.m3u8
 

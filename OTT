@@ -480,7 +480,8 @@ http://king-tv.online:80/live/wctinney/aRaD1Pq2Rg/240968.ts
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sport",Astro SuperSport 2 HD
 #http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 #https://linears-playback.astro.com.my/vsg/21tNJ9cMnYq2a8xh-znfBPp-zvpdiz3AcVMZcFEgmoWhM=ZkXG/dash-wv/jitp-linearwm/2104/default_ott.mpd
-http://king-tv.online:80/live/wctinney/aRaD1Pq2Rg/240969.ts
+#http://king-tv.online:80/live/wctinney/aRaD1Pq2Rg/240969.ts
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6710
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
@@ -495,7 +496,8 @@ http://iptv.tvmalaysia.cc:80/penang189/penang189/6711
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport",Astro SuperSport 4 HD
 #https://linears-playback.astro.com.my/vsg/21X5ABbEdiychGdeEompx6_rEda7xfd3rxpoQ1wiOx04w=wuFb/dash-wv/jitp-linearwm/2506/default_ott.mpd
 #http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-http://king-tv.online:80/live/wctinney/aRaD1Pq2Rg/240971.ts
+#http://king-tv.online:80/live/wctinney/aRaD1Pq2Rg/240971.ts
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6712
 
 #EXTINF: -1 tvg-id="AstroSupersport5" tvg-id="1815" group-title="Sport" tvg-chno="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png",Astro Supersport 5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

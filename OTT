@@ -7,7 +7,7 @@
 #EXTINF:-1 tvg-id="HIT.MY" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="Movie",Hits
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="1401" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movie",Hits Movies HD
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
@@ -109,7 +109,7 @@ https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mp
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=97d54657824bd76ad454598ff06e9a10:8d43177cec60e6eecc1b9cc1b9946b36
-#EXTINF:-1 group-title="Documentary" tvg-id="1551" tvg-chno="551" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png",National Geographic HD
+#EXTINF:-1 group-title="Documentary" tvg-id="1551" tvg-chno="551" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png",National Geographic HD (MY)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -127,7 +127,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/136_144.png" group-title="Documentary",Discovery Asia HD
 #https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-http://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/lineare/501/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -569,10 +569,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
 #EXTINF:-1 tvg-id="AstroWarnaHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Astro",Astro Warna HD
-#http://190.2.133.47:8277/streams/d/Warna/playlist.m3u8
+http://190.2.133.47:8277/streams/d/Warna/playlist.m3u8
 #http://linears-playback.astro.com.my/vsg/21m6J4oA_cyadj407Yn2OYpCBiYOK7tZamCmAHHWc5p_0=0kmS/dash-wv/jitp-linearwm/2402/default_ott.mpd
 #http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
-http://king-tv.online:80/live/wctinney/aRaD1Pq2Rg/240990.ts
+#http://king-tv.online:80/live/wctinney/aRaD1Pq2Rg/240990.ts
 #http://5.161.45.72:5080/WebRTCApp/streams/warna.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

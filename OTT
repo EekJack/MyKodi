@@ -115,7 +115,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="Documentary" ch-number="1550" tvg-id="1550" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild HD
-https://liveanevia.mncnow.id/live/es/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

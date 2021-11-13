@@ -1,6 +1,9 @@
 #EPG
 #EXTM3U x-tvg-url="https://epg.kampung.xyz/IPTV.xml.gz"
 
+#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/10/spotv_small.png" group-title="SPORTS", SPOTV
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
+
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1

@@ -209,7 +209,8 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 tvg-id="SPOTV" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",SPOTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.pngj",SPOTV HD (TH)
 https://master.server-cdn-streaming.com/api/live-player/37/live.m3u8

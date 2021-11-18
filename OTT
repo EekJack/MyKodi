@@ -220,19 +220,19 @@ https://master.server-cdn-streaming.com/api/live-player/37/live.m3u8
 https://master.server-cdn-streaming.com/api/live-player/39/live.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_tennis.png",True Tennis (TH)
-https://master.server-cdn-streaming.com/api/live-player/34/live.m3u8
+https://smart-tv.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_th.png",True Sport 1 (TH)
-https://master.server-cdn-streaming.com/api/live-player/30/live.m3u8
+https://smart-tv.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_th.png",True Sport 2 (TH)
-https://master.server-cdn-streaming.com/api/live-player/31/live.m3u8
+https://smart-tv.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_th.png",True Sport 3 (TH)
-https://master.server-cdn-streaming.com/api/live-player/32/live.m3u8
+https://smart-tv.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_th.png",True Sport 4 (TH)
-https://master.server-cdn-streaming.com/api/live-player/44/live.m3u8
+https://smart-tv.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8
 
 #EXTINF:-1   tvg-id="N/A" group-title="Sport" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl1.png",Premier Football HD 1 (TH)
 https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8

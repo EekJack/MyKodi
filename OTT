@@ -691,9 +691,6 @@ http://31.220.41.88:8081/live/us-starzencore.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rtd.rt.com/s/redesign/pub/img/logo.png" group-title="Documentary" type="stream",RT Documentary
 https://rt-doc-gd.secure2.footprint.net/1101.m3u8
 
-#EXTINF:-1 tvg-id="557" tvg-name="Discovery Science HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/375_144.png" group-title="Documentary",Discovery Science
-https://itvoign.multitvsolution.com/idvo/discoverscienceeng_540p/index.m3u8
-
 #EXTINF:-1  tvg-id=""  group-title="Sport" tvg-logo="http://static.epg.best/gr/EdgeSport.gr.png" type="stream", Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 

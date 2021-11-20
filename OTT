@@ -585,9 +585,8 @@ http://190.2.133.47:8277/streams/d/Warna/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Astro" tvg-id="",Astro Ria HD
-#http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
+http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
 #https://linears-playback.astro.com.my/vsg/21RXuNISnl14VoL90ntbat3A7TFvEz_ZqA3wlr9Y5DD34=2n7A/dash-wv/jitp-linearwm/1004/default_ott.mpd
-http://king-tv.online:80/live/wctinney/aRaD1Pq2Rg/240987.ts
 #http://5.161.45.72:5080/WebRTCApp/streams/riaa.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

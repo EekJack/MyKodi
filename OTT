@@ -583,10 +583,10 @@ http://50.7.161.82:8277/streams/d/warna_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="1CHN" group-title="Astro" tvg-logo="https://i.postimg.cc/3rZbXvD8/astro-25-white.png",Astro 25#http://linearjitp-playback.astro.com.my/dash-wv/linear/5046/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/9c71c4a2-29c5-469b-abe5-8fe576a92fad
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Astro" tvg-id="",Astro Ria HD
-http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
-#https://linears-playback.astro.com.my/vsg/21RXuNISnl14VoL90ntbat3A7TFvEz_ZqA3wlr9Y5DD34=2n7A/dash-wv/jitp-linearwm/1004/default_ott.mpd
+#http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
+https://linears-playback.astro.com.my/vsg/21yKfvuijGFluFOO2tq33h-R3Sv38Smvx4p6SF72XA-YM=tqbh/dash-wv/jitp-linearwm/1004/default_ott.mpd
 #http://5.161.45.72:5080/WebRTCApp/streams/riaa.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

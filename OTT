@@ -1,6 +1,3 @@
-#EPG
-#EXTM3U x-tvg-url="https://epg.kampung.xyz/IPTV.xml.gz"
-
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1

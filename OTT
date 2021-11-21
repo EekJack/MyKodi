@@ -19,12 +19,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 group-title="Entertainment" ch-number="1712" tvg-id="1712" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png",Warner TV HD
+#EXTINF:-1 group-title="Movie" ch-number="1712" tvg-id="1712" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png",Warner TV HD
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
-#EXTINF:-1 tvg-id="1712" tvg-chno="712" tvg-logo="https://i.kampung.xyz/c/528a44ee230855d4.png" group-title="Entertainment",Warner TV HD (MY)
+#EXTINF:-1 tvg-id="1712" tvg-chno="712" tvg-logo="https://i.kampung.xyz/c/528a44ee230855d4.png" group-title="movie",Warner TV HD (MY)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 

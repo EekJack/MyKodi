@@ -619,9 +619,6 @@ http://84.17.41.7/StarMoviesHD-Hin/mono.m3u8
 #EXTINF:-1 tvg-id="1CHN" tvg-name="Star WORLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Star_World_HD_India.png" group-title="Entertainment",Star World HD
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_us.png",Fox Movie EU
-http://93.157.62.180/FoxMovies/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jsQLDy1.png" group-title="US",FIGHT NIGHT
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Fight/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #https://bk7l2w4nlx53-hls-live.5centscdn.com/Fight/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
@@ -947,8 +944,8 @@ https://ent.gcdn.co/E47/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_life_pl.png" group-title="US",DISCOVERY LIFE (US)
 https://ent.gcdn.co/E49/index.m3u8
 
-#EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" tvg-language="Chinese" group-title="Movie" ,Fox Movie
-http://60.251.59.178:8527/http/192.168.77.7:8088/hls/105/startwest89.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_us.png",Fox Movie EU
+http://93.157.62.180/FoxMovies/tracks-v1a1/mono.m3u8
 
 
 

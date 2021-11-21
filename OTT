@@ -619,8 +619,6 @@ http://84.17.41.7/StarMoviesHD-Hin/mono.m3u8
 #EXTINF:-1 tvg-id="1CHN" tvg-name="Star WORLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Star_World_HD_India.png" group-title="Entertainment",Star World HD
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 
-http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_us.png",Fox Movie EU
 http://93.157.62.180/FoxMovies/tracks-v1a1/mono.m3u8
 

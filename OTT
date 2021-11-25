@@ -278,7 +278,8 @@ https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
 #EXTINF:-1 tvg-id="1411" tvg-chno="411" tvg-logo="https://i.kampung.xyz/c/440f2167f6a964e6.png" group-title="Movie",HBO HD (MY)
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1

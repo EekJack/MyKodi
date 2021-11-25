@@ -584,7 +584,8 @@ http://analoquetv.online/streams/d/Ria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Astro" tvg-id="",Astro Citra HD
 #https://linears-playback.astro.com.my/vsg/21WCeHYnTAyJsujgzvS2V3j0JA89WTnE-c2eZI81mv62Q=rP8Y/dash-wv/jitp-linearwm/2700/default_ott.mpd
 #http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-http://analoquetv.online/streams/d/Citra/playlist.m3u8
+#http://analoquetv.online/streams/d/Citra/playlist.m3u8
+http://194.233.86.5:5080/WebRTCApp/streams/citra.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
@@ -713,28 +714,22 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 http://king-tv.online:80/wctinney/aRaD1Pq2Rg/158265
 
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-ten1.jpg" group-title="Sport",Sony TEN 1
-#https://feed.play.mv/live/10005200/fMLTkj4OJC/1.m3u8
-http://tv.alphamediazone.com:8089/thunderbd/20/index.m3u8
+https://feed.play.mv/live/10005200/fMLTkj4OJC/1.m3u8
 
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-ten2.jpg" group-title="Sport",Sony TEN 2
-#https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
-#http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8
-http://jo123.biz/jweb/m3u8.php?c=Ten_2&q=800&e=junk.m3u8
+https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-ten-3.jpg" group-title="Sport",Sony TEN 3
-#https://feed.play.mv/live/10005200/RG2fKR6d9p/1.m3u8
-http://tv.alphamediazone.com:8089/thunderbd/22/index.m3u8
+https://feed.play.mv/live/10005200/RG2fKR6d9p/1.m3u8
 
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-six.jpg" group-title="Sport",Sony Six
-#https://feed.play.mv/live/10005200/hr55LTnS53/1.m3u8
-http://tv.alphamediazone.com:8089/thunderbd/24/index.m3u8
+https://feed.play.mv/live/10005200/hr55LTnS53/1.m3u8
 
 #EXTINF:-1 ch-id="SONY BBC EARTH HD" tvg-logo="https://1.bp.blogspot.com/-zYAP2nGr09g/YO57CSxsBCI/AAAAAAAAAdc/OUmF6g4zkrIY2QqMPPmDwE2YHWNbCu18wCLcBGAsYHQ/s200/images%252815%2529.jpeg"  group-title="Documentary",SONY BBC EARTH HD
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 
 #EXTINF:-1 ch-id="SONY PIX HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Sony_Pix_2013.svg/revision/latest/scale-to-width-down/183?cb=20200122045551"  group-title="Movie",SONY PIX HD
-#https://feed.play.mv/live/10005200/jmW41EycvT/master.m3u8
-http://tv.alphamediazone.com:8089/thunderbd/41/index.m3u8
+https://feed.play.mv/live/10005200/jmW41EycvT/master.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-Europe.png",Cinema Europe HD
 https://feed.play.mv/live/10005200/Ts9R8pNNTP/master.m3u8

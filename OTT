@@ -187,11 +187,6 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://static.epg.best/th/Lifetime.th.png" group-title="Entertainment",Lifetime 
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4db23a41babfe9afc222a58c59828310:d0e794e3cff564ed2c720a098eb177c7
-#EXTINF:-1 group-title="Sport" tvg-id="1820" tvg-chno="820" tvg-logo="https://i.kampung.xyz/c/e7768302090d232a.png",Eurosport HD (MY)
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
-
 #EXTINF:-1 group-title="Sport" tvg-id="1818" tvg-chno="818" tvg-logo="https://i.kampung.xyz/c/f0c8666d9f69d75e.png",beIN Sports 1 HD (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e

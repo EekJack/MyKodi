@@ -758,6 +758,8 @@ https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_us.png",Fox Movie EU
 http://93.157.62.180/FoxMovies/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/oo/osn-action-ae.png",O
+http://56.frehafroha.xyz.global.prod.fastly.net:80/live/031/index.m3u8
 
 
 

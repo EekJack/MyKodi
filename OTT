@@ -564,7 +564,7 @@ https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Astro" tvg-id="Prima",Astro Prima HD
 #http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
-http://194.233.86.5:5080/WebRTCApp/streams/citra.m3u8
+http://194.233.86.5:5080/WebRTCApp/streams/prima.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318

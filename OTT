@@ -116,14 +116,16 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="Documentary" ch-number="1550" tvg-id="1550" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild HD
+#EXTINF:-1 group-title="Documentary" ch-number="1550" tvg-id="1550" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild HD (ID)
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21e149afb0b7c99e25914e8101b90510:3e956389740e8f754bb7b93236566e1d
-#EXTINF:-1 group-title="Documentary" tvg-id="1550" tvg-chno="550" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild HD (MY)
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
+#EXTINF:-1 group-title="Documentary" tvg-id="1550" tvg-chno="550" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild HD (AR)
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
+#http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+http://56.frehafroha.xyz.global.prod.fastly.net:80/live/046/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
@@ -277,7 +279,7 @@ https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
-#EXTINF:-1 tvg-id="1411" tvg-chno="411" tvg-logo="https://i.kampung.xyz/c/440f2167f6a964e6.png" group-title="Movie",HBO HD (MY)
+#EXTINF:-1 tvg-id="1411" tvg-chno="411" tvg-logo="https://i.kampung.xyz/c/440f2167f6a964e6.png" group-title="Movie",HBO HD (VN)
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 
@@ -755,11 +757,21 @@ https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 ch-id="OUTSIDE (US)" tvg-logo="https://function-snow.com/wp-content/uploads/2013/03/Outside_logo.png"  group-title="4K",OUTSIDE (US)
 https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_us.png",Fox Movie EU
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_us.png",Fox Movie (EU)
 http://93.157.62.180/FoxMovies/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/oo/osn-action-ae.png",O
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/oo/osn-action-ae.png",Osn Action (AR)
 http://56.frehafroha.xyz.global.prod.fastly.net:80/live/031/index.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/corp/oo/osn-ae.png",Osn Thrill (AR)
+http://56.frehafroha.xyz.global.prod.fastly.net:80/live/034/index.m3u8
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://www.lyngsat.com/logo/tv/ee/e_global_us.png",E
+http://56.frehafroha.xyz.global.prod.fastly.net:80/live/037/index.m3u8
+
+
+
+
 
 
 

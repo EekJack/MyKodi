@@ -98,7 +98,8 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/RTM_HD_Sports.png/450px-RTM_HD_Sports.png" group-title="Sport",Sukan RTM
-http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -165,7 +166,7 @@ https://smart-tv.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
 https://master.server-cdn-streaming.com/api/live-player/43/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="Sport" tvg-id="wwe",WWE Network HD
-http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+http://wanicelife.com:8880/SFL143456/73U700Y1/1698
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -175,7 +176,8 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="Movie",HBO HD
-https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
+#https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
+http://wanicelife.com:8880/SFL143456/73U700Y1/71057
 
 #EXTINF:-1 tvg-id="1411" tvg-chno="411" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="Movie",HBO HD (VN)
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
@@ -364,53 +366,53 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
 #EXTINF:-1 group-title="Lokal" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
+#EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 
 #EXTINF:-1 group-title="Lokal" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
+#EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 #EXTINF:-1 group-title="Lokal" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",TV Okey
-https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
 #EXTINF:-1 group-title="Lokal" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
 #EXTINF:-1 group-title="Lokal" ch-number="" tvg-id="122" tvg-chno="122" tvg-logo="https://www.lyngsat.com/logo/tv/dd/drama-sangat-my.png",Drama Sangat
-http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 #EXTINF:-1 group-title="Lokal" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM HD
-https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
 #EXTINF:-1 tvg-id="TV6" group-title="Lokal" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
-# https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Astro" tvg-id="Prima",Astro Prima HD
-#http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8
-http://194.233.86.5:5080/WebRTCApp/streams/prima.m3u8
+http://wanicelife.com:8880/SFL143456/73U700Y1/71020
+#http://194.233.86.5:5080/WebRTCApp/streams/prima.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarnaHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Astro",Astro Warna HD
 http://190.2.133.47:8277/streams/d/Warna/playlist.m3u8
-#http://analoquetv.online/streams/d/Warna/playlist.m3u8
-#http://50.7.161.82:8278/streams/d/warnahd_pye/playlist.m3u8
-#http://5.161.45.72:5080/WebRTCApp/streams/warna.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Astro" tvg-id="",Astro Ria HD
-#http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
-#http://analoquetv.online/streams/d/Ria/playlist.m3u8
-http://iptv.tvmalaysia.cc:80/321456/321456/6730
+http://wanicelife.com:8880/SFL143456/73U700Y1/1705
+#http://iptv.tvmalaysia.cc:80/321456/321456/6730
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Astro" tvg-id="",Astro Citra HD
-http://iptv.tvmalaysia.cc:80/penang189/penang189/7267
-#http://analoquetv.online/streams/d/Citra/playlist.m3u8
-#http://194.233.86.5:5080/WebRTCApp/streams/citra.m3u8
+http://wanicelife.com:8880/SFL143456/73U700Y1/71146
+#http://iptv.tvmalaysia.cc:80/penang189/penang189/7267
 
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://i.kampung.xyz/c/fc303efb9f4b7cb6.png" group-title="Astro",Astro Rania HD
-#http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
-http://194.233.86.5:5080/WebRTCApp/streams/rania.m3u8
+http://wanicelife.com:8880/SFL143456/73U700Y1/71144
+#http://194.233.86.5:5080/WebRTCApp/streams/rania.m3u8
 
 #EXTINF:-1 tvg-id="1113" tvg-chno="113" tvg-logo="https://i.kampung.xyz/c/56772be37fe8b846.png" group-title="Astro",Astro Aura HD
-http://194.233.86.5:5080/WebRTCApp/streams/aura.m3u8
+http://wanicelife.com:8880/SFL143456/73U700Y1/71145
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="News" tvg-id="",BERNAMA
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8

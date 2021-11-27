@@ -331,20 +331,24 @@ http://tv.alphamediazone.com:8089/thunderbd/78/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/440_144.png" group-title="Sport",Astro SuperSport 1 HD
-https://tinyurl.com/32a67rds
+http://wanicelife.com:8880/SFL143456/73U700Y1/59220
+#https://tinyurl.com/32a67rds
 #http://king-tv.online:80/live/wctinney/aRaD1Pq2Rg/240968.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sport",Astro SuperSport 2 HD
-https://tinyurl.com/2p83wnb7
+http://wanicelife.com:8880/SFL143456/73U700Y1/59219
+#https://tinyurl.com/2p83wnb7
 #http://king-tv.online:80/live/wctinney/aRaD1Pq2Rg/240969.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sport",Astro SuperSport 3 HD
+http://wanicelife.com:8880/SFL143456/73U700Y1/59218
 #http://king-tv.online:80/live/wctinney/aRaD1Pq2Rg/240970.ts
-https://tinyurl.com/jphhjphz
+#https://tinyurl.com/jphhjphz
 
 #EXTINF:-1 tvg-id="814" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport",Astro SuperSport 4 HD
+http://wanicelife.com:8880/SFL143456/73U700Y1/59217
 #http://king-tv.online:80/live/wctinney/aRaD1Pq2Rg/240971.ts
-https://tinyurl.com/3emjvrm6
+#https://tinyurl.com/3emjvrm6
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tbur8nX.png?v=1.0.0.1" group-title="Documentary",Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8

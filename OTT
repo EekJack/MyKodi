@@ -598,6 +598,11 @@ http://211.23.114.106:8554/http/116.50.42.19:8081/hls/74/816/ch55.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/macau_lotus_tv_mo.png" group-title="Movie",Lotus Macau
 http://nettvpro.live/hls/lotustv.php
 
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://thumbs.dreamstime.com/b/24-7-symbol-14240865.jpg" group-title="Movie",Jackie Chan
+http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
+
+
+
 
 
 

@@ -357,8 +357,14 @@ http://wanicelife.com:8880/SFL143456/73U700Y1/59217
 #http://king-tv.online:80/live/wctinney/aRaD1Pq2Rg/240971.ts
 #https://tinyurl.com/3emjvrm6
 
+#EXTINF:-1 tvg-id="814" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sport",Astro SuperSport 5 HD
+http://starshare.live:8080/live/eppk4170/hgda5248/19000.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="Sport",Astro Arena
 http://wanicelife.com:8880/SFL143456/73U700Y1/71102
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="Sport",Astro Arena 2
+http://starshare.live:8080/live/eppk4170/hgda5248/44356.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tbur8nX.png?v=1.0.0.1" group-title="Documentary",Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8

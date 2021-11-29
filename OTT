@@ -603,6 +603,18 @@ http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://thumbs.dreamstime.com/b/24-7-symbol-14240865.jpg" group-title="Movie",Stephen Chow
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
 
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Discovery_Shed.png/150px-Discovery_Shed.png" group-title="Documentary",Discovery Shed (UK)
+http://starshare.live:8080/live/eppk4170/hgda5248/1077.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/150px-InvestigationDiscovery.png" group-title="Documentary",Discovery Investigation (CA)
+http://starshare.live:8080/live/eppk4170/hgda5248/1556.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://en3yksrguy-flywheel.netdna-ssl.com/wp-content/uploads/Discovery-History-Logo.jpg" group-title="Documentary",Discovery History (UK)
+http://starshare.live:8080/live/eppk4170/hgda5248/9854.m3u8
+
+
+
+
 
 
 

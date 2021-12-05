@@ -94,7 +94,7 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="Documentary",Crime & Investigation HD
 #https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-http://clientportal-proiptv.club:8080/Kw1BJrMzhu/GyDD5fRYxv/33270?play_token=1XHqAlhKwd
+http://clientportal-proiptv.club:8080/Kw1BJrMzhu/GyDD5fRYxv/33270
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/102_144.png" group-title="Documentary",DMAX
 rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74

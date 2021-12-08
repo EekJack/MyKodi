@@ -407,9 +407,6 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-name="Hallmark Movies & More" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" tvg-url="" group-title="US",Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A+E.us" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/A%2BE_Networks_2017.svg/440px-A%2BE_Networks_2017.svg.png" group-title="US",A+E|Lively place
-http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="Movie",Star Movies
 http://84.17.41.7/StarMoviesHD-Hin/mono.m3u8
 
@@ -476,20 +473,7 @@ https://rt-doc-gd.secure2.footprint.net/1101.m3u8
 #EXTINF:-1  tvg-id=""  group-title="Sport" tvg-logo="http://static.epg.best/gr/EdgeSport.gr.png" type="stream", Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv-plus-1-uk.png" group-title="UK", itv 1
-http://93.190.139.35:8278/streams/d/itv1_antik/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv_uk_2.png" group-title="UK", itv 2
-http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv_uk_3.png" group-title="UK", itv 3
-http://93.190.139.35:8278/streams/d/itv3_antik/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv_uk_4.png" group-title="UK", itv 4
-http://93.190.139.35:8278/streams/d/itv4_antik/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sport", BT Sport 1
-#http://master2c.uefa-tv.com:80/live/1/chunks.m3u8
 https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/BTSP1HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sport", BT Sport 2
@@ -497,11 +481,9 @@ https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/BTSP1HD.m3u8
 https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/BTSP2HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sport", BT Sport 3
-#http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=51
 https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/BTSP3HD.m3u8
 
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-ten1.jpg" group-title="Sport",Sony TEN 1
-#https://feed.play.mv/live/10005200/fMLTkj4OJC/1.m3u8
 http://103.131.212.138:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-ten2.jpg" group-title="Sport",Sony TEN 2
@@ -511,7 +493,6 @@ http://ablivetv.webd.pro/star7/star7.php?id=48148&e=.m3u8
 http://ablivetv.webd.pro/star7/star7.php?id=48162&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-six.jpg" group-title="Sport",Sony Six
-#https://feed.play.mv/live/10005200/hr55LTnS53/1.m3u8
 http://starshare.live:8080/live/eppk4170/hgda5248/17565.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/star-select-hd1-large.png" group-title="Sport",Star Sport Select 1
@@ -521,7 +502,6 @@ http://183.178.58.115:8020/0.ts
 http://183.178.58.115:8021/0.ts
 
 #EXTINF:-1 ch-id="SONY PIX HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Sony_Pix_2013.svg/revision/latest/scale-to-width-down/183?cb=20200122045551"  group-title="Movie",SONY PIX HD
-#https://feed.play.mv/live/10005200/jmW41EycvT/master.m3u8
 http://ablivetv.webd.pro/star7/star7.php?id=48142&e=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Documentary",Hunt Channel

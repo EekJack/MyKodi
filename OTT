@@ -133,10 +133,10 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.pngj",SPOTV HD (TH)
-https://master.server-cdn-streaming.com/api/live-player/37/live.m3u8
+https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",SPOTV 2 HD (TH)
-https://master.server-cdn-streaming.com/api/live-player/39/live.m3u8
+https://smart-tv.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_tennis.png",True Tennis (TH)
 https://smart-tv.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8

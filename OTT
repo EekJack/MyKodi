@@ -413,26 +413,25 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Astro" tvg-id="Prima",Astro Prima HD
-http://wanicelife.com:8880/SFL143456/73U700Y1/71020
-#http://194.233.86.5:5080/WebRTCApp/streams/prima.m3u8
+https://tinyurl.com/2p92bfwh
 
 #EXTINF:-1 tvg-id="AstroWarnaHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Astro",Astro Warna HD
-http://190.2.133.47:8277/streams/d/Warna/playlist.m3u8
+https://tinyurl.com/mrha4r3y
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Astro" tvg-id="",Astro Ria HD
 https://tinyurl.com/yc2tx43d
 #http://iptv.tvmalaysia.cc:80/321456/321456/6730
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Astro" tvg-id="",Astro Citra HD
-http://wanicelife.com:8880/SFL143456/73U700Y1/71146
+https://tinyurl.com/yckss87n
 #http://iptv.tvmalaysia.cc:80/penang189/penang189/7267
 
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://i.kampung.xyz/c/fc303efb9f4b7cb6.png" group-title="Astro",Astro Rania HD
-http://wanicelife.com:8880/SFL143456/73U700Y1/71144
+https://tinyurl.com/bdh2dmct
 #http://194.233.86.5:5080/WebRTCApp/streams/rania.m3u8
 
 #EXTINF:-1 tvg-id="1113" tvg-chno="113" tvg-logo="https://i.kampung.xyz/c/56772be37fe8b846.png" group-title="Astro",Astro Aura HD
-http://wanicelife.com:8880/SFL143456/73U700Y1/71145
+https://tinyurl.com/49zbwmhk
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="News" tvg-id="",BERNAMA
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8

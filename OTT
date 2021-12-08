@@ -531,9 +531,6 @@ http://56.frehafroha.xyz.global.prod.fastly.net:80/live/031/index.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/corp/oo/osn-ae.png",Osn Thrill (AR)
 http://56.frehafroha.xyz.global.prod.fastly.net:80/live/034/index.m3u8
 
-#EXTINF:-1 group-title="UK" tvg-logo="https://www.lyngsat.com/logo/tv/ee/e_global_us.png",E
-http://56.frehafroha.xyz.global.prod.fastly.net:80/live/037/index.m3u8
-
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boo_my.png",Boo
 https://tinyurl.com/2p84s3st
 

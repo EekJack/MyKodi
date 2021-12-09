@@ -317,11 +317,10 @@ https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/%26flix_logo.png/220px-%26flix_logo.png" group-title="Movie",&Flix
-#https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
-http://103.157.210.165:8000/play/a016/index.m3u8
+http://103.131.212.138:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="Movie",&Prive 
-http://103.157.210.165:8000/play/a01o/index.m3u8
+http://103.131.212.138:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/440_144.png" group-title="Sport",Ass-tro SuperSport 1 HD
 https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/AstroSp1.m3u8
@@ -408,7 +407,7 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="Movie",Star Movies
-http://84.17.41.7/StarMoviesHD-Hin/mono.m3u8
+http://103.131.212.138:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="1CHN" tvg-name="Star WORLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Star_World_HD_India.png" group-title="Entertainment",Star World HD
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8

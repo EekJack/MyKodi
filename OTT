@@ -327,13 +327,13 @@ http://103.157.210.165:8000/play/a01o/index.m3u8
 https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/AstroSp1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sport",Ass-tro SuperSport 2 HD
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/AstroSp2.m3u8
+https://tinyurl.com/yzd465t6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sport",Ass-tro SuperSport 3 HD
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/AstroSp3.m3u8
+https://tinyurl.com/2p8hv8em
 
 #EXTINF:-1 tvg-id="814" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport",Ass-tro SuperSport 4 HD
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/AstroSp4.m3u8
+https://tinyurl.com/2p9beu66
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="Sport",Ass-tro Arena
 https://tinyurl.com/2p8ubfm9
@@ -487,13 +487,16 @@ https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/BTSP3HD.m3u8
 http://103.131.212.138:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-ten2.jpg" group-title="Sport",Sony TEN 2
-http://ablivetv.webd.pro/star7/star7.php?id=48148&e=.m3u8
+http://103.131.212.138:8000/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-ten-3.jpg" group-title="Sport",Sony TEN 3
-http://ablivetv.webd.pro/star7/star7.php?id=48162&e=.m3u8
+http://103.131.212.138:8000/play/a02q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/150px-Sony_BBC_Earth.png" group-title="Documentary",BBC Earth (ID)
+http://103.131.212.138:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-six.jpg" group-title="Sport",Sony Six
-http://starshare.live:8080/live/eppk4170/hgda5248/17565.m3u8
+http://183.178.58.115:8022/0.ts
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/star-select-hd1-large.png" group-title="Sport",Star Sport Select 1
 http://183.178.58.115:8020/0.ts
@@ -502,7 +505,7 @@ http://183.178.58.115:8020/0.ts
 http://183.178.58.115:8021/0.ts
 
 #EXTINF:-1 ch-id="SONY PIX HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Sony_Pix_2013.svg/revision/latest/scale-to-width-down/183?cb=20200122045551"  group-title="Movie",SONY PIX HD
-http://ablivetv.webd.pro/star7/star7.php?id=48142&e=.m3u8
+https://tinyurl.com/59ue88j6
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Documentary",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8

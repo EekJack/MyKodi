@@ -332,7 +332,8 @@ https://tinyurl.com/yzd465t6
 https://tinyurl.com/2p8hv8em
 
 #EXTINF:-1 tvg-id="814" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport",Ass-tro SuperSport 4 HD
-https://tinyurl.com/2p9beu66
+#https://tinyurl.com/2p9beu66
+https://tinyurl.com/yh2y7csf
 
 #EXTINF:-1 tvg-id="814" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sport",Ass-tro SuperSport 5 HD
 https://tinyurl.com/ynp4ujj3
@@ -389,7 +390,8 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Asstro" tvg-id="Prima",Ass-tro Prima HD
-https://tinyurl.com/2p92bfwh
+#https://tinyurl.com/2p92bfwh
+https://tinyurl.com/5zjv65v4
 
 #EXTINF:-1 tvg-id="AstroWarnaHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Asstro",Ass-tro Warna HD
 https://tinyurl.com/mrha4r3y
@@ -399,8 +401,8 @@ https://tinyurl.com/yc2tx43d
 #http://iptv.tvmalaysia.cc:80/321456/321456/6730
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Asstro" tvg-id="",Ass-tro Citra HD
-https://tinyurl.com/yckss87n
-#http://iptv.tvmalaysia.cc:80/penang189/penang189/7267
+#https://tinyurl.com/yckss87n
+https://tinyurl.com/bdzdhh34
 
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://i.kampung.xyz/c/fc303efb9f4b7cb6.png" group-title="Asstro",Ass-tro Rania HD
 https://tinyurl.com/bdh2dmct
@@ -481,23 +483,25 @@ https://rt-doc-gd.secure2.footprint.net/1101.m3u8
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sport", BT Sport 1
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/BTSP1HD.m3u8
+https://smart-tv.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sport", BT Sport 2
-#http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=50
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/BTSP2HD.m3u8
+https://smart-tv.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sport", BT Sport 3
 https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/BTSP3HD.m3u8
 
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-ten1.jpg" group-title="Sport",Sony TEN 1
-http://103.131.212.138:8000/play/a027/index.m3u8
+#http://103.131.212.138:8000/play/a027/index.m3u8
+http://208.86.19.21:80/726.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-ten2.jpg" group-title="Sport",Sony TEN 2
-http://103.131.212.138:8000/play/a01b/index.m3u8
+#http://103.131.212.138:8000/play/a01b/index.m3u8
+http://208.86.19.21:80/712.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-ten-3.jpg" group-title="Sport",Sony TEN 3
-http://103.131.212.138:8000/play/a02q/index.m3u8
+#http://103.131.212.138:8000/play/a02q/index.m3u8
+http://208.86.19.21:80/713.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/150px-Sony_BBC_Earth.png" group-title="Documentary",BBC Earth (ID)
 #http://103.131.212.138:8000/play/a016/index.m3u8
@@ -505,12 +509,15 @@ http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_HD_English&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-six.jpg" group-title="Sport",Sony Six
 http://183.178.58.115:8022/0.ts
+#http://208.86.19.21:80/740.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/star-select-hd1-large.png" group-title="Sport",Star Sport Select 1
 http://183.178.58.115:8020/0.ts
+#http://208.86.19.21:80/736.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sss-hd2-large.png" group-title="Sport",Star Sport Select 2
 http://183.178.58.115:8021/0.ts
+#http://208.86.19.21:80/737.stream/index.m3u8
 
 #EXTINF:-1 ch-id="SONY PIX HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Sony_Pix_2013.svg/revision/latest/scale-to-width-down/183?cb=20200122045551"  group-title="Movie",SONY PIX HD
 #https://tinyurl.com/59ue88j6
@@ -572,6 +579,51 @@ http://58.65.171.202:8000/play/10509
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/220px-History2Logo2019.png" group-title="Documentary",H2
 http://78.83.191.18:8000/play/a06j
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-skynet-sport-1-272.png" group-title="Sport",Skynet Sport 1
+https://tinyurl.com/yc3fayf5
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-skynet-sport-2-273.png" group-title="Sport",Skynet Sport 2
+https://tinyurl.com/ees5rkzv
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title=Sport",Skynet Sport 3
+https://tinyurl.com/2p8majfk
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="Sport",Skynet Sport HD
+https://tinyurl.com/a2u53nex
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="TEST",HBO
+http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

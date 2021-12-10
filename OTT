@@ -172,6 +172,9 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 http://183.178.58.115:8032/0.ts
 
+#EXTINF:-1 tvg-id="1411" tvg-chno="411" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/hbo.png" group-title="Movie",HBO Original [Dual audio]
+http://195.206.253.157:20300/hbo
+
 #EXTINF:-1 tvg-id="1411" tvg-chno="411" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="Movie",HBO HD (VN)
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 

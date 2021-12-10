@@ -172,9 +172,6 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 http://183.178.58.115:8032/0.ts
 
-#EXTINF:-1 tvg-id="1411" tvg-chno="411" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/hbo.png" group-title="Movie",HBO Original [Dual audio]
-http://195.206.253.157:20300/hbo
-
 #EXTINF:-1 tvg-id="1411" tvg-chno="411" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="Movie",HBO HD (VN)
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 
@@ -301,7 +298,7 @@ https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/289_144.png" group-title="News",FRANCE 24 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/289_144.png" group-title="News",FRANCE 24
 https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -570,11 +567,11 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/master.m3u
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/vPlVuv8.jpg" group-title="US",Voyager Documentaries
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvoyagerdocumentaries/CDN/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/300px-Discovery_Science_2017_Logo.svg.png" group-title="Documentary",Discovery Science
+http://58.65.171.202:8000/play/10509
 
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/220px-History2Logo2019.png" group-title="Documentary",H2
+http://78.83.191.18:8000/play/a06j
 
 
 

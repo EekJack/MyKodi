@@ -592,14 +592,15 @@ https://tinyurl.com/2p8majfk
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="Sport",Skynet Sport HD
 https://tinyurl.com/a2u53nex
 
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/330px-HBO_logo.svg.png" group-title="Movie",HBO (US)
+https://tinyurl.com/2p8p63c7
 
 
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/300px-Discovery_Science_2017_Logo.svg.png" group-title="Documentary",Discovery science (US)
+https://tinyurl.com/3pf7pp6t
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Discovery_History_logo.png/400px-Discovery_History_logo.png" group-title="Documentary",Discovery History (UK)
+https://tinyurl.com/yrbnspuy
 
 
 

@@ -538,9 +538,6 @@ https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_us.png",Fox Movie (EU)
 http://93.157.62.180/FoxMovies/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boo_my.png",Boo
-https://tinyurl.com/2p84s3st
-
 #EXTINF:-1 tvg-id="ElectricNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Entertainment",Electric Now
 https://ov.ottera.tv/live/master.m3u8?channel=elec_en
 
@@ -586,12 +583,9 @@ https://tinyurl.com/2p8majfk
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="Sport",Skynet Sport HD
 https://tinyurl.com/a2u53nex
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/330px-HBO_logo.svg.png" group-title="Movie",HBO (US)
-https://tinyurl.com/2p8p63c7
 
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/300px-Discovery_Science_2017_Logo.svg.png" group-title="Documentary",Discovery science (US)
-https://tinyurl.com/3pf7pp6t
+
 
 
 

@@ -583,9 +583,8 @@ https://tinyurl.com/2p8majfk
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="Sport",Skynet Sport HD
 https://tinyurl.com/a2u53nex
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Discovery_HD_logo_2009.png/200px-Discovery_HD_logo_2009.png" group-title="Documentary",Dicovery HD (India)
+https://food-dlvr-ott.akamaized.net/primary/4/fa7f4a1e0188407cb0670153a7ddaa5d/index.mpd?hdnts=exp=1641145917~acl=/primary/4/fa7f4a1e0188407cb0670153a7ddaa5d/index.mpd*~hmac=09f4064148fa2740c719a9d968a42ede15e76024cb9a033f6297a0aa8c671bcd
 
 
 

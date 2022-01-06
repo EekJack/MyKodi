@@ -480,10 +480,10 @@ https://rt-doc-gd.secure2.footprint.net/1101.m3u8
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sport", BT Sport 1
-https://smart-tv.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+https://wopep.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sport", BT Sport 2
-https://smart-tv.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+https://wopep.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sport", BT Sport 3
 https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/BTSP3HD.m3u8

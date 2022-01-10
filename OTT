@@ -494,9 +494,6 @@ http://208.86.19.21:80/712.stream/index.m3u8
 #http://103.131.212.138:8000/play/a02q/index.m3u8
 http://208.86.19.21:80/713.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/150px-Sony_BBC_Earth.png" group-title="Documentary",BBC Earth (ID)
-http://103.131.212.138:8000/play/a016/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-six.jpg" group-title="Sport",Sony Six
 http://208.86.19.21:80/740.stream/index.m3u8
 

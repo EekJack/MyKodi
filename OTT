@@ -329,8 +329,7 @@ https://tinyurl.com/yzd465t6
 https://tinyurl.com/2p8hv8em
 
 #EXTINF:-1 tvg-id="814" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport",Ass-tro SuperSport 4 HD
-#https://tinyurl.com/2p9beu66
-https://tinyurl.com/yh2y7csf
+https://tinyurl.com/2p9beu66
 
 #EXTINF:-1 tvg-id="814" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sport",Ass-tro SuperSport 5 HD
 https://tinyurl.com/ynp4ujj3
@@ -404,9 +403,6 @@ https://my.odtv.uk/9486331171/7860879594/22
 
 #EXTINF:-1 tvg-id="1113" tvg-chno="113" tvg-logo="https://i.kampung.xyz/c/56772be37fe8b846.png" group-title="Asstro",Ass-tro Aura HD
 https://my.odtv.uk/9486331171/7860879594/23
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="News" tvg-id="",BERNAMA
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-name="Hallmark Movies & More" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" tvg-url="" group-title="US",Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
@@ -499,24 +495,19 @@ http://208.86.19.21:80/712.stream/index.m3u8
 http://208.86.19.21:80/713.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/150px-Sony_BBC_Earth.png" group-title="Documentary",BBC Earth (ID)
-#http://103.131.212.138:8000/play/a016/index.m3u8
-http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_HD_English&q=1200&e=junk.m3u8
+http://103.131.212.138:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-six.jpg" group-title="Sport",Sony Six
-http://183.178.58.115:8022/0.ts
-#http://208.86.19.21:80/740.stream/index.m3u8
+http://208.86.19.21:80/740.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/star-select-hd1-large.png" group-title="Sport",Star Sport Select 1
-http://183.178.58.115:8020/0.ts
-#http://208.86.19.21:80/736.stream/index.m3u8
+http://208.86.19.21:80/736.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sss-hd2-large.png" group-title="Sport",Star Sport Select 2
-http://183.178.58.115:8021/0.ts
-#http://208.86.19.21:80/737.stream/index.m3u8
+http://208.86.19.21:80/737.stream/index.m3u8
 
 #EXTINF:-1 ch-id="SONY PIX HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Sony_Pix_2013.svg/revision/latest/scale-to-width-down/183?cb=20200122045551"  group-title="Movie",SONY PIX HD
 #https://tinyurl.com/59ue88j6
-http://jo123.biz/jweb/m3u8.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Documentary",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
@@ -551,12 +542,6 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/macau_lotus_tv_mo.png" group-title="Movie",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://thumbs.dreamstime.com/b/24-7-symbol-14240865.jpg" group-title="Movie",Jackie Chan
-http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://thumbs.dreamstime.com/b/24-7-symbol-14240865.jpg" group-title="Movie",Stephen Chow
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
-
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OiMMkP3.jpg" group-title="Entertainment",Just for Laughs Gags
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
 
@@ -583,9 +568,6 @@ https://tinyurl.com/2p8majfk
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_sports_mm.png" group-title="Sport",Skynet Sport HD
 https://tinyurl.com/a2u53nex
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Discovery_HD_logo_2009.png/200px-Discovery_HD_logo_2009.png" group-title="Documentary",Dicovery HD (India)
-https://food-dlvr-ott.akamaized.net/primary/4/fa7f4a1e0188407cb0670153a7ddaa5d/index.mpd
 
 
 

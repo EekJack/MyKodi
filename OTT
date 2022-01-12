@@ -66,7 +66,7 @@ https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mp
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="Documentary" ch-number="1550" tvg-id="1550" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild HD (ID)
+#EXTINF:-1 group-title="Documentary" ch-number="1550" tvg-id="1550" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild HD
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -100,7 +100,7 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://static.epg.best/th/Lifetime.th.png" group-title="Entertainment",Lifetime 
+#EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://static.epg.best/th/Lifetime.th.png" group-title="Entertainment",Lifetime HD
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -139,19 +139,19 @@ https://smart-tv.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_th.png",True Sport 4 (TH)
 https://smart-tv.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8
 
-#EXTINF:-1   tvg-id="N/A" group-title="Sport" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl1.png",Premier Football HD 1 (TH)
+#EXTINF:-1 tvg-id="N/A" group-title="Sport" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl1.png",Premier Football HD 1 (TH)
 https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:-1   tvg-id="N/A" group-title="Sport" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl2.png",Premier Football HD 2 (TH)
+#EXTINF:-1 tvg-id="N/A" group-title="Sport" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl2.png",Premier Football HD 2 (TH)
 https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:-1   tvg-id="N/A" group-title="Sport" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3 (TH)
+#EXTINF:-1 tvg-id="N/A" group-title="Sport" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3 (TH)
 https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:-1   tvg-id="N/A" group-title="Sport" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4 (TH)
+#EXTINF:-1 tvg-id="N/A" group-title="Sport" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4 (TH)
 https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1   tvg-id="N/A" group-title="Sport" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl5.png",Premier Football HD 5(TH)
+#EXTINF:-1 tvg-id="N/A" group-title="Sport" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl5.png",Premier Football HD 5(TH)
 https://smart-tv.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SPOTV" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_th.png",True Sport 7 (TH)
@@ -314,22 +314,27 @@ https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/%26flix_logo.png/220px-%26flix_logo.png" group-title="Movie",&Flix
-http://103.131.212.138:8000/play/a01j/index.m3u8
+http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34503?token=TURYAhZYEAwSXQIBCVcCBwAHAVMADFEPBQpTBlAJBFQCUwJTBgAFVFVGTxBLF0AGVA9uD1IbCQUFBlQGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RQD1ccQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="Movie",&Prive 
-http://103.131.212.138:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="Movie",&Prive
+#http://103.131.212.138:8000/play/a01e/index.m3u8
+http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34478?token=TURYAhZYEAwSVFZWXVMFUg0HV1QACFUOCFAADAAPVVAPBFEBXFQDAgJGTxBLF0AGVA9uD1IbCQUFB1MNShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RTBFMcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/440_144.png" group-title="Sport",Ass-tro SuperSport 1 HD
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/AstroSp1.m3u8
+#https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/AstroSp1.m3u8
+https://mbed.cc/nfugW
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sport",Ass-tro SuperSport 2 HD
-https://tinyurl.com/yzd465t6
+#https://tinyurl.com/yzd465t6
+https://mbed.cc/QfGyK
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sport",Ass-tro SuperSport 3 HD
-https://tinyurl.com/2p8hv8em
+#https://tinyurl.com/2p8hv8em
+https://mbed.cc/WBn84
 
 #EXTINF:-1 tvg-id="814" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport",Ass-tro SuperSport 4 HD
-https://tinyurl.com/2p9beu66
+#https://tinyurl.com/2p9beu66
+https://mbed.cc/jYMGW
 
 #EXTINF:-1 tvg-id="814" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sport",Ass-tro SuperSport 5 HD
 https://tinyurl.com/ynp4ujj3
@@ -474,13 +479,15 @@ https://rt-doc-gd.secure2.footprint.net/1101.m3u8
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sport", BT Sport 1
-https://wopep.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#https://wopep.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+http://93.152.174.144:4000/play/btsport1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sport", BT Sport 2
-https://wopep.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#https://wopep.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+http://cdn2.cyclingnews.live/hls/P1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sport", BT Sport 3
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/BTSP3HD.m3u8
+http://93.152.174.144:4000/play/btsport3/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-ten1.jpg" group-title="Sport",Sony TEN 1
 #http://103.131.212.138:8000/play/a027/index.m3u8
@@ -505,6 +512,7 @@ http://208.86.19.21:80/737.stream/index.m3u8
 
 #EXTINF:-1 ch-id="SONY PIX HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Sony_Pix_2013.svg/revision/latest/scale-to-width-down/183?cb=20200122045551"  group-title="Movie",SONY PIX HD
 #https://tinyurl.com/59ue88j6
+http://103.131.212.138:8000/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Documentary",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8

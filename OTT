@@ -613,7 +613,7 @@ https://my.odtv.uk/9486331171/7860879594/123
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax-us.png" group-title="Documentary",DMAX
 https://my.odtv.uk/9486331171/7860879594/119
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/showcase-movies-my.png" group-title="Movie"ShowCase
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/showcase-movies-my.png" group-title="Movie",ShowCase
 https://my.odtv.uk/9486331171/7860879594/192
 
 

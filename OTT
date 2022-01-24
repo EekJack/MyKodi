@@ -476,14 +476,11 @@ https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3
 #EXTINF:-1 tvg-logo="https://rtd.rt.com/s/redesign/pub/img/logo.png" group-title="Documentary" type="stream",RT Documentary
 https://rt-doc-gd.secure2.footprint.net/1101.m3u8
 
-#EXTINF:-1  tvg-id=""  group-title="Sport" tvg-logo="http://static.epg.best/gr/EdgeSport.gr.png" type="stream", Edge Sports
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sport", BT Sport 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sport",BT Sport 1
 #https://wopep.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 https://my.odtv.uk/9486331171/7860879594/1948
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sport", BT Sport 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sport",BT Sport 2
 https://my.odtv.uk/9486331171/7860879594/1949
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sport", BT Sport 3

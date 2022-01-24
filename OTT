@@ -158,7 +158,7 @@ https://smart-tv.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
 https://master.server-cdn-streaming.com/api/live-player/43/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="Sport" tvg-id="wwe",WWE Network HD
-https://tinyurl.com/2p884dua
+https://my.odtv.uk/9486331171/7860879594/140
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -222,6 +222,7 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png" group-title="Documentary",Asian Food Network HD
 https://on-load.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+https://my.odtv.uk/9486331171/7860879594/115
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -314,11 +315,11 @@ https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/%26flix_logo.png/220px-%26flix_logo.png" group-title="Movie",&Flix
-http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34503?token=TURYAhZYEAwSXQIBCVcCBwAHAVMADFEPBQpTBlAJBFQCUwJTBgAFVFVGTxBLF0AGVA9uD1IbCQUFBlQGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RQD1ccQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+https://my.odtv.uk/9486331171/7860879594/682
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="Movie",&Prive
 #http://103.131.212.138:8000/play/a01e/index.m3u8
-http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34478?token=TURYAhZYEAwSVFZWXVMFUg0HV1QACFUOCFAADAAPVVAPBFEBXFQDAgJGTxBLF0AGVA9uD1IbCQUFB1MNShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RTBFMcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+https://my.odtv.uk/9486331171/7860879594/684
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/440_144.png" group-title="Sport",Ass-tro SuperSport 1 HD
 #https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/AstroSp1.m3u8
@@ -480,11 +481,10 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sport", BT Sport 1
 #https://wopep.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-http://93.152.174.144:4000/play/btsport1/index.m3u8
+https://my.odtv.uk/9486331171/7860879594/1948
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sport", BT Sport 2
-#https://wopep.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-http://cdn2.cyclingnews.live/hls/P1.m3u8
+https://my.odtv.uk/9486331171/7860879594/1949
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sport", BT Sport 3
 http://93.152.174.144:4000/play/btsport3/index.m3u8
@@ -512,7 +512,7 @@ http://208.86.19.21:80/737.stream/index.m3u8
 
 #EXTINF:-1 ch-id="SONY PIX HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Sony_Pix_2013.svg/revision/latest/scale-to-width-down/183?cb=20200122045551"  group-title="Movie",SONY PIX HD
 #https://tinyurl.com/59ue88j6
-http://103.131.212.138:8000/play/a017/index.m3u8
+https://my.odtv.uk/9486331171/7860879594/705
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Documentary",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
@@ -556,7 +556,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/master.m3u
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/vPlVuv8.jpg" group-title="US",Voyager Documentaries
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvoyagerdocumentaries/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/300px-Discovery_Science_2017_Logo.svg.png" group-title="Documentary",Discovery Science
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/300px-Discovery_Science_2017_Logo.svg.png" group-title="Documentary",Discovery Science (1)
 http://58.65.171.202:8000/play/10509
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/220px-History2Logo2019.png" group-title="Documentary",H2
@@ -607,16 +607,17 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_asia_us.png" group-title="Documentary",Discovery Asia
 https://my.odtv.uk/9486331171/7860879594/91
 
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-europe-us.png" group-title="Documentary",Discovery Science
+https://my.odtv.uk/9486331171/7860879594/92
 
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/egg-network-my.png" group-title="Sport",EGG Network
+https://my.odtv.uk/9486331171/7860879594/123
 
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax-us.png" group-title="Documentary",DMAX
+https://my.odtv.uk/9486331171/7860879594/119
 
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/showcase-movies-my.png" group-title="Movie"ShowCase
+https://my.odtv.uk/9486331171/7860879594/192
 
 
 

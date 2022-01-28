@@ -319,14 +319,6 @@ https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/423_144.png" group-title="News",CNBC 
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/%26flix_logo.png/220px-%26flix_logo.png" group-title="Movie",&Flix
-#https://my.odtv.uk/9486331171/7860879594/682
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=channel_2105335046
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="Movie",&Prive
-#http://103.131.212.138:8000/play/a01e/index.m3u8
-https://my.odtv.uk/9486331171/7860879594/684
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/440_144.png" group-title="Sport",Ass-tro SuperSport 1 HD
 #https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/AstroSp1.m3u8
 https://my.odtv.uk/9486331171/7860879594/126
@@ -516,7 +508,16 @@ http://208.86.19.21:80/737.stream/index.m3u8
 #EXTINF:-1 ch-id="SONY PIX HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Sony_Pix_2013.svg/revision/latest/scale-to-width-down/183?cb=20200122045551"  group-title="Movie",SONY PIX HD
 #https://tinyurl.com/59ue88j6
 #https://my.odtv.uk/9486331171/7860879594/705
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Pix_HD&q=800&e=junk.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/%26flix_logo.png/220px-%26flix_logo.png" group-title="Movie",&Flix
+#https://my.odtv.uk/9486331171/7860879594/682
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=channel_2105335046
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="Movie",&Prive
+#http://103.131.212.138:8000/play/a01e/index.m3u8
+https://my.odtv.uk/9486331171/7860879594/684
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Documentary",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8

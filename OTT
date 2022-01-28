@@ -123,7 +123,7 @@ https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/BRZ8rmA_d.png" group-title="Sports",SpoTV
+#EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/BRZ8rmA_d.png" group-title="Sport",SpoTV
 https://on-load.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",SPOTV 2 (TH)

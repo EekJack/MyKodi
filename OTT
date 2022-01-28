@@ -485,19 +485,20 @@ https://my.odtv.uk/9486331171/7860879594/1949
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-ten1.jpg" group-title="Sport",Sony TEN 1
-#http://103.131.212.138:8000/play/a027/index.m3u8
-http://208.86.19.21:80/726.stream/index.m3u8
+#http://208.86.19.21:80/726.stream/index.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Ten_HD&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-ten2.jpg" group-title="Sport",Sony TEN 2
-#http://103.131.212.138:8000/play/a01b/index.m3u8
-http://208.86.19.21:80/712.stream/index.m3u8
+#http://208.86.19.21:80/712.stream/index.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Ten2_HD&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-ten-3.jpg" group-title="Sport",Sony TEN 3
-#http://103.131.212.138:8000/play/a02q/index.m3u8
-http://208.86.19.21:80/713.stream/index.m3u8
+#http://208.86.19.21:80/713.stream/index.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Ten3_HD&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-six.jpg" group-title="Sport",Sony Six
-http://208.86.19.21:80/740.stream/index.m3u8
+#http://208.86.19.21:80/740.stream/index.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Six_HD_Bengali&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/star-select-hd1-large.png" group-title="Sport",Star Sport Select 1
 http://208.86.19.21:80/736.stream/index.m3u8
@@ -506,9 +507,8 @@ http://208.86.19.21:80/736.stream/index.m3u8
 http://208.86.19.21:80/737.stream/index.m3u8
 
 #EXTINF:-1 ch-id="SONY PIX HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Sony_Pix_2013.svg/revision/latest/scale-to-width-down/183?cb=20200122045551"  group-title="Movie",SONY PIX HD
-#https://tinyurl.com/59ue88j6
 #https://my.odtv.uk/9486331171/7860879594/705
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Pix_HD&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/%26flix_logo.png/220px-%26flix_logo.png" group-title="Movie",&Flix
 #https://my.odtv.uk/9486331171/7860879594/682
@@ -613,7 +613,7 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 https://my.odtv.uk/9486331171/7860879594/91
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-europe-us.png" group-title="Documentary",Discovery Science
-https://my.odtv.uk/9486331171/7860879594/92
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Science&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/egg-network-my.png" group-title="Sport",EGG Network
 https://my.odtv.uk/9486331171/7860879594/123
@@ -623,6 +623,39 @@ https://my.odtv.uk/9486331171/7860879594/119
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/showcase-movies-my.png" group-title="Movie",ShowCase
 https://my.odtv.uk/9486331171/7860879594/192
+
+#EXTINF: -1 tvg-id="ts541" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Documentary",Discovery Turbo
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Turbo&q=800&e=junk.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

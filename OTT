@@ -516,9 +516,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/master.m3u
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/vPlVuv8.jpg" group-title="US",Voyager Documentaries
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvoyagerdocumentaries/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/300px-Discovery_Science_2017_Logo.svg.png" group-title="Documentary",Discovery Science (1)
-http://58.65.171.202:8000/play/10509
-
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/220px-History2Logo2019.png" group-title="Documentary",H2
 https://www.wopep.com/02_H2HD_720p/chunklist.m3u8
 

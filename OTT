@@ -118,49 +118,10 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:0 tvg-id="SoccerChannel.id" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/soccerchannel.png" group-title="Sport",Soccer Channel
 https://on-load.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",SPOTV 1 (TH)
-https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/BRZ8rmA_d.png" group-title="Sport",SpoTV
 https://on-load.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
-
-#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",SPOTV 2 (TH)
-https://smart-tv.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_tennis.png",True Tennis (TH)
-https://smart-tv.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_th.png",True Sport 1 (TH)
-https://smart-tv.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_th.png",True Sport 2 (TH)
-https://smart-tv.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_th.png",True Sport 3 (TH)
-https://smart-tv.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_th.png",True Sport 4 (TH)
-https://smart-tv.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="N/A" group-title="Sport" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl1.png",Premier Football HD 1 (TH)
-https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="N/A" group-title="Sport" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl2.png",Premier Football HD 2 (TH)
-https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="N/A" group-title="Sport" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3 (TH)
-https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="N/A" group-title="Sport" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4 (TH)
-https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="N/A" group-title="Sport" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl5.png",Premier Football HD 5(TH)
-https://smart-tv.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_th.png",True Sport 7 (TH)
-https://master.server-cdn-streaming.com/api/live-player/43/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="Sport" tvg-id="wwe",WWE Network HD
 http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1698
@@ -331,10 +292,7 @@ http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1719
 https://my.odtv.uk/live/9486331171/7860879594/130
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="Sport",Ass-tro Arena
-https://my.odtv.uk/9486331171/7860879594/124
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="Sport",Ass-tro Arena 2
-https://my.odtv.uk/9486331171/7860879594/1913
+http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/71102
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tbur8nX.png?v=1.0.0.1" group-title="Documentary",Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
@@ -358,7 +316,7 @@ https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8|Referer=https://
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 
 #EXTINF:-1 group-title="Lokal" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
-https://tinyurl.com/dav5x3ca
+http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1729
 
 #EXTINF:-1 group-title="Lokal" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",TV Okey
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -389,13 +347,13 @@ http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1706
 http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1705
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Asstro" tvg-id="",Ass-tro Citra HD
-https://my.odtv.uk/9486331171/7860879594/19
+http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/71146
 
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://i.kampung.xyz/c/fc303efb9f4b7cb6.png" group-title="Asstro",Ass-tro Rania HD
-https://my.odtv.uk/9486331171/7860879594/22
+http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/71144
 
 #EXTINF:-1 tvg-id="1113" tvg-chno="113" tvg-logo="https://i.kampung.xyz/c/56772be37fe8b846.png" group-title="Asstro",Ass-tro Aura HD
-https://my.odtv.uk/9486331171/7860879594/23
+http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/71145
 
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-name="Hallmark Movies & More" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" tvg-url="" group-title="US",Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
@@ -505,9 +463,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/master.m3u
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/vPlVuv8.jpg" group-title="US",Voyager Documentaries
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvoyagerdocumentaries/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/220px-History2Logo2019.png" group-title="Documentary",H2
-https://www.wopep.com/02_H2HD_720p/chunklist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg",MNC Sports 1
@@ -528,10 +483,8 @@ https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel Non Liga
 https://liveanevia.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerchannel-NonLiga1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/showcase-movies-my.png" group-title="Movie",ShowCase
-https://my.odtv.uk/9486331171/7860879594/192
-
-
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="Sport",Ten 1
+http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1903
 
 
 

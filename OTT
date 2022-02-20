@@ -163,7 +163,7 @@ https://smart-tv.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
 https://master.server-cdn-streaming.com/api/live-player/43/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="Sport" tvg-id="wwe",WWE Network HD
-https://my.odtv.uk/9486331171/7860879594/140
+http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1698
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -315,19 +315,17 @@ https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/440_144.png" group-title="Sport",Ass-tro SuperSport 1 HD
 #https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/AstroSp1.m3u8
-https://my.odtv.uk/9486331171/7860879594/126
+http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1722
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sport",Ass-tro SuperSport 2 HD
 #https://tinyurl.com/yzd465t6
-https://my.odtv.uk/9486331171/7860879594/127
+http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1721
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sport",Ass-tro SuperSport 3 HD
-#https://tinyurl.com/2p8hv8em
-https://my.odtv.uk/9486331171/7860879594/128
+http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1720
 
 #EXTINF:-1 tvg-id="814" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport",Ass-tro SuperSport 4 HD
-#https://tinyurl.com/2p9beu66
-https://my.odtv.uk/9486331171/7860879594/129
+http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1719
 
 #EXTINF:-1 tvg-id="814" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sport",Ass-tro SuperSport 5 HD
 https://my.odtv.uk/live/9486331171/7860879594/130
@@ -382,14 +380,13 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Asstro" tvg-id="Prima",Ass-tro Prima HD
-https://my.odtv.uk/9486331171/7860879594/16
+http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/71020
 
 #EXTINF:-1 tvg-id="AstroWarnaHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Asstro",Ass-tro Warna HD
-https://my.odtv.uk/9486331171/7860879594/18
+http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1706
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Asstro" tvg-id="",Ass-tro Ria HD
-https://my.odtv.uk/9486331171/7860879594/13
-#http://iptv.tvmalaysia.cc:80/321456/321456/6730
+http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1705
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Asstro" tvg-id="",Ass-tro Citra HD
 https://my.odtv.uk/9486331171/7860879594/19

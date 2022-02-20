@@ -518,17 +518,17 @@ https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indo
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antv_big1.png" tvg-id="BathokGpc" tvg-name="ANTV" group-title="Indo",ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_transtv_small1.png?v=2.0.0.13" tvg-id="" tvg-name="Trans-TV" group-title="Indo",Trans-TV
-https://etslive-2-vidio-com.akamaized.net/exp=1645355764~acl=/hls-p/ingest_733_*/*~hmac=8ab8db0fe9259851413af33bcaef63be182432c3b27b7d2d42a54ed082dc2fa6/hls-p/ingest_733_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_transtv_small1.png?v=2.0.0.13" tvg-id="" tvg-name="Trans-TV" group-title="Indo",Trans TV
+https://iptv.mwafa.net/vidio/733/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trans7_small1.png?v=2.0.0.13" tvg-id="" tvg-name="Trans-7" group-title="Indo",Trans 7
-https://etslive-2-vidio-com.akamaized.net/exp=1645355621~acl=/hls-p/ingest_734_*/*~hmac=52e11102ac1e854add744688b51664d4a2691260d6879bd4ca3a3b5b3ac29cb2/hls-p/ingest_734_720p/index.m3u8
+https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png" tvg-id="" tvg-name="" group-title="Indo",Indosiar
-https://etslive-2-vidio-com.akamaized.net/exp=1645357484~acl=/hls-p/ingest_205_*/*~hmac=71b5776fb230576829cf7b10d22ce6a2de0f617812b5157e6bebe0ec791cdfa0/hls-p/ingest_205_1080p/index.m3u8
+https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png" tvg-id="" tvg-name="" group-title="Indo",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1645356966~acl=/hls-p/ingest_204_*/*~hmac=ddb477525ca26bd448c481b8177c1eae7e7dd55cf6247c87486c4e69f4b5f2e4/hls-p/ingest_204_720p/index.m3u8
+https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz

@@ -478,11 +478,6 @@ https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mp
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",MNC Sports 3
 https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel Non Liga
-https://liveanevia.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerchannel-NonLiga1.mpd
-
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="Sport",Ten 1
 http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1903
 

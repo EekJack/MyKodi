@@ -289,7 +289,7 @@ http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1720
 http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1719
 
 #EXTINF:-1 tvg-id="814" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sport",Ass-tro SuperSport 5 HD
-https://my.odtv.uk/live/9486331171/7860879594/130
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117409
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="Sport",Ass-tro Arena
 http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/71102
@@ -578,7 +578,8 @@ https://liveanevia.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/inews-id.png" tvg-id="" tvg-name="iNews" group-title="Indo",iNews
 https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
 
-
+#EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="Movie",BOO
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117660
 
 
 

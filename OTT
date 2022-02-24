@@ -755,61 +755,7 @@ https://liveanevia.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/inews-id.png" tvg-id="" tvg-name="iNews" group-title="Indo",iNews
 https://on-load.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 group-title="test" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="",T16
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live16.mpd
 
-#EXTINF:-1 group-title="test" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="",T17
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live17.mpd
-
-#EXTINF:-1 group-title="test" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="",T18
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live18.mpd
-
-#EXTINF:-1 group-title="test" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="",T19
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live19.mpd
-
-#EXTINF:-1 group-title="test" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="",T20
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live20.mpd
-
-#EXTINF:-1 group-title="test" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="",T21
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live21.mpd
-
-#EXTINF:-1 group-title="test" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="",T22
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live22.mpd
-
-#EXTINF:-1 group-title="test" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="",T23
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live23.mpd
-
-#EXTINF:-1 group-title="test" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="",T24
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live24.mpd
-
-#EXTINF:-1 group-title="test" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="",T11
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 group-title="test" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="",T12
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-
-#EXTINF:-1 group-title="test" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="",T25
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live25.mpd
-
-#EXTINF:-1 group-title="test" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="",T26
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live26.mpd
-
-#EXTINF:-1 group-title="test" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="",T27
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27.mpd
 
 
 

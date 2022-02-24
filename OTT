@@ -37,6 +37,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 #EXTINF:-1 tvg-id="HIT.MY" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="Movie",Hits
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bb5e8d918097e067ab1bc7e3a9e68410&key=dbda57d3de69f5e4b78ff2cc73d8a51a
+#EXTINF:-1 tvg-id="1401" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movie",Hits Movies FHD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="1401" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movie",Hits Movies HD
@@ -56,6 +61,11 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 group-title="Movie" tvg-id="1321" ch-number="1321" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM HD
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b7f352ff63e533f3baa950d7e2497410&key=e11de6f5f84bbd2f150ffc82191880e8
+#EXTINF:-1 tvg-ID="AXN.Int" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="Entertainment",AXN HD FHD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -77,6 +87,16 @@ https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTINF:-1 tvg-ID="1393" tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="Movie",One HD
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=eaaa02f58d19457c6385bf2831706f10&key=7294ff05390550e09df76ef3b697f8da
+#EXTINF:-1 tvg-id="704" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PRIMEtime.png" group-title="Movie",Primetime FHD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
+#EXTINF:-1 tvg-id="413" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="MOVIES",Showcase Movies FHD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
+
 #EXTINF:-1 tvg-ID="1393" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy_tv_id.pngg" group-title="Movie",Galaxy
 http://15.235.142.228:8080/live/hometvfree/selaludihati/47.m3u8
 
@@ -95,8 +115,11 @@ http://15.235.142.228:8080/live/hometvfree/selaludihati/43.m3u8
 #EXTINF:-1 tvg-ID="1393" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-extreme-sg.png" group-title="Movie",Rock Extreme
 http://15.235.142.228:8080/live/hometvfree/selaludihati/56.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ddd9708a62b9e2eb44448dd1a6841310&key=0b248e71fef0c27988fa10049b32f309
 #EXTINF:-1 tvg-ID="1393" tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" group-title="Movie",K+
-http://15.235.142.228:8080/live/hometvfree/selaludihati/60.m3u8
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+#http://15.235.142.228:8080/live/hometvfree/selaludihati/60.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -425,8 +448,11 @@ http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1705
 http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/71146
 #http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m02000000000010362776&ct=17958&tsum=dc40ef1aeb6d02be3b40e2da82894583
 
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://i.kampung.xyz/c/fc303efb9f4b7cb6.png" group-title="Asstro",Ass-tro Rania HD
-http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/71144
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8
+#EXTINF:-1 tvg-id="AstroRania" ch-number="AstroRania" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="Asstro",Ass-tro Rania HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+#http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/71144
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71
@@ -584,8 +610,11 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 http://tvn.x10.bz/vidio/master.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png" tvg-id="" tvg-name="" group-title="Indo",SCTV
-https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
+https://cubmu.superzap.xyz:8279/sctv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1

@@ -378,6 +378,10 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 http://iptvtree.net:8080/live/15247/6bc4e63e/158360.ts
 
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="Lokal" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3 HD
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+
 #EXTINF:-1 group-title="Lokal" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 #https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8

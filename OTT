@@ -182,6 +182,9 @@ http://15.235.142.228:8080/live/hometvfree/selaludihati/43.m3u8
 #EXTINF:-1 tvg-ID="1393" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-extreme-sg.png" group-title="Movie",Rock Extreme
 http://15.235.142.228:8080/live/hometvfree/selaludihati/56.m3u8
 
+#EXTINF:-1 tvg-ID="1393" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies_in_select.png" group-title="Movie",Star Movies
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1dcd711054d1b3e2b16b41e2446d8c10&key=f0b97c062a990e4b99cfed4527aed878
 #EXTINF:-1 tvg-id="394" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OhK_v1.png" group-title="Movie",OH!K FHD
@@ -585,6 +588,21 @@ http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1903
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sport",BT Sport 2
 http://www.goldentv.tech:25461/rachman/rachman/25225
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="Sport",ChampionTv1
+http://tvn.x10.bz/vidio/master-6.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="Sport",ChampionTv2
+http://tvn.x10.bz/vidio/master-7.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="Sport",ChampionTv3
+http://tvn.x10.bz/vidio/master-8.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-4-id.png" group-title="Sport",ChampionTv4
+http://tvn.x10.bz/vidio/master-17.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png"group-title="Sport",PTV SPORTS
+http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="Asstro" tvg-id="",AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8

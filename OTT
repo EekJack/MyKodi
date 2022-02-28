@@ -743,24 +743,14 @@ https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Documentary",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/intracks-v2a1/mono.m3u8dex.m3u8?wowzasessionid=inspiration
 
-#EXTINF:-1 tvg-ID="" tvg-chno="558" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Biznet_Home_Logo.svg/1200px-Biznet_Home_Logo.svg.png" group-title="4K",ADVENTURE 4K
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/chunklist_w45338377_b5256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1pSllpd3ZzQWhLTGdZanRNY294VnAxR1pnMVhXX3dOY3J2Zy1sY05xNlZkeXZfbFdWRXIwY1NFT0JDa0l5ZlRT.m3u8
-
-#EXTINF:-1 group-title="4K" ch-number="502" tvg-id="502" tvg-chno="502" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png",Love Nature FHD
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-
-#EXTINF:-1 group-title="4K" ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_640/v1590012051/Dish/images/isolated/4k-logo-01_f78kb4",Clarity FHD
-https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8
-
-#EXTINF:-1 group-title="4K" ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://play-lh.googleusercontent.com/RjM1R-ktRX0zRfdqLvCKrfMt9qFLSFXYP4Nt9ndfAFtbfeeyDeCijvbH-tT0T_UYM8s=s360",Loupe FHD
-https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" ch-number="502" tvg-id="502" tvg-chno="502" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png",Love Nature FHD
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tbur8nX.png?v=1.0.0.1" group-title="Documentary",Outdoor Channel
-#https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 https://outdoorchannel-samsungau.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 ch-id="OUTSIDE (US)" tvg-logo="https://function-snow.com/wp-content/uploads/2013/03/Outside_logo.png"  group-title="4K",OUTSIDE (US)
-https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
+#EXTINF:-1 ch-id="OUTSIDE (US)" tvg-logo="https://function-snow.com/wp-content/uploads/2013/03/Outside_logo.png"  group-title="Documentary",OUTSIDE (US)
+https://outsidetv-outside-localnow.amagi.tv/playlistR720lp.m3u8
 
 #EXTINF:-1 tvg-id="ElectricNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Entertainment",Electric Now
 https://ov.ottera.tv/live/master.m3u8?channel=elec_en

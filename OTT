@@ -171,7 +171,6 @@ https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=063689e84408a4542e3a158073182210&key=fd205780495645c7334cbdea0dc94f17
 #EXTINF:-1 tvg-ID="1393" tvg-logo="https://www.lyngsat.com/logo/tv/pp/paramount-network-us.png" group-title="Movie",Paramount Network FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
-#http://15.235.142.228:8080/live/hometvfree/selaludihati/46.m3u8
 
 #EXTINF:-1 tvg-ID="1393" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="Movie",MyCinema
 http://15.235.142.228:8080/live/hometvfree/selaludihati/45.m3u8
@@ -312,7 +311,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://www.lyngsat.com/logo/tv/ff/food_network_asia.png" group-title="Documentary",Asian Food Network
 https://liveanevia.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
-#http://15.235.142.228:8080/live/hometvfree/selaludihati/87.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0845d8900e973747e70c9f61ebed2d10&key=4bdb394a43bb955d6d67107620de17db
@@ -329,7 +327,7 @@ https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/3000.m3u8
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ae_us.png" group-title="Documentary",A&E HD
-http://meu02.cularu.com:8880/live/SDY14M3N283/14M3N283/3167.ts
+http://mvu03.wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1706
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=835f1c94b9a333eea1e7bb78b0a79010&key=57f68cdc4023fc8511dc1ea6b5502a1c

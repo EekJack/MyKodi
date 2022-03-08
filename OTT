@@ -700,9 +700,8 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/GAMESHOW/961ac1c875f5884f31bdd177365
 https://bk7l2w4nlx53-hls-live.5centscdn.com/TLC/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us.svg" group-title="US",History
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#https://www.anthymtv.com/cops
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HcENOyq.jpg" group-title="US",Cops
 https://bk7l2w4nlx53-hls-live.5centscdn.com/LivePD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
@@ -711,6 +710,9 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CBSN.us" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/kDqyJcP.jpg" group-title="News",CBSN (US)
 https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/12/Haunt_Roku-1.jpg" group-title="US",Haunt TV
+https://haunttv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Documentary",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/intracks-v2a1/mono.m3u8dex.m3u8?wowzasessionid=inspiration

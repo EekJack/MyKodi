@@ -699,6 +699,9 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/GAMESHOW/961ac1c875f5884f31bdd177365
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zpPhaqX.png" group-title="US",Lifestyle
 https://bk7l2w4nlx53-hls-live.5centscdn.com/TLC/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us.svg" group-title="US",History
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
+
 #https://www.anthymtv.com/cops
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HcENOyq.jpg" group-title="US",Cops
 https://bk7l2w4nlx53-hls-live.5centscdn.com/LivePD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8

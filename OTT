@@ -786,10 +786,10 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png" tvg-id="" tvg-name="" group-title="Indo",Indosiar
 #https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
-http://tvn.x10.bz/vidio/master.m3u8
+http://tvn.x10.bz/xchannel/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png" tvg-id="" tvg-name="" group-title="Indo",SCTV
-http://tvn.x10.bz/vidio/master-24.m3u8
+http://tvn.x10.bz/xchannel/master-24.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -861,7 +861,8 @@ http://live.flixhub.net/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-logo="http://live.flixhub.net/img/sonyten3.jpg" group-title="Sport",Ten 3
 http://live.flixhub.net/hls/sonyten3.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://img.dtcn.com/image/themanual/fite-tv-streaming-service-800x800.jpg" group-title="Sport",FITE(wrestlingChannel)HD
+https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 
 
 

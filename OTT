@@ -177,7 +177,8 @@ http://15.235.142.228:8080/live/hometvfree/selaludihati/43.m3u8
 http://15.235.142.228:8080/live/hometvfree/selaludihati/56.m3u8
 
 #EXTINF:-1 tvg-ID="1393" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies_in_select.png" group-title="Movie",Star Movies
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+http://live.flixhub.net/hls/starmovies.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1dcd711054d1b3e2b16b41e2446d8c10&key=f0b97c062a990e4b99cfed4527aed878
@@ -573,9 +574,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 #EXTINF:-1 tvg-id="800" tvg-logo="http://linear-poster.astro.com.my/prod/logo/eGG_v1.png" group-title="Sport",eGG Network
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="Sport",Ten 1
-http://live.flixhub.net/hls/sonyten1.m3u8
-
 EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sport",BT Sport 2
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/2942
 
@@ -653,7 +651,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1CHN" tvg-name="Star WORLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Star_World_HD_India.png" group-title="Entertainment",Star World HD
-http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+#http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+http://live.flixhub.net/hls/star-worldhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jsQLDy1.png" group-title="US",FIGHT NIGHT
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Fight/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
@@ -841,16 +840,26 @@ http://live.flixhub.net/hls/select2.m3u8
 #EXTINF:-1 tvg-logo="http://live.flixhub.net/img/sonypixhd.jpg" tvg-id="" tvg-name="iNews" group-title="Movie",Sony Pix HD
 http://live.flixhub.net/hls/sonypixhd.m3u8
 
-#EXTINF:-1 tvg-logo="http://live.flixhub.net/img/starmovies.jpg" tvg-id="" tvg-name="iNews" group-title="Movie",Movies Now HD
+#EXTINF:-1 tvg-logo="http://live.flixhub.net/img/starmovies.jpg" tvg-id="" tvg-name="" group-title="Movie",Movies Now HD
 http://live.flixhub.net/hls/movies-now.m3u8
 
+#EXTINF:-1 tvg-logo="http://live.flixhub.net/img/mn+.jpg" group-title="Movie",MN+ HD
+http://live.flixhub.net/hls/mn+.m3u8
 
+#EXTINF:-1 tvg-logo="http://live.flixhub.net/img/mnx-hd.jpg" group-title="Movie", MNX HD
+http://live.flixhub.net/hls/mnx-hd.m3u8
 
+#EXTINF:-1 tvg-logo="http://live.flixhub.net/img/Sony-six-hd.png" group-title="Sport",Sony Six HD
+http://live.flixhub.net/hls/sonysix.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="Sport",Ten 1
+http://live.flixhub.net/hls/sonyten1.m3u8
 
+#EXTINF:-1 tvg-logo="http://live.flixhub.net/img/sony_ten_2.jpg" group-title="Sport",Ten 2
+http://live.flixhub.net/hls/sonyten2.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="http://live.flixhub.net/img/sonyten3.jpg" group-title="Sport",Ten 3
+http://live.flixhub.net/hls/sonyten3.m3u8
 
 
 

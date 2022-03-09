@@ -840,7 +840,7 @@ http://live.flixhub.net/hls/select2.m3u8
 #EXTINF:-1 tvg-logo="http://live.flixhub.net/img/sonypixhd.jpg" tvg-id="" tvg-name="" group-title="Movie",Sony Pix HD
 http://live.flixhub.net/hls/sonypixhd.m3u8
 
-#EXTINF:-1 tvg-logo="http://live.flixhub.net/img/starmovies.jpg" tvg-id="" tvg-name="" group-title="Movie",Movies Now HD
+#EXTINF:-1 tvg-logo="http://live.flixhub.net/img/movies-now.jpg" tvg-id="" tvg-name="" group-title="Movie",Movies Now HD
 http://live.flixhub.net/hls/movies-now.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.flixhub.net/img/mn+.jpg" group-title="Movie",MN+ HD

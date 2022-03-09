@@ -831,13 +831,13 @@ https://liveanevia.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/inews-id.png" tvg-id="" tvg-name="iNews" group-title="Indo",iNews
 https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-logo="http://live.flixhub.net/img/Star_Sports_Select_1_HD.jpg" tvg-id="" tvg-name="iNews" group-title="Sport",Star Sport Select 1 HD
+#EXTINF:-1 tvg-logo="http://live.flixhub.net/img/Star_Sports_Select_1_HD.jpg" tvg-id="" tvg-name="" group-title="Sport",Star Sport Select 1 HD
 http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 
-#EXTINF:-1 tvg-logo="http://live.flixhub.net/img/select2.jpg" tvg-id="" tvg-name="iNews" group-title="Sport",Star Sport Select 2 HD
+#EXTINF:-1 tvg-logo="http://live.flixhub.net/img/select2.jpg" tvg-id="" tvg-name="" group-title="Sport",Star Sport Select 2 HD
 http://live.flixhub.net/hls/select2.m3u8
 
-#EXTINF:-1 tvg-logo="http://live.flixhub.net/img/sonypixhd.jpg" tvg-id="" tvg-name="iNews" group-title="Movie",Sony Pix HD
+#EXTINF:-1 tvg-logo="http://live.flixhub.net/img/sonypixhd.jpg" tvg-id="" tvg-name="" group-title="Movie",Sony Pix HD
 http://live.flixhub.net/hls/sonypixhd.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.flixhub.net/img/starmovies.jpg" tvg-id="" tvg-name="" group-title="Movie",Movies Now HD

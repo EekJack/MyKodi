@@ -969,30 +969,53 @@ https://mediaprima.rastream.com/mediaprima-onefm
 #EXTINF:-1 group-title="RADIO" ch-number="725" tvg-chno=""tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",Molek FM
 https://mediaprima.rastream.com/mediaprima-molekfm
  
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",Hitz FM
+https://astro1.rastream.com/hitz
 
+#EXTINF:-1 group-title="RADIO" tvg-id="MY" ch-number="853" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png",MyFM
+https://astro1.rastream.com/myfm
 
+#EXTINF:-1 group-title="RADIO" tvg-id="MIX" ch-number="855" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX
+https://astro2.rastream.com/mix
 
+#EXTINF:-1 group-title="RADIO" tvg-id="ERA" ch-number="856" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA
+https://astro2.rastream.com/era
 
+#EXTINF:-1 group-title="RADIO" tvg-id="SINAR" ch-number="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR
+https://astro2.rastream.com/sinar
 
+#EXTINF:-1 group-title="RADIO" tvg-id="MELODY" ch-number="858" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY
+https://astro3.rastream.com/melody
 
+#EXTINF:-1 group-title="RADIO" tvg-id="ROCK" ch-number="860" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokClassicRock2021.png",Classic Rock
+https://astro4.rastream.com/rock
 
+#EXTINF:-1 group-title="RADIO" tvg-id="GOLD" ch-number="861" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokGold2021.png",Gold
+https://astro4.rastream.com/gold
 
+#EXTINF:-1 group-title="RADIO" tvg-id="OPUS" ch-number="862" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokOpus2021.png",Opus
+https://astro4.rastream.com/opus
 
+#EXTINF:-1 group-title="RADIO" tvg-id="GEGAR" ch-number="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
+https://astro3.rastream.com/gegar
 
+#EXTINF:-1 group-title="RADIO" tvg-id="BAYU" ch-number="867" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokBayu2021.png",Bayu
+https://astro4.rastream.com/bayu
 
+#EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Era_Sabah_2018.png/revision/latest?cb=20211107023416",ERA Sabah
+https://astro2.rastream.com/amp-era-kk
 
+#EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Era_Sarawak_2018.png/revision/latest?cb=20211107023427",ERA Sarawak
+https://astro2.rastream.com/amp-era-kch
 
+#EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Hitz_Sabah_2018.png/revision/latest?cb=20211113030208",HITZ Sabah
+https://astro1.rastream.com/amp-hitz-kk
 
+#EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Hitz_Sarawak_2018.png/revision/latest?cb=20211113030223",HITZ Sarawak
+https://astro1.rastream.com/amp-hitz-kch
 
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="STESEN RADIO" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/My_FM_Sabah_2018.png/revision/latest?cb=20211113091611",MyFM Sabah
+https://astro1.rastream.com/amp-myfm-kk
 
 
 

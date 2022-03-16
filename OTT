@@ -318,8 +318,8 @@ https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/3000.m3u8
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ae_us.png" group-title="Documentary",A&E HD
-#http://95.214.235.96:8880/SFL122431/N6EG15T0/3167
-http://31.42.185.216:8000/jonathang243/M6TBTT8/148868
+http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/3167
+#http://31.42.185.216:8000/jonathang243/M6TBTT8/148868
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=835f1c94b9a333eea1e7bb78b0a79010&key=57f68cdc4023fc8511dc1ea6b5502a1c

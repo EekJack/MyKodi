@@ -752,6 +752,12 @@ http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tbur8nX.png?v=1.0.0.1" group-title="Documentary",Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png" group-title="Documentary",In Wild
+https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991628/300x300.png?type=color_onBlack" group-title="Documentary",Wild Earth
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+
 #EXTINF:-1 ch-id="OUTSIDE (US)" tvg-logo="https://function-snow.com/wp-content/uploads/2013/03/Outside_logo.png"  group-title="Documentary",OUTSIDE (US)
 https://outsidetv-outside-localnow.amagi.tv/playlistR720lp.m3u8
 
@@ -887,16 +893,20 @@ http://live.flixhub.net/hls/mn+.m3u8
 http://live.flixhub.net/hls/mnx-hd.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.flixhub.net/img/Sony-six-hd.png" group-title="Sport",Sony Six HD
-http://live.flixhub.net/hls/sonysix.m3u8
+#http://live.flixhub.net/hls/sonysix.m3u8
+https://tvstream.fun/jtv/mhhd.php?c=Six_HD&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="Sport",Ten 1
-http://live.flixhub.net/hls/sonyten1.m3u8
+#http://live.flixhub.net/hls/sonyten1.m3u8
+https://tvstream.fun/jtv/mhhd.php?c=Ten_HD&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.flixhub.net/img/sony_ten_2.jpg" group-title="Sport",Ten 2
-http://live.flixhub.net/hls/sonyten2.m3u8
+#http://live.flixhub.net/hls/sonyten2.m3u8
+https://tvstream.fun/jtv/mhhd.php?c=Ten2_HD&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.flixhub.net/img/sonyten3.jpg" group-title="Sport",Ten 3
-http://live.flixhub.net/hls/sonyten3.m3u8
+#http://live.flixhub.net/hls/sonyten3.m3u8
+https://tvstream.fun/jtv/mhhd.php?c=Ten3_HD&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.dtcn.com/image/themanual/fite-tv-streaming-service-800x800.jpg" group-title="Sport",FITE(wrestlingChannel)HD
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8

@@ -881,7 +881,8 @@ http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 http://live.flixhub.net/hls/select2.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.flixhub.net/img/sonypixhd.jpg" tvg-id="" tvg-name="" group-title="Movie",Sony Pix HD
-http://live.flixhub.net/hls/sonypixhd.m3u8
+#http://live.flixhub.net/hls/sonypixhd.m3u8
+https://tvstream.fun/jtv/mhhd.php?c=Sony_Pix_HD&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.flixhub.net/img/movies-now.jpg" tvg-id="" tvg-name="" group-title="Movie",Movies Now HD
 http://live.flixhub.net/hls/movies-now.m3u8

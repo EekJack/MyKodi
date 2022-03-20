@@ -470,7 +470,7 @@ https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cb7eb2b786d7587318c42b37e3e5510:fcc2c6e8adf5418e35382f77e5ad56ec
-EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="News",CNN HD
+#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="News",CNN HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 

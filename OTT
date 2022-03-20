@@ -1023,17 +1023,29 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manife
 #http://live.flixhub.net/hls/sonysix.m3u8
 #https://tvstream.fun/jtv/mhhd.php?c=Six_HD&q=800&e=.m3u8
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="Sport",Ten 1
-http://live.flixhub.net/hls/sonyten1.m3u8
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
+#http://live.flixhub.net/hls/sonyten1.m3u8
 #https://tvstream.fun/jtv/mhhd.php?c=Ten_HD&q=800&e=.m3u8
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-logo="http://live.flixhub.net/img/sony_ten_2.jpg" group-title="Sport",Ten 2
-http://live.flixhub.net/hls/sonyten2.m3u8
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
+#http://live.flixhub.net/hls/sonyten2.m3u8
 #https://tvstream.fun/jtv/mhhd.php?c=Ten2_HD&q=800&e=.m3u8
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-logo="http://live.flixhub.net/img/sonyten3.jpg" group-title="Sport",Ten 3
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 #http://live.flixhub.net/hls/sonyten3.m3u8
-https://tvstream.fun/jtv/mhhd.php?c=Ten3_HD&q=800&e=.m3u8
+#https://tvstream.fun/jtv/mhhd.php?c=Ten3_HD&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.dtcn.com/image/themanual/fite-tv-streaming-service-800x800.jpg" group-title="Sport",FITE(wrestlingChannel)HD
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8

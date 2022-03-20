@@ -709,8 +709,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 group-title="Lokal" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
 #EXTVLCOPT:http-referrer=https://dailymotion.com
-#https://unifi-live05.secureswiftcontent.com/UnifiSD/live02.mpd
-http://50.7.161.82:8278/TV8/playlist.m3u8?tid=m02000000000013140036&ct=17958&tsum=712d61fd40f86b1abccb1a5afb6d358a
+https://unifi-live05.secureswiftcontent.com/UnifiSD/live02.mpd
+#http://50.7.161.82:8278/TV8/playlist.m3u8?tid=m02000000000013140036&ct=17958&tsum=712d61fd40f86b1abccb1a5afb6d358a
 
 #EXTINF:-1 group-title="Lokal" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
 #http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1729

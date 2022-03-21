@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.license_key=6d2d84310d3fb9230404a1fbf5b33d10:8be93a0a6b41efad87096080bc55211a
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="Sport" tvg-logo="https://iili.io/1NzqF4.png",Ass-tro Supersport 1 HD
 https://linears-playback.astro.com.my/vsg/21wWGMNLV8kOTQ6jH3Zc8zC1iBs_y2Fe7TjqgctuHD26M=B4Vb/dash-wv/jitp-linearwm/601/default_ott.mpd
-#http://203.154.243.89:21202/nakhon
+#http://203.154.243.89:21201/nakhon
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=369ee7aba1e1504f85366b899d81ef10:299fbf0f774920858ff4fabf0afbe6b7

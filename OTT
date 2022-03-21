@@ -3,45 +3,45 @@
 SPORT
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
+#KODIPROP:inputstream.adaptive.license_key=6d2d84310d3fb9230404a1fbf5b33d10:8be93a0a6b41efad87096080bc55211a
 #EXTINF:-1 tvg-id="811" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Sport",Ass-tro SuperSport 1 HD
-#https://linears-playback.astro.com.my/vsg/21wWGMNLV8kOTQ6jH3Zc8zC1iBs_y2Fe7TjqgctuHD26M=B4Vb/dash-wv/jitp-linearwm/601/default_ott.mpd
-http://203.154.243.89:21201/nakhon
+https://linears-playback.astro.com.my/vsg/21wWGMNLV8kOTQ6jH3Zc8zC1iBs_y2Fe7TjqgctuHD26M=B4Vb/dash-wv/jitp-linearwm/601/default_ott.mpd
+#http://203.154.243.89:21201/nakhon
 #http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1722
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
+#KODIPROP:inputstream.adaptive.license_key=369ee7aba1e1504f85366b899d81ef10:299fbf0f774920858ff4fabf0afbe6b7
 #EXTINF:-1 tvg-id="812" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
-#https://linears-playback.astro.com.my/vsg/21_VV8FpwXklpNunLqVCmY0CPzZPwN8JkKyAwfY0EfQRs=7-aV/dash-wv/jitp-linearwm/2104/default_ott.mpd
-http://203.154.243.89:21202/nakhon
+https://linears-playback.astro.com.my/vsg/21_VV8FpwXklpNunLqVCmY0CPzZPwN8JkKyAwfY0EfQRs=7-aV/dash-wv/jitp-linearwm/2104/default_ott.mpd
+#http://203.154.243.89:21202/nakhon
 #http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1721
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
+#KODIPROP:inputstream.adaptive.license_key=a522db0e2c8b90c38b64187018648a10:cf66fd59fe28f45418628313e06d52da
 #EXTINF:-1 tvg-id="813" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Sport",Ass-tro SuperSport 3 HD
-#https://linears-playback.astro.com.my/vsg/21wOMqzKgHMmvWuC40d57WufRCVkN_V0ZpaH4eMt-TxP8=xnwp/dash-wv/jitp-linearwm/2701/default_ott.mpd
-http://203.154.243.89:21203/nakhon
+https://linears-playback.astro.com.my/vsg/21wOMqzKgHMmvWuC40d57WufRCVkN_V0ZpaH4eMt-TxP8=xnwp/dash-wv/jitp-linearwm/2701/default_ott.mpd
+#http://203.154.243.89:21203/nakhon
 #http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1720
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
+#KODIPROP:inputstream.adaptive.license_key=0f38843b85760decb7a30fde6af3ff10:9c50a5c2b6219463f05c5d8f9f42892e
 #EXTINF:-1 tvg-id="814" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sport",Ass-tro SuperSport 4 HD
-#https://linears-playback.astro.com.my/vsg/21aUhfo8oV9Mq65eQPnEhkRwEs77QwrvJqHBKj_QAOsBQ=EQg4/dash-wv/jitp-linearwm/2506/default_ott.mpd
-http://203.154.243.89:21204/nakhon
+https://linears-playback.astro.com.my/vsg/21aUhfo8oV9Mq65eQPnEhkRwEs77QwrvJqHBKj_QAOsBQ=EQg4/dash-wv/jitp-linearwm/2506/default_ott.mpd
+#http://203.154.243.89:21204/nakhon
 #http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1719
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
-#EXTINF:-1 tvg-id="814" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sport",Ass-tro SuperSport 5 HD
+#KODIPROP:inputstream.adaptive.license_key=113d6e58ea7e223e3fb4a9af3e927010:dc86f5d82e5dfaa0fbb22d220e023b7c
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sport",Ass-tro SuperSport 5 HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb9d78b1c5776744014935bb3fe4ea10:0dc6d298bc48c0de11dc6bf9ede30323
-#EXTINF:-1 tvg-id="809" tvg-name="" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/439_144.png",Ass-tro Supersport Plus HD
+#EXTINF:-1 group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/439_144.png",Ass-tro Supersport Plus HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=01cde7c31b1a3ea2aa7a6f579a0f4610&key=710f5ebe6bb2d50978ef0e5aa5fc69d4
+#KODIPROP:inputstream.adaptive.license_key=01cde7c31b1a3ea2aa7a6f579a0f4610:710f5ebe6bb2d50978ef0e5aa5fc69d4
 #EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/BRZ8rmA_d.png" group-title="Sport",SPOTV 1 FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 
@@ -56,7 +56,7 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9
+#KODIPROP:inputstream.adaptive.license_key=782f32d9501ac50dfd783671ade95210:9690dcf2368b1664680a8099125ccca9
 #EXTINF:-1 tvg-id="821" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="Sport",WWE Network FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 
@@ -757,10 +757,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 #http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m02000000000016192913&ct=17958&tsum=7c7f40ea3d204e5a683354afd932a406
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
+#KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
 #EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Asstro", As-stro Warna HD
-#https://linears-playback.astro.com.my/vsg/21mBNCs8yfjJH0GVG47jlYuSB6PlI4cHdU4dcJ7dZmaa4=nk8u/dash-wv/jitp-linearwm/2402/default_ott.mpd
-http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m03929078146113960019&ct=18379&tsum=9eebc9c505beec9da52731f68f99090e
+https://linears-playback.astro.com.my/vsg/21mBNCs8yfjJH0GVG47jlYuSB6PlI4cHdU4dcJ7dZmaa4=nk8u/dash-wv/jitp-linearwm/2402/default_ott.mpd
+#http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m03929078146113960019&ct=18379&tsum=9eebc9c505beec9da52731f68f99090e
 #http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1706
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

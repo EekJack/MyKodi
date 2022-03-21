@@ -1,11 +1,10 @@
 #EXTM3U
 
-SPORT
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d2d84310d3fb9230404a1fbf5b33d10:8be93a0a6b41efad87096080bc55211a
 #EXTINF:-1 tvg-id="811" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Sport",Ass-tro SuperSport 1 HD
 https://linears-playback.astro.com.my/vsg/21wWGMNLV8kOTQ6jH3Zc8zC1iBs_y2Fe7TjqgctuHD26M=B4Vb/dash-wv/jitp-linearwm/601/default_ott.mpd
+
 #http://203.154.243.89:21201/nakhon
 #http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1722
 
@@ -13,6 +12,7 @@ https://linears-playback.astro.com.my/vsg/21wWGMNLV8kOTQ6jH3Zc8zC1iBs_y2Fe7Tjqgc
 #KODIPROP:inputstream.adaptive.license_key=369ee7aba1e1504f85366b899d81ef10:299fbf0f774920858ff4fabf0afbe6b7
 #EXTINF:-1 tvg-id="812" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
 https://linears-playback.astro.com.my/vsg/21_VV8FpwXklpNunLqVCmY0CPzZPwN8JkKyAwfY0EfQRs=7-aV/dash-wv/jitp-linearwm/2104/default_ott.mpd
+
 #http://203.154.243.89:21202/nakhon
 #http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1721
 
@@ -20,6 +20,7 @@ https://linears-playback.astro.com.my/vsg/21_VV8FpwXklpNunLqVCmY0CPzZPwN8JkKyAwf
 #KODIPROP:inputstream.adaptive.license_key=a522db0e2c8b90c38b64187018648a10:cf66fd59fe28f45418628313e06d52da
 #EXTINF:-1 tvg-id="813" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Sport",Ass-tro SuperSport 3 HD
 https://linears-playback.astro.com.my/vsg/21wOMqzKgHMmvWuC40d57WufRCVkN_V0ZpaH4eMt-TxP8=xnwp/dash-wv/jitp-linearwm/2701/default_ott.mpd
+
 #http://203.154.243.89:21203/nakhon
 #http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1720
 
@@ -27,6 +28,7 @@ https://linears-playback.astro.com.my/vsg/21wOMqzKgHMmvWuC40d57WufRCVkN_V0ZpaH4e
 #KODIPROP:inputstream.adaptive.license_key=0f38843b85760decb7a30fde6af3ff10:9c50a5c2b6219463f05c5d8f9f42892e
 #EXTINF:-1 tvg-id="814" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sport",Ass-tro SuperSport 4 HD
 https://linears-playback.astro.com.my/vsg/21aUhfo8oV9Mq65eQPnEhkRwEs77QwrvJqHBKj_QAOsBQ=EQg4/dash-wv/jitp-linearwm/2506/default_ott.mpd
+
 #http://203.154.243.89:21204/nakhon
 #http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1719
 

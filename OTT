@@ -1065,12 +1065,6 @@ http://tvn.x10.bz/xchannel/master-6.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="Sport",ChampionTv2
 http://tvn.x10.bz/xchannel/master-7.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="Sport",ChampionTv3
-http://tvn.x10.bz/xchannel/master-8.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-4-id.png" group-title="Sport",ChampionTv4
-http://tvn.x10.bz/xchannel/master-17.m3u8
-
 RADIO
 
 #EXTINF:-1 group-title="RADIO" ch-number="701" tvg-id=""g-chno="701" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.png",Nasional FM

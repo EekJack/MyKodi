@@ -19,14 +19,14 @@ KODIPROP:inputstream.adaptive.license_type=clearkey
 https://linears-playback.astro.com.my/vsg/21wOMqzKgHMmvWuC40d57WufRCVkN_V0ZpaH4eMt-TxP8=xnwp/dash-wv/jitp-linearwm/2701/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f38843b85760decb7a30fde6af3ff10:9c50a5c2b6219463f05c5d8f9f42892e
+#KODIPROP:inputstream.adaptive.license_key=113d6e58ea7e223e3fb4a9af3e927010:dc86f5d82e5dfaa0fbb22d220e023b7c
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sport",Ass-tro SuperSport 4 HD
-https://linears-playback.astro.com.my/vsg/21aUhfo8oV9Mq65eQPnEhkRwEs77QwrvJqHBKj_QAOsBQ=EQg4/dash-wv/jitp-linearwm/2506/default_ott.mpd
+https://bit.ly/3tv8SCX
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=113d6e58ea7e223e3fb4a9af3e927010:dc86f5d82e5dfaa0fbb22d220e023b7c
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sport",Ass-tro SuperSport 5 HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
+#EXTINF:-1 tvg-id="815" tvg-name="Astro SuperSport 5 HD" group-title="Sports" tvg-logo="https://iili.io/1N10rP.png",Ass-tro Supersport 5 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb9d78b1c5776744014935bb3fe4ea10:0dc6d298bc48c0de11dc6bf9ede30323

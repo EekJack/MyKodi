@@ -1001,8 +1001,12 @@ http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="http://live.flixhub.net/img/select2.jpg" tvg-id="" tvg-name="" group-title="Sport",Star Sport Select 2 HD
 http://live.flixhub.net/hls/select2.m3u8
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-logo="http://live.flixhub.net/img/sonypixhd.jpg" tvg-id="" tvg-name="" group-title="Movie",Sony Pix HD
-http://live.flixhub.net/hls/sonypixhd.m3u8
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
+#http://live.flixhub.net/hls/sonypixhd.m3u8
 #https://tvstream.fun/jtv/mhhd.php?c=Sony_Pix_HD&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.flixhub.net/img/movies-now.jpg" tvg-id="" tvg-name="" group-title="Movie",Movies Now HD

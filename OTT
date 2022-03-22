@@ -1,5 +1,10 @@
 #EXTM3U
-
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml" url-tvg="https://weareblahs.github.io/epg/rtmklik.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml" url-tvg="https://weareblahs.github.io/epg/astro.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://epg.kampung.xyz/IPTV.xml" url-tvg="https://epg.kampung.xyz/IPTV.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -35,8 +40,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01cde7c31b1a3ea2aa7a6f579a0f4610:710f5ebe6bb2d50978ef0e5aa5fc69d4
-#EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/BRZ8rmA_d.png" group-title="Sport",SPOTV 1 FHD
+EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/BRZ8rmA_d.png" group-title="Sport",SPOTV 1 FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YemtUa3FJLWZHeG1tUUliNDU0dzctZXdKaGNXWUQ4YTJHaWJYb1BBY3JtaXVGd0hqY2dsQWJKeGYzQ0c1TWoxZWFwMjVBSmNaR25NYTF6TnVSUFBBOFNPa0ZxbFhIUU83Z1JzbTVUVnVPalVDazVDZkZPRnROMExaUUliQkw5eHpWYkFSbktuWUowR1p0YmVIdEM3UmFFZUViWWgzOVQ0UkpkQmtXRzM3UFhyM3c1aWdJZTBtbktnUEpuVUR6QmwtSmoxV1BEeGxRTVp4REpFNmVGVlJvUXhrc21sYk1VdG1ib0JKQ1pTLTduUXpsb0dDMkEyTE5NaFJ1aklqUmU5ZEUyTno1ZmJWcVJVckhsY0V3cENXMXlNd29Ra1FNdGxsRTZlWWlsYWpfN1NScUotMnQzWm9ob1RYV1o3SXM4WXdsZTgtMU5OQzlKSTNTQlRaamVYOG96X0FLOTI3cllGU3BFQzZyUVBqUHo5ejJjd3JlWnU1elAxOW5MdjdPU2lWazNMZGQ0TGpzNWxZZkk3NDhWajc4VmFCSEp1NkNQOHZzNUU5eFdUM0c0TDBMRW1zTFdjUnhpaHhDbFQ4RW1RSXc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTQ3MzEyNDUiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiZTU1ODRjZmZfZDYxNV80OTEzXzk3YjhfY2RlZDVlNjc5YzE5IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHprVGtxSS1mR3htbVFJYjQ1NHc3LWV3SmhjV1lEOGEyR2liWG9QQWNybWl1RndIamNnbEFiSnhmM0NHNU1qMWVhcDI1QUpjWkduTWExek51UlBQQThTT2tGcWxYSFFPN2dSc201VFZ1T2pVQ2s1Q2ZGT0Z0TjBMWlFJYkJMOXh6VmJBUm5LbllKMEdadGJlSHRDN1JhRWVFYlloMzlUNFJKZEJrV0czN1BYcjN3NWlnSWUwbW5LZ1BKblVEekJsLUpqMVdQRHhsUU1aeERKRTZlRlZSb1F4a3NtbGJNVXRtYm9CSkNaUy03blF6bG9HQzJBMkxOTWhSdWpJalJlOWRFMk56NWZiVnFSVXJIbGNFd3BDVzF5TXdvUWtRTXRsbEU2ZVlpbGFqXzdTUnFKLTJ0M1pvaG9UWFdaN0lzOFl3bGU4LTFOTkM5SkkzU0JUWmplWDhvel9BSzkyN3JZRlNwRUM2clFQalB6OXoyY3dyZVp1NXpQMTluTHY3T1NpVmszTGRkNExqczVsWWZJNzQ4Vmo3OFZhQkhKdTZDUDh2czVFOXhXVDNHNEwwTEVtc0xXY1J4aWh4Q2xUOEVtUUl3PSIsInVkaWQiOiIwYzZlYjg2Yy0wMGNmLTQzMTEtYmIwZS1kZTFmZjIxODRlN2VfV0VCLTVhMGE5ZGE3LWVmNjQtYWFkYy1jOTM1LThlMjA0ODVhMzY0OCIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=bouvvefUF3%2fmDsBK1a3G0CRXXF0%3d&sessionId=4d505def-b678-5fcd-76ad-bdf713bf1936:95995ade-228f-5cab-4de6-bb7af5da86f5&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5LzIwMjItaWRlbWl0c3UtYXNpYS10YWxlbnQtY3VwLzEyMDk0NTkvcGxheWVyP2xpbmVhcklkPTEwMDEzNjg3NCZpc0xpdmU9dHJ1ZQ==
+#EXTINF:-1 tvg-id="816" tvg-name="SPOTV" group-title="Sport" tvg-logo="https://iili.io/1NzIte.png",SPOTV FHD
+https://linear03-playback.sooka.my/CH1/masterCH1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1

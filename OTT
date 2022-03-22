@@ -1014,9 +1014,9 @@ http://live.flixhub.net/hls/mn+.m3u8
 #EXTINF:-1 tvg-logo="http://live.flixhub.net/img/mnx-hd.jpg" group-title="Movie", MNX HD
 http://live.flixhub.net/hls/mnx-hd.m3u8
 
-KODIPROP:inputstream.adaptive.manifest_type=mpd
-KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-logo="http://live.flixhub.net/img/Sony-six-hd.png" group-title="Sport",Sony Six HD
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
 #http://live.flixhub.net/hls/sonysix.m3u8
@@ -1030,17 +1030,17 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manif
 #http://live.flixhub.net/hls/sonyten1.m3u8
 #https://tvstream.fun/jtv/mhhd.php?c=Ten_HD&q=800&e=.m3u8
 
-KODIPROP:inputstream.adaptive.manifest_type=mpd
-KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-logo="http://live.flixhub.net/img/sony_ten_2.jpg" group-title="Sport",Ten 2
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
 #http://live.flixhub.net/hls/sonyten2.m3u8
 #https://tvstream.fun/jtv/mhhd.php?c=Ten2_HD&q=800&e=.m3u8
 
-KODIPROP:inputstream.adaptive.manifest_type=mpd
-KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-logo="http://live.flixhub.net/img/sonyten3.jpg" group-title="Sport",Ten 3
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 #http://live.flixhub.net/hls/sonyten3.m3u8

@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml" url-tvg="https://weareblahs.github.io/epg/astro.xml.gz" refresh="1440" max-conn="2" refresh="24"
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz" refresh="1440" max-conn="2" refresh="24"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d2d84310d3fb9230404a1fbf5b33d10:8be93a0a6b41efad87096080bc55211a

@@ -4,7 +4,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U x-tvg-url="https://epg.kampung.xyz/IPTV.xml" url-tvg="https://epg.kampung.xyz/IPTV.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d2d84310d3fb9230404a1fbf5b33d10:8be93a0a6b41efad87096080bc55211a

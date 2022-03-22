@@ -404,12 +404,12 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3743253e4717ebb939a814f6a20ac10:455e412c13c6369c12555ade2af64a04
-#EXTINF:-1 tvg-id="555" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Documentary",History FHD
+#EXTINF:-1 tvg-id="555" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us.svg" group-title="Documentary",History FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="HistoryAsia.us" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Documentary",History HD
+#EXTINF:-1 tvg-id="HistoryAsia.us" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us.svg" group-title="Documentary",History HD
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -865,7 +865,7 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/LivePD/961ac1c875f5884f31bdd177365ef
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-amg-tv-1213-768x576.jpg" group-title="US",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CBSN.us" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/kDqyJcP.jpg" group-title="News",CBSN (US)
+#EXTINF:-1 tvg-id="CBSN.us" tvg-logo="https://i.imgur.com/kDqyJcP.jpg" group-title="News",CBSN (US)
 https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/12/Haunt_Roku-1.jpg" group-title="US",Haunt TV
@@ -874,7 +874,7 @@ https://haunttv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Documentary",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="Documentary" ch-number="502" tvg-id="502" tvg-chno="502" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png",Love Nature FHD
+#EXTINF:-1 group-title="Documentary" tvg-id="" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png",Love Nature FHD
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tbur8nX.png?v=1.0.0.1" group-title="Documentary",Outdoor Channel
@@ -889,22 +889,22 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 ch-id="OUTSIDE (US)" tvg-logo="https://function-snow.com/wp-content/uploads/2013/03/Outside_logo.png"  group-title="Documentary",OUTSIDE (US)
 https://outsidetv-outside-localnow.amagi.tv/playlistR720lp.m3u8
 
-#EXTINF:-1 tvg-id="ElectricNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Entertainment",Electric Now
+#EXTINF:-1 tvg-id="ElectricNow.us" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Entertainment",Electric Now
 https://ov.ottera.tv/live/master.m3u8?channel=elec_en
 
-#EXTINF:-1 tvg-id="FrightFlix.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/rgNQYAl.png" group-title="Movie",FrightFlix
+#EXTINF:-1 tvg-id="FrightFlix.us" tvg-logo="https://i.imgur.com/rgNQYAl.png" group-title="Movie",FrightFlix
 https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hollywood_movie_channel.png" group-title="Movie",Hollywood HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hollywood_movie_channel.png" group-title="Movie",Hollywood HD
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/macau_lotus_tv_mo.png" group-title="Movie",Lotus Macau
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/macau_lotus_tv_mo.png" group-title="Movie",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OiMMkP3.jpg" group-title="Entertainment",Just for Laughs Gags
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OiMMkP3.jpg" group-title="Entertainment",Just for Laughs Gags
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UQjtEqR.png" group-title="US",Reelz Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UQjtEqR.png" group-title="US",Reelz Channel
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="US" tvg-logo="https://images-us-az.crackle.com/logo.png",Crackle tvᴴᴰ 

@@ -939,7 +939,7 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSN.us" tvg-logo="https://i.imgur.com/kDqyJcP.jpg" group-title="News",CBSN (US)
 https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/12/Haunt_Roku-1.jpg" group-title="US",Haunt TV
+#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/12/Haunt_Roku-1.jpg" group-title="Entertainment",Haunt TV
 https://haunttv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Documentary",Hunt Channel

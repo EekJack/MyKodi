@@ -14,7 +14,7 @@ http://elemento.x10.mx/stream/assp1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
-http://elemento.x10.mx/stream/assp2.mpd
+https://linears-playback.astro.com.my/vsg/21rz64M0PBiinKVhah1LodpTjOV8RK2O8H-eRKG0WjmOc=HqBt/dash-wv/jitp-linearwm/2104/default_ott.mpd
 #http://203.154.243.89:21202/nakhon
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

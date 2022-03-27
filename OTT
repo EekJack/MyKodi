@@ -33,7 +33,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01cde7c31b1a3ea2aa7a6f579a0f4610:710f5ebe6bb2d50978ef0e5aa5fc69d4
-#EXTINF:-1 tvg-id="816" tvg-name="SPOTV" group-title="Sport" tvg-logo="https://i.imgur.com/BRZ8rmA_d.png",SPOTV 1 FHD
+#EXTINF:-1 tvg-id="816" tvg-name="SPOTV" group-title="Sport" tvg-logo="https://iili.io/1NzIte.png",SPOTV 1 FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

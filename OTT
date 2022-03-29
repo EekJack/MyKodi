@@ -175,7 +175,7 @@ http://live.flixhub.net/hls/select2.m3u8
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tennis_channel.png" group-title="Sport",Tennis Channel
-https://dai.google.com/linear/hls/pb/event/Dlqr46ybTSGWGTfRWcxS0g/stream/7e32724e-c380-41c2-8d42-aa9baa11e007:SIN/variant/d2bea26840d46bd3754740746665b766/bandwidth/2768226.m3u8
+https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tennis_channel.png" group-title="Sport",Tennis Channel 2
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8

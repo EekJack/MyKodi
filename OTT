@@ -128,7 +128,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sport",PTV SPORTS
-http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
+#http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
+http://live.flixhub.net/hls/ptv.m3u8
 
 #EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png" group-title="Sport",F1
 http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/2876

@@ -182,13 +182,16 @@ https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="Sport",ChampionTv1
-https://artunnel57.com/1ouga8tz4sv4gook8c
+#https://artunnel57.com/1ouga8tz4sv4gook8c
+http://begaltvku.site/vidprem/master-6.m3u8 
 
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="Sport",ChampionTv2
-https://artunnel57.com/ly0u1gejits8440ws
+#https://artunnel57.com/ly0u1gejits8440ws
+http://begaltvku.site/vidprem/master-7.m3u8 
 
 #EXTINF:-1 tvg-id="ChampionsTV4.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="Sport",ChampionTv3
-https://artunnel57.com/1fphq5wepnok0g0s8c
+#https://artunnel57.com/1fphq5wepnok0g0s8c
+http://begaltvku.site/vidprem/master-8.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV4.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-4-id.png" group-title="Sport",ChampionTv4
 https://artunnel57.com/1koshv9a4qas0wc0s0

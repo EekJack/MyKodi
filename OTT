@@ -590,6 +590,9 @@ https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/thedesignnetwork1/assets/c5634f70-4821-4f4f-9a16-fab3baf707eb.png" group-title="Documentary" ,The Design Network
 https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/3000.m3u8
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="Documentary" ,Xplore
+https://xplore-plex.amagi.tv/playlist.m3u8
+
 CARTOON
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

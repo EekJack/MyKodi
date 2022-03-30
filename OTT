@@ -857,7 +857,7 @@ http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&t
 #http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/71146
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610;1807230578255fcd79e1279b13ae69d8
+#KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610:1807230578255fcd79e1279b13ae69d8
 #EXTINF:-1 tvg-id="112" ch-number="AstroRania" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="Asstro",Ass-tro Rania HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 

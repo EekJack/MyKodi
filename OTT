@@ -17,7 +17,8 @@ http://elemento.x10.mx/stream/assp2.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a522db0e2c8b90c38b64187018648a10:cf66fd59fe28f45418628313e06d52da
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Sport",Ass-tro SuperSport 3 HD
-http://elemento.x10.mx/stream/assp3.mpd
+https://linears-playback.astro.com.my/vsg/21FbLQ5QuXTV6ic9bFTdhE_xyVITGyhzRY0JK_s1dfXmw=kVth/dash-wv/jitp-linearwm/2701/default_ott.mpd
+#http://elemento.x10.mx/stream/assp3.mpd
 #http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/59218
 #http://203.154.243.89:21203/nakhon
 

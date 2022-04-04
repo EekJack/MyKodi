@@ -858,13 +858,13 @@ http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m03929078146113960019&ct=18379&t
 #http://164.132.168.27:8080/gaicu84/iVMgaicu84DNfwV/54217
 
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Asstro" tvg-id="",Ass-tro Ria HD
-#http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01674187119012462906&ct=18379&tsum=c7c1fdf7b1e0b30aad376edc1f50ed87
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01790894719016696035&ct=18381&tsum=d380a2ebfd1363b3e6fe4c9dd5f9ad1c
+http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01674187119012462906&ct=18379&tsum=c7c1fdf7b1e0b30aad376edc1f50ed87
+#http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01790894719016696035&ct=18381&tsum=d380a2ebfd1363b3e6fe4c9dd5f9ad1c
 #http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1705
 
 #EXTINF:-1 tvg-id="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Asstro" tvg-id="",Ass-tro Citra HD
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m09682579275017751642&ct=18379&tsum=732e3cc7f6a900ad8e7ac08fcac88c20
-#http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
+#http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m09682579275017751642&ct=18379&tsum=732e3cc7f6a900ad8e7ac08fcac88c20
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
 #http://164.132.168.27:8080/gaicu84/iVMgaicu84DNfwV/54199
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

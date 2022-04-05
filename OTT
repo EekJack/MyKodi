@@ -1223,11 +1223,92 @@ https://mediasv.online/stream_tv/603_eng3/playlist.m3u8
 #EXTINF:-1 group-title="THAI" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD4.png",True PremierHD 4 
 https://mediasv.online/stream_tv/604_eng4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD5.png" group-title="TrueTHAISports",True PremierHD 5 
+#EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD5.png" group-title="THAI",True PremierHD 5 
 https://mediasv.online/stream_tv/605_eng5/playlist.m3u8
 
-#EXTINF:-1 group-title="THAI"tvg-logo="https://doo2you.com/icon/H2.png",H2HD
+#EXTINF:-1 group-title="THAI" tvg-logo="https://www.lyngsat.com/logo/tv/hh/h2-latinoamerica-us.png",H2HD
 https://mediasv.online/stream_tv/557_H2/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://sv1.picz.in.th/images/2022/02/03/nexdeI.png",MYSci
+https://mediasv.online/stream_tv/goodtv58_MYSci./playlist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://bit.ly/3spKrWM",ExploreWild
+https://mediasv.online/stream_tv/559_ExploreWild/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgP8D.jpg",LOVENATURE
+https://mediasv.online/stream_tv/563_Love_Nature/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://doo2you.com/icon/2sporthd1.png",TRUE SPORT HD 1 
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/thd1/chunks.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://doo2you.com/icon/2sporthd2.png",TRUE SPORT HD 2 
+https://mediasv.online/stream_tv/668_Ts_HD3/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://doo2you.com/icon/2sporthd3.png",TRUE SPORT HD 3
+https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://doo2you.com/icon/2sporthd4.png",TRUE SPORT HD 4
+https://mediasv.online/stream_tv/669_Ts_HD4/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://doo2you.com/icon/TrueSport5.png",TRUE SPORT 5 
+https://mediasv.online/stream_tv/684_TSP5/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://doo2you.com/icon/TrueSport7.png",TRUE SPORT 7 
+https://mediasv.online/stream_tv/686_TSP7/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://doo2you.com/icon/truetennisicon.png",TRUE TENNIS
+https://mediasv.online/stream_tv/670_Tennis/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnh0e.png",Mono29 HD
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://sv1.picz.in.th/images/2022/02/21/rZfdFy.png",MONO29 Plus
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/109/109.mpd
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6JpJ.png",PPTV HD
+http://gmm-live-test.sky-cdn.com:1935/pptv/pptv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://bit.ly/3vO1aVX",TRUE THAI FILM
+https://mediasv.online/stream_tv/236_TrueThaiFilmHD/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://bit.ly/3tLnpck",TrueFilmAsia
+https://mediasv.online/stream_tv/237_TrueFilmAsia/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://bit.ly/3hVQRad",TRUE MOVIE HITS 
+https://mediasv.online/stream_tv/224_MovieHit/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://bit.ly/3tIrXAh",TRUE FILM 1
+https://mediasv.online/stream_tv/222_True_Film_HD/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://bit.ly/3hUcLKY",TRUE FILM 2
+https://mediasv.online/stream_tv/223_True_Film_HD2/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://bit.ly/3pRgyx0",TRUE CHAINESE MORE
+https://mediasv.online/stream_tv/225_TrueChinessMore/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SoYof.png",TRUE ASIAN MORE 
+https://mediasv.online/stream_tv/239_AsianMore/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SltvW.png",TRUE KOREAN MORE
+https://mediasv.online/stream_tv/238_KoreanMore/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://bit.ly/3Hk7HKd",Rock_Entertainment
+https://mediasv.online/stream_tv/337_Rock_Entertainment/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://sv1.picz.in.th/images/2021/11/20/6zlslb.png",ROCK EXTREME
+https://mediasv.online/stream_tv/338_Rock_Extreme/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI" tvg-logo="https://www.img.in.th/images/c895d79e8c08314c7e27141dd6f9793f.jpg",GEM
+https://mediasv.online/stream_tv/244_GEM/playlist.m3u8
+
+
+
+
+
+
+
+
+
 
 
 

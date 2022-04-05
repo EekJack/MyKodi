@@ -428,11 +428,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/300px-Channel_V_Logo.svg.png" group-title="Music",CHANNEL V 
-https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
+#https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="MusicTV.id" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-c-music-tv-9875-768x576.jpg" group-title="Music",MTV Live
+#EXTINF:-1 tvg-id="MusicTV.id" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-c-music-tv-9875-768x576.jpg" group-title="Music",Music Tv
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/YO%21_MTV.svg/revision/latest/scale-to-width-down/300?cb=20210629162715" group-title="Music",MTV Yo!
@@ -1211,20 +1211,45 @@ https://astro1.rastream.com/amp-hitz-kch
 #EXTINF:-1 group-title="RADIO" tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png",MyFM Sabah
 https://astro1.rastream.com/amp-myfm-kk
 
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png",True PremierHD 1
+#EXTINF:-1 group-title="THAI" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png",True PremierHD 1
 https://mediasv.online/stream_tv/600_eng1/playlist.m3u8
 
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png",True PremierHD 2
+#EXTINF:-1 group-title="THAI" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png",True PremierHD 2
 https://mediasv.online/stream_tv/602_eng2/playlist.m3u8
 
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png",True PremierHD 3
+#EXTINF:-1 group-title="THAI" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png",True PremierHD 3
 https://mediasv.online/stream_tv/603_eng3/playlist.m3u8
 
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD4.png",True PremierHD 4 
+#EXTINF:-1 group-title="THAI" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD4.png",True PremierHD 4 
 https://mediasv.online/stream_tv/604_eng4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD5.png" group-title="TrueSports",True PremierHD 5 
+#EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD5.png" group-title="TrueTHAISports",True PremierHD 5 
 https://mediasv.online/stream_tv/605_eng5/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI"tvg-logo="https://doo2you.com/icon/H2.png",H2HD
+https://mediasv.online/stream_tv/557_H2/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

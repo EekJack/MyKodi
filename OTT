@@ -207,6 +207,9 @@ http://begaltvku.site/vidprem/master-8.m3u8
 #EXTINF:-1 tvg-id="ChampionsTV4.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-4-id.png" group-title="Sport",ChampionTv4
 https://artunnel57.com/1koshv9a4qas0wc0s0
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.wrestlingnewsworld.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_640/MTU3NDA1OTgyMzYwMjgyMzE0/tna-wrestling.png" group-title="Sport",TNA Wrestling
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=509
+
 MOVIE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -415,35 +418,43 @@ https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #EXTINF:-1 tvg-id="717" tvg-name="" group-title="Entertainment" tvg-logo="https://iili.io/1mjMgt.png",BBC Lifestyle FHD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
 
+MUSIC
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=835f1c94b9a333eea1e7bb78b0a79010:57f68cdc4023fc8511dc1ea6b5502a1c
-#EXTINF:-1 tvg-id="718" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png" group-title="Entertainment",MTV ASIA
+#EXTINF:-1 tvg-id="718" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png" group-title="Music",MTV ASIA
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/300px-Channel_V_Logo.svg.png" group-title="Entertainment",CHANNEL V 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/300px-Channel_V_Logo.svg.png" group-title="Music",CHANNEL V 
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="MusicTV.id" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-c-music-tv-9875-768x576.jpg" group-title="Entertainment",MTV Live
+#EXTINF:-1 tvg-id="MusicTV.id" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-c-music-tv-9875-768x576.jpg" group-title="Music",MTV Live
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/YO%21_MTV.svg/revision/latest/scale-to-width-down/300?cb=20210629162715" group-title="Entertainment",MTV Yo!
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/YO%21_MTV.svg/revision/latest/scale-to-width-down/300?cb=20210629162715" group-title="Music",MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://user-images.githubusercontent.com/2148031/103225621-57610f00-48f8-11eb-9679-77d6c5cc3d98.png" group-title="Entertainment",MTV Spankin
+#EXTINF:-1 tvg-id="" tvg-logo="https://user-images.githubusercontent.com/2148031/103225621-57610f00-48f8-11eb-9679-77d6c5cc3d98.png" group-title="Music",MTV Spankin
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/MTV_Video_Music_Awards_logo.svg/375px-MTV_Video_Music_Awards_logo.svg.png" group-title="Entertainment",MTV VMA
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/MTV_Video_Music_Awards_logo.svg/375px-MTV_Video_Music_Awards_logo.svg.png" group-title="Music",MTV VMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/08/images-1-1-3-1.jpg" group-title="Entertainment",MTV Block Party
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/08/images-1-1-3-1.jpg" group-title="Music",MTV Block Party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Entertainment",MTV Biggest pop
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Music",MTV Biggest pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxjqfz1KbznHYILoRRHanesCW-XJqEezlOgk7EXCopF3i_oWTicgdt_RIRE2YmVfKebN4&usqp=CAU" group-title="Music",Kpop TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pikpng.com/pngl/m/169-1690931_download-hitt-music-logo-hit-music-channel-logo.png" group-title="Music",Hit Music
+http://hitmusic.hu/hitmusic.m3u8
 
 #KOREA#
 
@@ -712,6 +723,16 @@ https://happykids-roku.amagi.tv/playlist404pl.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest/scale-to-width-down/238?cb=20140525234116" group-title="Cartoon",happy kids junior
 https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/developer_channels/prod/cf64ec045ea3d1fc0340a9de61829ce8f76447d4d8f325f7b433ad9b2dcdc393.png" group-title="Cartoon",ConTV Anime
+https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SKvN1BM/Anime-Unlimited-Logo-1200x.png" group-title="Cartoon",Anime
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=dd4b&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/angrybirds/images/f/fc/AB2_Tenth_Icon.png/revision/latest/scale-to-width-down/700?cb=20211111150429" group-title="Cartoon", Angry Bird
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=547
+
 
 #NEWS
 
@@ -1190,7 +1211,20 @@ https://astro1.rastream.com/amp-hitz-kch
 #EXTINF:-1 group-title="RADIO" tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png",MyFM Sabah
 https://astro1.rastream.com/amp-myfm-kk
 
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png",True PremierHD 1
+https://mediasv.online/stream_tv/600_eng1/playlist.m3u8
 
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png",True PremierHD 2
+https://mediasv.online/stream_tv/602_eng2/playlist.m3u8
+
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png",True PremierHD 3
+https://mediasv.online/stream_tv/603_eng3/playlist.m3u8
+
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD4.png",True PremierHD 4 
+https://mediasv.online/stream_tv/604_eng4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD5.png" group-title="TrueSports",True PremierHD 5 
+https://mediasv.online/stream_tv/605_eng5/playlist.m3u8
 
 
 

@@ -139,8 +139,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sport",PTV SPORTS
-#http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
-http://live.flixhub.net/hls/ptv.m3u8
+http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
+#http://live.flixhub.net/hls/ptv.m3u8
 
 #EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png" group-title="Sport",F1
 http://95.214.235.96:8880/EFLW122114/70NF2GH1/2876
@@ -151,7 +151,6 @@ http://95.214.235.96:8880/EFLW122114/70NF2GH1/2876
 #EXTINF:-1 tvg-id="SonySix.in" tvg-logo="http://live.flixhub.net/img/Sony-six-hd.png" group-title="Sport",Sony Six HD
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
 #http://live.flixhub.net/hls/sonysix.m3u8
-#https://tvstream.fun/jtv/mhhd.php?c=Six_HD&q=800&e=.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -159,7 +158,6 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manife
 #EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="Sport",Ten 1
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
 #http://live.flixhub.net/hls/sonyten1.m3u8
-#https://tvstream.fun/jtv/mhhd.php?c=Ten_HD&q=800&e=.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -167,7 +165,6 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manif
 #EXTINF:-1 tvg-id="SonyTen2.in" tvg-logo="http://live.flixhub.net/img/sony_ten_2.jpg" group-title="Sport",Ten 2
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
 #http://live.flixhub.net/hls/sonyten2.m3u8
-#https://tvstream.fun/jtv/mhhd.php?c=Ten2_HD&q=800&e=.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -175,13 +172,12 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 #EXTINF:-1 tvg-id="SonyTen3.in" tvg-logo="http://live.flixhub.net/img/sonyten3.jpg" group-title="Sport",Ten 3
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 #http://live.flixhub.net/hls/sonyten3.m3u8
-#https://tvstream.fun/jtv/mhhd.php?c=Ten3_HD&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelectHD1.hk" tvg-logo="http://live.flixhub.net/img/Star_Sports_Select_1_HD.jpg" tvg-id="" tvg-name="" group-title="Sport",Star Sport Select 1 HD
-http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
+#http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelectHD2.hk" tvg-logo="http://live.flixhub.net/img/select2.jpg" tvg-id="" tvg-name="" group-title="Sport",Star Sport Select 2 HD
-http://live.flixhub.net/hls/select2.m3u8
+#http://live.flixhub.net/hls/select2.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.dtcn.com/image/themanual/fite-tv-streaming-service-800x800.jpg" group-title="Sport",FITE(wrestlingChannel)HD
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
@@ -194,18 +190,18 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="Sport",ChampionTv1
 #https://artunnel57.com/1ouga8tz4sv4gook8c
-http://begaltvku.site/vidprem/master-6.m3u8 
+http://begaltvku.site/ventidos/master-6.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="Sport",ChampionTv2
 #https://artunnel57.com/ly0u1gejits8440ws
-http://begaltvku.site/vidprem/master-7.m3u8 
+http://begaltvku.site/ventidos/master-7.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV4.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="Sport",ChampionTv3
 #https://artunnel57.com/1fphq5wepnok0g0s8c
-http://begaltvku.site/vidprem/master-8.m3u8
+http://begaltvku.site/ventidos/master-8.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV4.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-4-id.png" group-title="Sport",ChampionTv4
-https://artunnel57.com/1koshv9a4qas0wc0s0
+#https://artunnel57.com/1koshv9a4qas0wc0s0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.wrestlingnewsworld.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_640/MTU3NDA1OTgyMzYwMjgyMzE0/tna-wrestling.png" group-title="Sport",TNA Wrestling
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=509

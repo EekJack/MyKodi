@@ -16,9 +16,9 @@ http://iptv12k.com:35461/8022022301/468985/656
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=369ee7aba1e1504f85366b899d81ef10:299fbf0f774920858ff4fabf0afbe6b7
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
-#http://elemento.x10.mx/stream/assp2.mpd
+http://elemento.x10.mx/stream/assp2.mpd
 #http://95.214.235.96:8880/EFLW122114/70NF2GH1/1721
-http://203.154.243.89:21202/nakhon
+#http://203.154.243.89:21202/nakhon
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a522db0e2c8b90c38b64187018648a10:cf66fd59fe28f45418628313e06d52da

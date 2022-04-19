@@ -897,8 +897,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 #http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m02000000000016192913&ct=17958&tsum=7c7f40ea3d204e5a683354afd932a406
 
 #EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Asstro", As-stro Warna HD
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m09222562895214053157&ct=18379&tsum=cbb662e3297063bf6bbc79064ac8de2d
 #http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m03929078146113960019&ct=18379&tsum=9eebc9c505beec9da52731f68f99090e
-http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
+#http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
 #http://95.214.235.96:8880/EFLW122114/70NF2GH1/1706
 #http://lnk.ec/Warna.m3u8 
 

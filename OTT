@@ -13,10 +13,15 @@
 http://iptv12k.com:35461/8022022301/468985/656
 #http://203.154.243.89:21201/nakhon
 
+#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://uload.ru.com/cdn/premium124/chunks.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=369ee7aba1e1504f85366b899d81ef10:299fbf0f774920858ff4fabf0afbe6b7
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
-http://elemento.x10.mx/stream/assp2.mpd
+#http://elemento.x10.mx/stream/assp2.mpd
 #http://95.214.235.96:8880/EFLW122114/70NF2GH1/1721
 #http://203.154.243.89:21202/nakhon
 

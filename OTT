@@ -194,12 +194,10 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manif
 #http://live.flixhub.net/hls/sonyten3.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelectHD1.hk" tvg-logo="http://live.flixhub.net/img/Star_Sports_Select_1_HD.jpg" tvg-id="" tvg-name="" group-title="Sport",Star Sport Select 1 HD
-#http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
-http://182.50.65.213:8888/udp/239.239.0.6:3001m
+https://stream.rangdhanu.live/StarSportsSelect1/video.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelectHD2.hk" tvg-logo="http://live.flixhub.net/img/select2.jpg" tvg-id="" tvg-name="" group-title="Sport",Star Sport Select 2 HD
-#http://live.flixhub.net/hls/select2.m3u8
-http://182.50.65.213:8888/udp/239.239.0.6:3001
+http://103.167.190.250/hls/select2.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.dtcn.com/image/themanual/fite-tv-streaming-service-800x800.jpg" group-title="Sport",FITE(wrestlingChannel)HD
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8

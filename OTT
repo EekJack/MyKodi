@@ -1,11 +1,13 @@
 t#EXTM3U
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml" url-tvg="https://weareblahs.github.io/epg/astro.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
+#EXTINF:-1 group-title="Sport" tvg-logo="https://moviesland.eu/uploads/png/f9137de45eb637f35c512510f2f0754d.png",Ass-tro Supersport 1 HD 
+https://uload.ru.com/cdn/premium123/chunks.m3u8|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="Sport" tvg-logo="https://iili.io/1NzqF4.png",Ass-tro Supersport 1 HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://uload.ru.com/cdn/premium123/chunks.m3u8
+#https://uload.ru.com/cdn/premium123/chunks.m3u8
 #http://203.154.243.89:21201/nakhon
 
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD

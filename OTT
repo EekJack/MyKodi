@@ -5,36 +5,19 @@ t#EXTM3U
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="Sport" tvg-logo="https://iili.io/1NzqF4.png",Ass-tro Supersport 1 HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-#https://www.mireasa-live.com/cdn/premium123/chunks.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d2d84310d3fb9230404a1fbf5b33d10:8be93a0a6b41efad87096080bc55211a
-#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="Sport" tvg-logo="https://iili.io/1NzqF4.png",Ass-tro Supersport 1 HD
-http://iptv12k.com:35461/8022022301/468985/656
+https://uload.ru.com/cdn/premium123/chunks.m3u8
 #http://203.154.243.89:21201/nakhon
 
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://uload.ru.com/cdn/premium124/chunks.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=369ee7aba1e1504f85366b899d81ef10:299fbf0f774920858ff4fabf0afbe6b7
-#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
-#http://elemento.x10.mx/stream/assp2.mpd
-#http://95.214.235.96:8880/EFLW122114/70NF2GH1/1721
 #http://203.154.243.89:21202/nakhon
 
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Sport",Ass-tro SuperSport 3 HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://uload.ru.com/cdn/premium125/chunks.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a522db0e2c8b90c38b64187018648a10:cf66fd59fe28f45418628313e06d52da
-#EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Sport",Ass-tro SuperSport 3 HD
-#http://elemento.x10.mx/stream/assp3.mpd
-#http://95.214.235.96:8880/EFLW122114/70NF2GH1/59218
 #http://203.154.243.89:21203/nakhon
 
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sport",Ass-tro SuperSport 4 HD
@@ -45,7 +28,6 @@ https://uload.ru.com/cdn/premium125/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f38843b85760decb7a30fde6af3ff10:9c50a5c2b6219463f05c5d8f9f42892e
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sport",Ass-tro SuperSport 4 HD
-#http://elemento.x10.mx/stream/assp4.mpd
 #http://95.214.235.96:8880/EFLW122114/70NF2GH1/1719
 http://203.154.243.89:21204/nakhon
 
@@ -162,9 +144,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_ott.mpd
 http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
 #http://live.flixhub.net/hls/ptv.m3u8
 
-#EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png" group-title="Sport",F1
-#http://95.214.235.96:8880/EFLW122114/70NF2GH1/2876
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
@@ -208,18 +187,6 @@ https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tennis_channel.png" group-title="Sport",Tennis Channel 2
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="Sport",ChampionTv1
-http://tvn.x10.bz/TvN_ID/master-6.m3u8
-
-#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="Sport",ChampionTv2
-http://tvn.x10.bz/TvN_ID/master-7.m3u8
-
-#EXTINF:-1 tvg-id="ChampionsTV4.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="Sport",ChampionTv3
-http://tvn.x10.bz/TvN_ID/master-8.m3u8
-
-#EXTINF:-1 tvg-id="ChampionsTV4.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-4-id.png" group-title="Sport",ChampionTv4
-http://tvn.x10.bz/TvN_ID/master-34.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.wrestlingnewsworld.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_640/MTU3NDA1OTgyMzYwMjgyMzE0/tna-wrestling.png" group-title="Sport",TNA Wrestling
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=509
 
@@ -228,6 +195,21 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://ewsat.com/img/EDGE_SPORT.pngb" group-title="Sport",Edge Sports
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://ia800803.us.archive.org/13/items/BtSport1/bt%20sport%201.png",BT Sport 1
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://uload.ru.com/cdn/premium31/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://ia601901.us.archive.org/6/items/BTSport2/BT-Sport-2.png",BT Sport 2
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://uload.ru.com/cdn/premium32/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://i.postimg.cc/hvLbZB9j/image.jpg",F1
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://uload.ru.com/cdn/premium60/chunks.m3u8
 
 MOVIE
 

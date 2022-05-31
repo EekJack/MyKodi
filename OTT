@@ -197,19 +197,6 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 #https://uload.ru.com/cdn/premium60/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202002/20200219/20200219034140282its.png",Unifi Sport 1
-http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202002/20200223/20200223030942343uz5.png",Unifi Sport 2
-http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202002/20200219/20200219034638064fgd.png",Unifi Sport 3
-http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202002/20200219/20200219034705029kh8.png",Unifi Sport 4
-http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
-
-
 MOVIE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -858,8 +845,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiSD/live02.mpd
 #http://50.7.161.82:8278/TV8/playlist.m3u8?tid=m02000000000013140036&ct=17958&tsum=712d61fd40f86b1abccb1a5afb6d358a
 
 #EXTINF:-1 group-title="Lokal" tvg-id="149" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
-http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1729
-#http://50.7.161.82:8278/TV9/playlist.m3u8?tid=m02000000000017268525&ct=17958&tsum=c6b290c897833dcaaed14681160dc38e
+#http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1729
+http://50.7.161.82:8278/TV9/playlist.m3u8?tid=m02000000000017268525&ct=17958&tsum=c6b290c897833dcaaed14681160dc38e
 
 #EXTINF:-1 group-title="Lokal" tvg-id="110" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",TV Okey
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -893,13 +880,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Asstro", As-stro Warna HD
-http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m09222562895214053157&ct=18379&tsum=cbb662e3297063bf6bbc79064ac8de2d
-#http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m03929078146113960019&ct=18379&tsum=9eebc9c505beec9da52731f68f99090e
+#http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m09222562895214053157&ct=18379&tsum=cbb662e3297063bf6bbc79064ac8de2d
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m03929078146113960019&ct=18379&tsum=9eebc9c505beec9da52731f68f99090e
 #http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
 
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Asstro" tvg-id="",Ass-tro Ria HD
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01674187119012462906&ct=18379&tsum=c7c1fdf7b1e0b30aad376edc1f50ed87
-#http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01790894719016696035&ct=18381&tsum=d380a2ebfd1363b3e6fe4c9dd5f9ad1c
+#http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01674187119012462906&ct=18379&tsum=c7c1fdf7b1e0b30aad376edc1f50ed87
+http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01790894719016696035&ct=18381&tsum=d380a2ebfd1363b3e6fe4c9dd5f9ad1c
 #http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18050&tsum=d75d08716e962b3d0dc2b8d82ecd0135
 #http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m00956964161413006878&ct=18379&tsum=a3d232714e114f575d02d0d0918e5340
 #http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m09753019711815679625&ct=18379&tsum=5d1c5758b313e0c262b35e7a1c80c94f
@@ -908,8 +895,8 @@ http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01674187119012462906&ct=18379&tsu
 #http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02528583999818620657&ct=18379&tsum=b78da248bf2abd0495bedb7f4e1ffee2
 
 #EXTINF:-1 tvg-id="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Asstro" tvg-id="",Ass-tro Citra HD
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=35f944b2e9cfbf5111b7692198fd855a
-#http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m06696372068013250537&ct=18379&tsum=21d9bbb4afc068eeb4fa2ff04af3473a
+#http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=35f944b2e9cfbf5111b7692198fd855a
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m06696372068013250537&ct=18379&tsum=21d9bbb4afc068eeb4fa2ff04af3473a
 #http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m06574883079618621042&ct=18379&tsum=ee53b4e78c5216fc253932b36d615594
 #http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m08333765977116314800&ct=18379&tsum=ba7d0401fcf8d2a886c06d9109857d49
 #http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m06859194331516046515&ct=18379&tsum=145f79a3fc4821ce01a0a8c1fb8a72d8

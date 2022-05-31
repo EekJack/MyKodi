@@ -197,6 +197,19 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 #https://uload.ru.com/cdn/premium60/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202002/20200219/20200219034140282its.png",Unifi Sport 1
+http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202002/20200223/20200223030942343uz5.png",Unifi Sport 2
+http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202002/20200219/20200219034638064fgd.png",Unifi Sport 3
+http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202002/20200219/20200219034705029kh8.png",Unifi Sport 4
+http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
+
+
 MOVIE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

@@ -837,11 +837,11 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1 group-title="Lokal" tvg-id="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
 #EXTVLCOPT:http-referrer=https://dailymotion.com
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 group-title="Lokal" tvg-id="148" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
 #EXTVLCOPT:http-referrer=https://dailymotion.com
-https://unifi-live05.secureswiftcontent.com/UnifiSD/live02.mpd
+https://unifi-live01.secureswiftcontent.com/UnifiSD/live02.mpd
 #http://50.7.161.82:8278/TV8/playlist.m3u8?tid=m02000000000013140036&ct=17958&tsum=712d61fd40f86b1abccb1a5afb6d358a
 
 #EXTINF:-1 group-title="Lokal" tvg-id="149" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9

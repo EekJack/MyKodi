@@ -2,33 +2,20 @@ t#EXTM3U
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml" url-tvg="https://weareblahs.github.io/epg/astro.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="Sport" tvg-logo="https://iili.io/1NzqF4.png",Ass-tro Supersport 1 HD
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-#https://uload.ru.com/cdn/premium123/chunks.m3u8
-http://203.154.243.89:21201/nakhon
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#http://203.154.243.89:21201/nakhon
 
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-#https://uload.ru.com/cdn/premium124/chunks.m3u8
-http://203.154.243.89:21202/nakhon
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#http://203.154.243.89:21202/nakhon
 
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Sport",Ass-tro SuperSport 3 HD
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-#https://uload.ru.com/cdn/premium125/chunks.m3u8
-http://203.154.243.89:21203/nakhon
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#http://203.154.243.89:21203/nakhon
 
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sport",Ass-tro SuperSport 4 HD
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-#https://uload.ru.com/cdn/premium126/chunks.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f38843b85760decb7a30fde6af3ff10:9c50a5c2b6219463f05c5d8f9f42892e
-#EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sport",Ass-tro SuperSport 4 HD
-#http://95.214.235.96:8880/EFLW122114/70NF2GH1/1719
-http://203.154.243.89:21204/nakhon
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#http://203.154.243.89:21204/nakhon
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=113d6e58ea7e223e3fb4a9af3e927010:dc86f5d82e5dfaa0fbb22d220e023b7c
@@ -198,17 +185,17 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://ia800803.us.archive.org/13/items/BtSport1/bt%20sport%201.png",BT Sport 1
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://uload.ru.com/cdn/premium31/chunks.m3u8
+#https://uload.ru.com/cdn/premium31/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://ia601901.us.archive.org/6/items/BTSport2/BT-Sport-2.png",BT Sport 2
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://uload.ru.com/cdn/premium32/chunks.m3u8
+#https://uload.ru.com/cdn/premium32/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://i.postimg.cc/hvLbZB9j/image.jpg",F1
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://uload.ru.com/cdn/premium60/chunks.m3u8
+#https://uload.ru.com/cdn/premium60/chunks.m3u8
 
 MOVIE
 
@@ -217,8 +204,8 @@ MOVIE
 #EXTINF:-1 tvg-id="411" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="Movie",HBO FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="HBOAsia.us" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="Movie",HBO HD
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
@@ -228,8 +215,8 @@ https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #EXTINF:-1 tvg-id="414" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="Movie",HBO FAMILY FHD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="HBOFamilyAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="Movie",HBO FAMILY
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 #http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
@@ -239,14 +226,14 @@ https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 #EXTINF:-1 tvg-id="415" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="Movie",HBO HITS FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="HBOHits.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/200px-HBOHits-ASIA.png" group-title="Movie",HBO HITS
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hits
 
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="HBOSignatureAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png" group-title="Movie",HBO SIGNATURE
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 #http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
@@ -256,8 +243,8 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 #EXTINF:-1 tvg-id="412" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Movie",CINEMAX FHD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="CinemaxAsia.us" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Movie",CINEMAX
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
@@ -276,8 +263,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-EXTINF:-1 tvg-id="HitsMovies.sg" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movie",Hits Movies HD
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+#EXTINF:-1 tvg-id="HitsMovies.sg" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movie",Hits Movies HD
+#https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaaa02f58d19457c6385bf2831706f10:7294ff05390550e09df76ef3b697f8da
@@ -301,8 +288,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-EXTINF:-1 tvg-id="CelestialMoviesIndonesia.hk" group-title="Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png",Celestial Movies HD
-https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+#EXTINF:-1 tvg-id="CelestialMoviesIndonesia.hk" group-title="Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png",Celestial Movies HD
+#https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1283d2fab34ca094ab1cfd1238476a10:edf87dc4bdc835c6daffdd213c8029df
@@ -311,7 +298,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-EXTINF:-1 tvg-id="CelestialClassicMovies.hk" group-title="Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM HD
+#EXTINF:-1 tvg-id="CelestialClassicMovies.hk" group-title="Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM HD
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -351,10 +338,10 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 http://live.flixhub.net/hls/movies-now.m3u8
 
 #EXTINF:-1 tvg-id="MoviesNowPlus.in" tvg-logo="http://live.flixhub.net/img/mn+.jpg" group-title="Movie",MN+ HD
-http://live.flixhub.net/hls/mn+.m3u8
+#http://live.flixhub.net/hls/mn+.m3u8
 
 #EXTINF:-1 tvg-id="MNX.in" tvg-logo="http://live.flixhub.net/img/mnx-hd.jpg" group-title="Movie", MNX HD
-http://live.flixhub.net/hls/mnx-hd.m3u8
+#http://live.flixhub.net/hls/mnx-hd.m3u8
 
 ENTERTAINMENT
 
@@ -899,24 +886,24 @@ http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m09222562895214053157&ct=18379&t
 
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Asstro" tvg-id="",Ass-tro Ria HD
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01674187119012462906&ct=18379&tsum=c7c1fdf7b1e0b30aad376edc1f50ed87
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01790894719016696035&ct=18381&tsum=d380a2ebfd1363b3e6fe4c9dd5f9ad1c
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18050&tsum=d75d08716e962b3d0dc2b8d82ecd0135
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m00956964161413006878&ct=18379&tsum=a3d232714e114f575d02d0d0918e5340
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m09753019711815679625&ct=18379&tsum=5d1c5758b313e0c262b35e7a1c80c94f
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m00378573028916844794&ct=18379&tsum=9900378928b8fa3fd19f87fbd03f4a1a
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m03523166494315329476&ct=18379&tsum=c7dbf6fd92e3bacf4516f223b5fd3632
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02528583999818620657&ct=18379&tsum=b78da248bf2abd0495bedb7f4e1ffee2
+#http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01790894719016696035&ct=18381&tsum=d380a2ebfd1363b3e6fe4c9dd5f9ad1c
+#http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18050&tsum=d75d08716e962b3d0dc2b8d82ecd0135
+#http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m00956964161413006878&ct=18379&tsum=a3d232714e114f575d02d0d0918e5340
+#http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m09753019711815679625&ct=18379&tsum=5d1c5758b313e0c262b35e7a1c80c94f
+#http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m00378573028916844794&ct=18379&tsum=9900378928b8fa3fd19f87fbd03f4a1a
+#http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m03523166494315329476&ct=18379&tsum=c7dbf6fd92e3bacf4516f223b5fd3632
+#http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02528583999818620657&ct=18379&tsum=b78da248bf2abd0495bedb7f4e1ffee2
 
 #EXTINF:-1 tvg-id="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Asstro" tvg-id="",Ass-tro Citra HD
 http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=35f944b2e9cfbf5111b7692198fd855a
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m06696372068013250537&ct=18379&tsum=21d9bbb4afc068eeb4fa2ff04af3473a
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m06574883079618621042&ct=18379&tsum=ee53b4e78c5216fc253932b36d615594
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m08333765977116314800&ct=18379&tsum=ba7d0401fcf8d2a886c06d9109857d49
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m06859194331516046515&ct=18379&tsum=145f79a3fc4821ce01a0a8c1fb8a72d8
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m02000000000016481115&ct=17950&tsum=de9053742291cc2c76b6dc3439c8560f
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m00436624530416239904&ct=18379&tsum=12b82db0090ba73924a775895281f69b
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m09682579275017751642&ct=18379&tsum=732e3cc7f6a900ad8e7ac08fcac88c20
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
+#http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m06696372068013250537&ct=18379&tsum=21d9bbb4afc068eeb4fa2ff04af3473a
+#http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m06574883079618621042&ct=18379&tsum=ee53b4e78c5216fc253932b36d615594
+#http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m08333765977116314800&ct=18379&tsum=ba7d0401fcf8d2a886c06d9109857d49
+#http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m06859194331516046515&ct=18379&tsum=145f79a3fc4821ce01a0a8c1fb8a72d8
+#http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m02000000000016481115&ct=17950&tsum=de9053742291cc2c76b6dc3439c8560f
+#http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m00436624530416239904&ct=18379&tsum=12b82db0090ba73924a775895281f69b
+#http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m09682579275017751642&ct=18379&tsum=732e3cc7f6a900ad8e7ac08fcac88c20
+#http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610:1807230578255fcd79e1279b13ae69d8

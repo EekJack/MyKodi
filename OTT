@@ -884,12 +884,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Asstro", As-stro Warna HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
+https://tv.kpsvpn.com/warna.mpd
+
+#EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Asstro", As-stro Warna HD
 #http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m09222562895214053157&ct=18379&tsum=cbb662e3297063bf6bbc79064ac8de2d
 #http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m03929078146113960019&ct=18379&tsum=9eebc9c505beec9da52731f68f99090e
 #http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
-http://95.214.235.96:8880/SWFAF1222122/UZ7NT8FA/1706
+#http://95.214.235.96:8880/SWFAF1222122/UZ7NT8FA/1706
 
-#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Asstro" tvg-id="",Ass-tro Ria
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Asstro" tvg-id="",Ass-tro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
 https://tv.kpsvpn.com/ria.mpd
@@ -903,7 +908,7 @@ https://tv.kpsvpn.com/ria.mpd
 #http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m00378573028916844794&ct=18379&tsum=9900378928b8fa3fd19f87fbd03f4a1a
 #http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m03523166494315329476&ct=18379&tsum=c7dbf6fd92e3bacf4516f223b5fd3632
 #http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02528583999818620657&ct=18379&tsum=b78da248bf2abd0495bedb7f4e1ffee2
-http://95.214.235.96:8880/SWFAF1222122/UZ7NT8FA/1705
+#http://95.214.235.96:8880/SWFAF1222122/UZ7NT8FA/1705
 
 #EXTINF:-1 tvg-id="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Asstro" tvg-id="",Ass-tro Citra HD
 #http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=35f944b2e9cfbf5111b7692198fd855a
@@ -915,7 +920,8 @@ http://95.214.235.96:8880/SWFAF1222122/UZ7NT8FA/1705
 #http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m00436624530416239904&ct=18379&tsum=12b82db0090ba73924a775895281f69b
 #http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m09682579275017751642&ct=18379&tsum=732e3cc7f6a900ad8e7ac08fcac88c20
 #http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
-http://95.214.235.96:8880/SWFAF1222122/UZ7NT8FA/71146
+#http://95.214.235.96:8880/SWFAF1222122/UZ7NT8FA/71146
+https://tv.kpsvpn.com/citra.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610:1807230578255fcd79e1279b13ae69d8

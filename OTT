@@ -61,6 +61,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 EXTINF:0 tvg-id="SpoTV.kr" tvg-logo="https://i.imgur.com/BRZ8rmA_d.png" group-title="Sport",SPOTV 1
 https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb9d78b1c5776744014935bb3fe4ea10:0dc6d298bc48c0de11dc6bf9ede30323
+#EXTINF:-1 tvg-id="SpoTV2.kr" tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/202109/20210930/20210930184626019h4r.png" group-title="Sport",SPOTV 2 FHD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTINF:-1 tvg-id="SpoTV2.kr" tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/202109/20210930/20210930184626019h4r.png" group-title="Sport",SPOTV 2
@@ -156,7 +161,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sport",PTV SPORTS
-http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
+#http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
 #http://live.flixhub.net/hls/ptv.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -188,10 +193,10 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manif
 #http://live.flixhub.net/hls/sonyten3.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelectHD1.hk" tvg-logo="http://live.flixhub.net/img/Star_Sports_Select_1_HD.jpg" tvg-id="" tvg-name="" group-title="Sport",Star Sport Select 1 HD
-https://stream.rangdhanu.live/StarSportsSelect1/video.m3u8
+#https://stream.rangdhanu.live/StarSportsSelect1/video.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelectHD2.hk" tvg-logo="http://live.flixhub.net/img/select2.jpg" tvg-id="" tvg-name="" group-title="Sport",Star Sport Select 2 HD
-http://103.167.190.250/hls/select2.m3u8
+#http://103.167.190.250/hls/select2.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.dtcn.com/image/themanual/fite-tv-streaming-service-800x800.jpg" group-title="Sport",FITE(wrestlingChannel)HD
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
@@ -211,20 +216,21 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://ewsat.com/img/EDGE_SPORT.pngb" group-title="Sport",Edge Sports
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://ia800803.us.archive.org/13/items/BtSport1/bt%20sport%201.png",BT Sport 1
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-#https://uload.ru.com/cdn/premium31/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png",BT Sport 1
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://www.olacast.live/cdn/premium31/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://ia601901.us.archive.org/6/items/BTSport2/BT-Sport-2.png",BT Sport 2
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-#https://uload.ru.com/cdn/premium32/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png",BT Sport 2
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://www.olacast.live/cdn/premium32/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png",BT Sport 3 
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://www.olacast.live/cdn/premium33/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://i.postimg.cc/hvLbZB9j/image.jpg",F1
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-#https://uload.ru.com/cdn/premium60/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://www.olacast.live/cdn/premium60/chunks.m3u8
 
 MOVIE
 
@@ -364,7 +370,7 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 #https://tvstream.fun/jtv/mhhd.php?c=Sony_Pix_HD&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="MoviesNow.in" tvg-logo="http://live.flixhub.net/img/movies-now.jpg" tvg-id="" tvg-name="" group-title="Movie",Movies Now HD
-http://live.flixhub.net/hls/movies-now.m3u8
+#http://live.flixhub.net/hls/movies-now.m3u8
 
 #EXTINF:-1 tvg-id="MoviesNowPlus.in" tvg-logo="http://live.flixhub.net/img/mn+.jpg" group-title="Movie",MN+ HD
 #http://live.flixhub.net/hls/mn+.m3u8
@@ -513,6 +519,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=ddd9708a62b9e2eb44448dd1a6841310:0b248e71fef0c27988fa10049b32f309
 #EXTINF:-1 tvg-id="393" tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" group-title="Korea",K+
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png" group-title="Korea",GEM
+https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 #EXTINF:-1 tvg-id="StarMoviesHDIndia.hk" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies_in_select.png" group-title="Movie",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
@@ -865,13 +876,13 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1 group-title="Lokal" tvg-id="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
-#EXTVLCOPT:http-referrer=https://dailymotion.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 group-title="Lokal" tvg-id="148" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://unifi-live01.secureswiftcontent.com/UnifiSD/live02.mpd
-#http://50.7.161.82:8278/TV8/playlist.m3u8?tid=m02000000000013140036&ct=17958&tsum=712d61fd40f86b1abccb1a5afb6d358a
 
 #EXTINF:-1 group-title="Lokal" tvg-id="149" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
 #http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1729

@@ -219,6 +219,10 @@ https://www.olacast.live/cdn/premium31/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://www.olacast.live/cdn/premium32/chunks.m3u8
 
+#EXTINF:-1 tvg-id="BTSportESPN.us" tvg-name="" group-title="Sport" tvg-logo="https://epg.cdn.vision.bt.com/now_and_next/Logos/BT_758465.png",BT SPORT-ESPN
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://www.olacast.live/cdn/premium34/chunks.m3u8
+
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png",BT Sport 3 
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://www.olacast.live/cdn/premium33/chunks.m3u8

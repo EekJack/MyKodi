@@ -733,6 +733,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 #EXTINF:-1 tvg-id="NickJrAsia.us" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" group-title="Cartoon",NickJr
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
+#EXTINF:-1 tvg-id="animax" tvg-name="animax" group-title="Cartoon" tvg-logo="https://telegra.ph/file/bef929065afa100b0e450.png",Animax FHD
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="AnimaxAsia.jp" tvg-name="Animax" group-title="Cartoon" tvg-logo="https://iili.io/1Nayq7.png",Animax
@@ -1370,5 +1375,5 @@ http://khulnaplex.net/Data/ALLMovies/hollywood/2022/Uncharted%20(2022)/Uncharted
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/bOVh67DJh0sk97iceJM09SqdJ1L.jpg" tvg-country="" tvg-url="" group-title="WAYANG",Morbius (2022)  
 http://khulnaplex.net/Data/ALLMovies/hollywood/2022/Morbius%20(2022)/Morbius.2022.1080p.WEBRip.x264.AAC-[YTS.MX].mp4
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rFd98DjPMSy1L6KKNFrqrrGNtrD.jpg" tvg-country="" tvg-url="" group-title="",4 Horsemen: Apocalypse (2022)    
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rFd98DjPMSy1L6KKNFrqrrGNtrD.jpg" tvg-country="" tvg-url="" group-title="WAYANG",4 Horsemen: Apocalypse (2022)    
 http://khulnaplex.net/Data/ALLMovies/hollywood/2022/4%20Horsemen%20Apocalypse%20(2022)/4.Horsemen.Apocalypse.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4

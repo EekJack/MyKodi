@@ -48,12 +48,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01cde7c31b1a3ea2aa7a6f579a0f4610:710f5ebe6bb2d50978ef0e5aa5fc69d4
-#EXTINF:-1 tvg-id="816" tvg-name="SPOTV" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",SPOTV 1 FHD
+#EXTINF:-1 tvg-id="816" tvg-name="SPOTV" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png",SPOTV 1 FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-EXTINF:0 tvg-id="SpoTV.kr" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" group-title="Sport",SPOTV 1
+EXTINF:0 tvg-id="SpoTV.kr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png" group-title="Sport",SPOTV 1
 https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -162,7 +162,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-id="SonySix.in" tvg-logo="http://live.flixhub.net/img/Sony-six-hd.png" group-title="Sport",Sony Six HD
+#EXTINF:-1 tvg-id="SonySix.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-six-in.png" group-title="Sport",Sony Six HD
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
 #http://live.flixhub.net/hls/sonysix.m3u8
 
@@ -183,7 +183,7 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-id="SonyTen3.in" tvg-logo="http://live.flixhub.net/img/sonyten3.jpg" group-title="Sport",Ten 3
+#EXTINF:-1 tvg-id="SonyTen3.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="Sport",Ten 3
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 #http://live.flixhub.net/hls/sonyten3.m3u8
 
@@ -212,24 +212,27 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png",BT Sport 1
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://uload.ru.com/cdn/premium31/chunks.m3u8
+EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#https://uload.ru.com/cdn/premium31/chunks.m3u8
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/28340
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png",BT Sport 2
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://www.olacast.live/cdn/premium32/chunks.m3u8
+EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#https://www.olacast.live/cdn/premium32/chunks.m3u8
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/28344
 
 #EXTINF:-1 tvg-id="BTSportESPN.us" tvg-name="" group-title="Sport" tvg-logo="https://epg.cdn.vision.bt.com/now_and_next/Logos/BT_758465.png",BT SPORT-ESPN
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://uload.ru.com/cdn/premium34/chunks.m3u8
+EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#https://uload.ru.com/cdn/premium34/chunks.m3u8
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/28348
 
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png",BT Sport 3 
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://uload.ru.com/cdn/premium33/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="" group-title="Sport" tvg-logo="https://i.postimg.cc/hvLbZB9j/image.jpg",F1
-http://149.62.183.209:4549/play/a03q/index.m3u8
+http://b5.vc:80/lucy/lucy123/98395
 
 MOVIE
 

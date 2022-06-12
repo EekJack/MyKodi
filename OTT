@@ -212,39 +212,39 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png",BT Sport 1 HD
-EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://www.seulangatv.xyz/ns/sports/bts1.m3u8?token=xZxZxZx
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=punya=SeulangaTV
+https://www.seulangatv.xyz/ns/sports/bts1.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png",BT Sport 1
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #https://uload.ru.com/cdn/premium31/chunks.m3u8
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/28340
+#http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/28340
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png",BT Sport 2 HD
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://www.seulangatv.xyz/ns/sports/bts3.m3u8?token=xZxZxZx
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=punya=SeulangaTV
+https://www.seulangatv.xyz/ns/sports/bts3.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png",BT Sport 2
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #https://www.olacast.live/cdn/premium32/chunks.m3u8
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/28344
+#http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/28344
 
 #EXTINF:-1 tvg-id="BTSportESPN.us" tvg-name="" group-title="Sport" tvg-logo="https://epg.cdn.vision.bt.com/now_and_next/Logos/BT_758465.png",BT SPORT-ESPN
 EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #https://uload.ru.com/cdn/premium34/chunks.m3u8
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/28348
 
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png",BT Sport 3 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=punya=SeulangaTV
+https://www.seulangatv.xyz/ns/sports/bts3.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
+
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png",BT Sport 3 
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://uload.ru.com/cdn/premium33/chunks.m3u8
-
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png",BT Sport 3 HD
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://www.seulangatv.xyz/ns/sports/bts3.m3u8?token=xZxZxZx
+#https://uload.ru.com/cdn/premium33/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="" group-title="Sport" tvg-logo="https://i.postimg.cc/hvLbZB9j/image.jpg",F1
 http://b5.vc:80/lucy/lucy123/98395
@@ -410,6 +410,14 @@ https://comedy-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/redbox 3: rush (1080p).png" group-title="Movie",Redbox 3: Rush
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/09cb1Xp/unnamed.png" group-title="Movie ",CineLife
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?source:iptvmate.net
+
+#EXTINF:-1 group-title="Movie" tvg-id="" tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png",Douyu TV Movies 
+https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Srm8zWy/x.png" group-title="Movie",Movies X
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 ENTERTAINMENT
 
@@ -475,6 +483,26 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/rush by amc (1080p).png" group-title="Entertainment",Rush by AMC
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="blueantent" group-title="Entertainment" tvg-logo="https://i.ibb.co/5kmtnvJ/Rock-Entertainment.png",Blue-Ant Entertainment
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="blueantext" group-title="Entertainment" tvg-logo="https://i.ibb.co/KLSyc92/Rock-Extreme.png",Blue-Ant Extreme
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cyWbYaX.jpg" group-title="Entertainment",Travel
+https://bk7l2w4nlx53-hls-live.5centscdn.com/TRAVEL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLmqd4qx/PEOPLE-ARE-AWESOME.png" group-title="Entertainment",People Are Awesome
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyODMwNjBf/DarkMatterTV_218x218.png" group-title="Entertainment",Dark Matter TV 
+https://dmtv-plex.amagi.tv/playlist.m3u8?l1br3DM0501
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyODMyMzRf/AmericanHorrors.png" group-title="Entertainment",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8?l1br3DM0501
 
 MUSIC
 

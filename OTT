@@ -27,7 +27,7 @@ KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 EXTVLCOPT:http-user-agent=punya=SeulangaTV
 #https://www.seulangatv.xyz/ns/sports/assp4.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 #http://203.154.243.89:21204/nakhon
-https://m3u-editor.com/serve/d4bedc60-eac0-11ec-8b90-836f480d3450/581440196
+https://m3u-editor.com/serve/d4bedc60-eac0-11ec-8b90-836f480d3450/581440201
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=113d6e58ea7e223e3fb4a9af3e927010:dc86f5d82e5dfaa0fbb22d220e023b7c

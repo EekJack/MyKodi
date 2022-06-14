@@ -1022,10 +1022,16 @@ https://m3u-editor.com/serve/c83e1b60-e9e6-11ec-a53a-831e82b9ded8/580840584
 #https://tv.kpsvpn.com/ria.mpd
 
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Asstro" tvg-id="",Ass-tro Ria HD
-https://m3u-editor.com/serve/d4bedc60-eac0-11ec-8b90-836f480d3450/581440114
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
+https://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_bttnYNSDs4WMWkSiC_K12L8=_zwl/dash-wv/jitp-linearwm/1004/default_ott.mpd
+#https://m3u-editor.com/serve/d4bedc60-eac0-11ec-8b90-836f480d3450/581440114
 
 #EXTINF:-1 tvg-id="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Asstro" tvg-id="",Ass-tro Citra HD
-https://m3u-editor.com/serve/d4bedc60-eac0-11ec-8b90-836f480d3450/581440121
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9PwvuLdEESKN4lE68ZAfUmA=UJNw/dash-wv/jitp-linearwm/2700/default_ott.mpd
+#https://m3u-editor.com/serve/d4bedc60-eac0-11ec-8b90-836f480d3450/581440121
 
 #EXTINF:-1 tvg-id="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Asstro" tvg-id="",Ass-tro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

@@ -12,8 +12,9 @@ https://Astro.kpsboyserver.com/AstroSP1.mpd
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
+https://linears-playback.astro.com.my/vsg/41lZBRZysy0fBK7W01_NatMwkvotdSXX48nBlXeRlKw7I=7OcI/dash-wv/jitp-linearwm/2104/default_ott.mpd
 #https://live.astradamy.com/astro/s2/index.mpd
-https://Astro.kpsboyserver.com/AstroSP2.mpd
+#https://Astro.kpsboyserver.com/AstroSP2.mpd
 
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
 #http://31.220.3.170:2095/b6oxQeKNTb/x0zne3Wp/115616

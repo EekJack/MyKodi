@@ -1,22 +1,6 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml" url-tvg="https://weareblahs.github.io/epg/astro.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ_G3aCkgV4nLTKioxf-fGjZ5fF_fmETH_nOrJ03LH0xfY3mC6iDrdNvXp1OsX6JgIOZeMiKGT7VTIN4gtXLBeDB
-
-#EXTINF:-1 tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ_BG2DAx-82u4U9EGpXcMqxYicLA24tPEizs8-r-Ql4yM0Q_TdPQFWOZhSXqNtH5jGwOEhK-cpASSWRSeCCjRTi
-
-#EXTINF:-1 tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/RTfV149384.png",TRUE PREMIER FOOTBALL 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ-wLgs_LaWxHnDsSbFvTbf7js_lZPA5JNVAnZJL0PU5LjL2v0bJkOlWFKoQLBC4RZZ-yuMRajQf0rjWFfuKTNL-
-
-#EXTINF:-1 tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/W3BI149385.png",TRUE PREMIER FOOTBALL 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ89lLoLn9KqLPXKhppI4Ho1WdNPsOgCp4LUzyEq5mPmpAUuhgkIwClI0PcseJKVAlQpX8rRpsUy4ygaZ8HTO09c
-
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="Sport" tvg-logo="https://iili.io/1NzqF4.png",Ass-tro Supersport 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a

@@ -7,13 +7,13 @@
 #https://Astro.kpsboyserver.com/AstroSP1.mpd
 
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="Sport" tvg-logo="https://iili.io/1NzqF4.png",Ass-tro Supersport 1 HD
-http://31.220.3.170:2095/b6oxQeKNTb/x0zne3Wp/115615
+http://51.81.208.129:35461/80201051217/424567/7990
 
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
 #https://Astro.kpsboyserver.com/AstroSP2.mpd
-http://31.220.3.170:2095/b6oxQeKNTb/x0zne3Wp/115616
+http://51.81.208.129:35461/80201051217/424567/655
 
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Sport",Ass-tro SuperSport 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -21,10 +21,10 @@ http://31.220.3.170:2095/b6oxQeKNTb/x0zne3Wp/115616
 #https://Astro.kpsboyserver.com/AstroSP3.mpd
 
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Sport",Ass-tro SuperSport 3 HD
-http://31.220.3.170:2095/b6oxQeKNTb/x0zne3Wp/115617
+http://51.81.208.129:35461/80201051217/424567/654
 
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sport",Ass-tro SuperSport 4 HD
-https://lnk.ec/shareext@assp4
+http://51.81.208.129:35461/80201051217/424567/653
 
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sport",Ass-tro SuperSport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -914,8 +914,8 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
-EXTINF:-1 group-title="Lokal" tvg-id="122" tvg-logo="https://www.lyngsat.com/logo/tv/dd/drama-sangat-my.png",Drama Sangat
-https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0nU6VRoLsOhTiBUuQ1nY1zw)/dm/3/x6zvnex/s/live-2.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-id="122" tvg-logo="https://www.lyngsat.com/logo/tv/dd/drama-sangat-my.png",Drama Sangat
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 #EXTINF:-1 group-title="Lokal" tvg-id="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM HD
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -948,19 +948,22 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://Astro.kpsboyserver.com/AstroWarna.mpd
+#https://Astro.kpsboyserver.com/AstroWarna.mpd
+http://51.81.208.129:35461/80201051217/424567/5075
 
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Asstro" tvg-id="",Ass-tro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://Astro.kpsboyserver.com/AstroRia.mpd
+#https://Astro.kpsboyserver.com/AstroRia.mpd
+http://51.81.208.129:35461/80201051217/424567/4353
 
 #EXTINF:-1 tvg-id="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Asstro" tvg-id="",Ass-tro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://Astro.kpsboyserver.com/AstroCitra.mpd
+#https://Astro.kpsboyserver.com/AstroCitra.mpd
+http://51.81.208.129:35461/80201051217/424567/721
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610:1807230578255fcd79e1279b13ae69d8
@@ -1146,16 +1149,13 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://images.useetv.com/logo_transtv_small1.png?v=2.0.0.13" tvg-id="" tvg-name="Trans-TV" group-title="Indo",Trans TV
-#https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_share_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://images.useetv.com/logo_trans7_small1.png?v=2.0.0.13" tvg-id="" tvg-name="Trans-7" group-title="Indo",Trans 7
-#https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_share_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png" tvg-id="" tvg-name="" group-title="Indo",Indosiar
-#https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
-http://tvn.x10.bz/xchannel/master.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png" tvg-id="" tvg-name="" group-title="Indo",SCTV
 http://tvn.x10.bz/xchannel/master-24.m3u8

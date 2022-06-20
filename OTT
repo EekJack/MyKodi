@@ -7,13 +7,17 @@
 #https://Astro.kpsboyserver.com/AstroSP1.mpd
 
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="Sport" tvg-logo="https://iili.io/1NzqF4.png",Ass-tro Supersport 1 HD
-http://51.81.208.129:35461/80201051217/424567/7990
+#http://51.81.208.129:35461/80201051217/424567/7990
+https://m3u-editor.com/serve/efeaa2a0-f04f-11ec-b01d-394100d40c4a/585521816
 
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
 #https://Astro.kpsboyserver.com/AstroSP2.mpd
-http://51.81.208.129:35461/80201051217/424567/655
+
+#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
+#http://51.81.208.129:35461/80201051217/424567/655
+https://m3u-editor.com/serve/efeaa2a0-f04f-11ec-b01d-394100d40c4a/585521817
 
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Sport",Ass-tro SuperSport 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -21,10 +25,12 @@ http://51.81.208.129:35461/80201051217/424567/655
 #https://Astro.kpsboyserver.com/AstroSP3.mpd
 
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Sport",Ass-tro SuperSport 3 HD
-http://51.81.208.129:35461/80201051217/424567/654
+#http://51.81.208.129:35461/80201051217/424567/654
+https://m3u-editor.com/serve/efeaa2a0-f04f-11ec-b01d-394100d40c4a/585521818
 
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sport",Ass-tro SuperSport 4 HD
-http://51.81.208.129:35461/80201051217/424567/653
+#http://51.81.208.129:35461/80201051217/424567/653
+https://m3u-editor.com/serve/efeaa2a0-f04f-11ec-b01d-394100d40c4a/585521819
 
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sport",Ass-tro SuperSport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

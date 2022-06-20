@@ -193,6 +193,9 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="Sport",Edge Sports
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://image.roku.com/developer_channels/prod/c850859a0ec0928a82c0e1af8ff0f2f9198dce733c38f329057da40bfbbab926.png",Stadium
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png",BT Sport 1 HD
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png",BT Sport 2 HD
@@ -202,6 +205,7 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png",BT Sport 3 HD
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="" group-title="Sport" tvg-logo="https://i.postimg.cc/hvLbZB9j/image.jpg",F1
+
 
 
 MOVIE
@@ -449,6 +453,9 @@ https://dmtv-plex.amagi.tv/playlist.m3u8?l1br3DM0501
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8?l1br3DM0501
 
 MUSIC
+
+#EXTINF:-1 tvg-id="718" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/stingray.png" group-title="Music",Stingray Hot Country
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=835f1c94b9a333eea1e7bb78b0a79010:57f68cdc4023fc8511dc1ea6b5502a1c
@@ -1116,10 +1123,10 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v2a1/mono.m3u8
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tbur8nX.png?v=1.0.0.1" group-title="Documentary",Outdoor Channel
-https://outdoorchannel-samsungau.amagi.tv/playlist720p.m3u8
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/outdoor america (720p).png" group-title="Documentary",Outdoor AmericA
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/1280x720_2500000/index.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png" group-title="Documentary",In Wild
 https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
@@ -1143,7 +1150,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://anren.live/HK/BiIOU11uLA.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OiMMkP3.jpg" group-title="Entertainment",Just for Laughs Gags
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/768x432_1200000/chunklist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UQjtEqR.png" group-title="US",Reelz Channel
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/master.m3u8

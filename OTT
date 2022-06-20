@@ -19,15 +19,12 @@ http://31.220.3.170:2095/b6oxQeKNTb/x0zne3Wp/115616
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
 #https://Astro.kpsboyserver.com/AstroSP3.mpd
-http://94.130.129.118:8080/Instahub/bxL8msMEF2V3/92043
 
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Sport",Ass-tro SuperSport 3 HD
-#http://31.220.3.170:2095/b6oxQeKNTb/x0zne3Wp/115617
+http://31.220.3.170:2095/b6oxQeKNTb/x0zne3Wp/115617
 
-#EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sport",Ass-tro SuperSport 4 FHD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=punya=SeulangaTV
-https://www.seulangatv.xyz/ns/sports/assp4.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
+#EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sport",Ass-tro SuperSport 4 HD
+http://31.220.3.170:2095/b6oxQeKNTb/x0zne3Wp/115618
 
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sport",Ass-tro SuperSport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

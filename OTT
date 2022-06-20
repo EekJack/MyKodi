@@ -220,18 +220,17 @@ https://www.seulangatv.xyz/ns/sports/bts1.m3u8?token=xZxZxZx|Referer=https://pla
 #http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/28340
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png",BT Sport 2 HD
-http://94.130.129.118:8080/Instahub/bxL8msMEF2V3/93551
+#http://94.130.129.118:8080/Instahub/bxL8msMEF2V3/93551
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png",BT Sport 2 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=punya=SeulangaTV
 #https://www.seulangatv.xyz/ns/sports/bts3.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png",BT Sport 2
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png",BT Sport 2 HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#https://www.olacast.live/cdn/premium32/chunks.m3u8
-#http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/28344
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://netwrk.ru.com/cdn/premium32/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BTSportESPN.us" tvg-name="" group-title="Sport" tvg-logo="https://epg.cdn.vision.bt.com/now_and_next/Logos/BT_758465.png",BT SPORT-ESPN
 EXTVLCOPT:http-referrer=https://player.licenses4.me/

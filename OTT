@@ -376,15 +376,6 @@ https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Srm8zWy/x.png" group-title="Movie",Movies X
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_lam.png" group-title="Movie",HBO 2 (Dual Audio)
-https://edge5-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-plus-us.png" group-title="Movie",HBO Plus (dual Audio)
-https://edge5-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-pop-us.png" group-title="Movie",HBO Pop (Dual Audio)
-https://edge3-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
-
 ENTERTAINMENT
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -725,12 +716,6 @@ https://xplore-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Planet%20Earth%20HD.png",Planet Earth HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/h2-latinoamerica-us.png " group-title="Documentary", History 2 (dual Audio)
-https://edge1-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-home-and-health-us.png " group-title="Documentary",Discovery Home Health HD (dual Audio)
-https://edge10-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 
 CARTOON
 

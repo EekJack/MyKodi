@@ -204,15 +204,14 @@ http://203.154.243.89:28010/pa/snooker.ts
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png",BT Sport 1 HD
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png",BT Sport 2 HD
-http://185.191.126.235:8080/live/play/UjNaNk1GUlVkbVZOUTJoRVNXdFVRMUZKV2prNFptTnBNMjVNT1ZWalZFMHpiMDB2YVhkSWVUaEdRVDA9/128230
+http://31.220.3.170:2095/live/kQ91ka4n/daJGMKt1/128230.m3u8
 
 #EXTINF:-1 tvg-id="BTSportESPN.us" tvg-name="" group-title="Sport" tvg-logo="https://epg.cdn.vision.bt.com/now_and_next/Logos/BT_758465.png",BT SPORT-ESPN
 
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png",BT Sport 3 HD
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="" group-title="Sport" tvg-logo="https://i.postimg.cc/hvLbZB9j/image.jpg",F1
-http://185.191.126.235:8080/live/play/YjBWamRYTlhhMVZ1VjAwMlIzbFdPWGgyYW5oSFExUnVSMlk1UWk5NU9GcHhUelZ5V25waFJWcDNUVDA9/127990
-
+http://31.220.3.170:2095/live/kQ91ka4n/daJGMKt1/127990.m3u8
 
 MOVIE
 

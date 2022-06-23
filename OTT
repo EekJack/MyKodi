@@ -20,7 +20,7 @@ http://185.53.88.127:8080/linuxapp2021/M3jc66jD9UCnpK9v/146068
 #https://Astro.kpsboyserver.com/AstroSP2.mpd
 
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
-http://185.53.88.127:8080/linuxapp2021/M3jc66jD9UCnpK9v/157556
+http://94.130.129.118:8080/Instahub/bxL8msMEF2V3/92003
 
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Sport",Ass-tro SuperSport 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -28,10 +28,10 @@ http://185.53.88.127:8080/linuxapp2021/M3jc66jD9UCnpK9v/157556
 #https://Astro.kpsboyserver.com/AstroSP3.mpd
 
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Sport",Ass-tro SuperSport 3 HD
-http://185.53.88.127:8080/linuxapp2021/M3jc66jD9UCnpK9v/157557
+http://94.130.129.118:8080/Instahub/bxL8msMEF2V3/92034
 
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sport",Ass-tro SuperSport 4 HD
-http://185.53.88.127:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
+http://94.130.129.118:8080/Instahub/bxL8msMEF2V3/92022
 
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sport",Ass-tro SuperSport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

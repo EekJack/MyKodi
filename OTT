@@ -212,13 +212,16 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 http://203.154.243.89:28010/pa/snooker.ts
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png",BT Sport 1 HD
+https://o1.greenlie.org/live/btsport1-hq/chunks.m3u8?telegram@birutv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIyIDEwOjA0OjA2IEFNJmhhc2hfdmFsdWU9d0tGd3RDUDBGSWFQV1RPUHlzVzY0dz09JnZhbGlkbWludXRlcz02MCZpZD0yMDIuNTIuMTQ2LjIxOSZzdHJtX2xlbj0xNg==
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png",BT Sport 2 HD
-http://31.220.3.170:2095/kQ91ka4n/daJGMKt1/128230
+https://o1.greenlie.org/live/btsport2-hq/chunks.m3u8?telegram@birutv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIyIDEwOjA0OjE0IEFNJmhhc2hfdmFsdWU9SGdYRkp2dnVjUVhNT3Z1MHRGUjJRQT09JnZhbGlkbWludXRlcz02MCZpZD0yMDIuNTIuMTQ2LjIxOSZzdHJtX2xlbj0xNg==
+#http://31.220.3.170:2095/kQ91ka4n/daJGMKt1/128230
 
 #EXTINF:-1 tvg-id="BTSportESPN.us" tvg-name="" group-title="Sport" tvg-logo="https://epg.cdn.vision.bt.com/now_and_next/Logos/BT_758465.png",BT SPORT-ESPN
 
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png",BT Sport 3 HD
+https://o1.greenlie.org/live/btsport3-hq/chunks.m3u8?telegram@birutv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIyIDEwOjAzOjMwIEFNJmhhc2hfdmFsdWU9dWlad2E3NXBkdnBCQ1dURERjd3BzUT09JnZhbGlkbWludXRlcz02MCZpZD0yMDIuNTIuMTQ2LjIxOSZzdHJtX2xlbj0xNg==
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="" group-title="Sport" tvg-logo="https://i.postimg.cc/hvLbZB9j/image.jpg",F1
 http://31.220.3.170:2095/kQ91ka4n/daJGMKt1/127990
@@ -1022,8 +1025,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#https://Astro.kpsboyserver.com/AstroWarna.mpd
-http://51.81.208.129:35461/test167/12345/733
+https://stream.zeehanzgadget.com/warna.mpd
+#http://51.81.208.129:35461/test167/12345/733
 
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Asstro" tvg-id="",Ass-tro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1036,8 +1039,8 @@ https://stream.zeehanzgadget.com/ria.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#https://Astro.kpsboyserver.com/AstroCitra.mpd
-http://51.81.208.129:35461/test167/12345/721
+https://stream.zeehanzgadget.com/citra.mpd
+#http://51.81.208.129:35461/test167/12345/721
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610:1807230578255fcd79e1279b13ae69d8

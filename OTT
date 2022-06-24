@@ -1108,7 +1108,19 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HcENOyq.jpg" group-title="US",Cops
 https://bk7l2w4nlx53-hls-live.5centscdn.com/LivePD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-amg-tv-1213-768x576.jpg" group-title="US",AMG TV
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Discovery_Velocity_logo.jpg",Discovery Velocity
+https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmhG7ts271ejPQhHPQHv5kJ4/m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/reelz-us.png",REELZ
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/hallmark-drama-us.png",HALLMARK DRAMA
+https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmrTO_HZVr0w4mQ-ceGT5x9w/m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://1.bp.blogspot.com/-StIQ9rVWKPk/X30uqolK4tI/AAAAAAAABxw/-n43lz7T2iUNSNXcsJTyyitOyS8uR4GXACLcBGAsYHQ/w200-h200/Moviemax.png",MovieMax
+https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmo1YGv5NKnXzmpMoG5O6sM4/m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-amg-tv-1213-768x576.jpg" group-title="US",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" group-title="US",Showtime

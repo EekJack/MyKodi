@@ -1108,17 +1108,8 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HcENOyq.jpg" group-title="US",Cops
 https://bk7l2w4nlx53-hls-live.5centscdn.com/LivePD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Discovery_Velocity_logo.jpg",Discovery Velocity
-https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmhG7ts271ejPQhHPQHv5kJ4/m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/reelz-us.png",REELZ
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/hallmark-drama-us.png",HALLMARK DRAMA
-https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmrTO_HZVr0w4mQ-ceGT5x9w/m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://1.bp.blogspot.com/-StIQ9rVWKPk/X30uqolK4tI/AAAAAAAABxw/-n43lz7T2iUNSNXcsJTyyitOyS8uR4GXACLcBGAsYHQ/w200-h200/Moviemax.png",MovieMax
-https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmo1YGv5NKnXzmpMoG5O6sM4/m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-amg-tv-1213-768x576.jpg" group-title="US",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
@@ -1361,16 +1352,16 @@ https://astro1.rastream.com/amp-myfm-kk
 CINEMA
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg" tvg-country="" tvg-url="" group-title="WAYANG",The Lost City (2022)   
-http://khulnaplex.net/Data/ALLMovies/hollywood/2022/The%20Lost%20City%20(2022)/The.Lost.City.2022.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+https://dl.dropboxusercontent.com/s/1ygnai33ku6rjye/The%20Lost%20City.mp4
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jrgifaYeUtTnaH7NF5Drkgjg2MB.jpg" tvg-country="" tvg-url="" group-title="WAYANG",Fantastic Beasts: The Secrets of Dumbledore (2022)
-http://khulnaplex.net/Data/ALLMovies/hollywood/2022/Fantastic%20Beasts%20The%20Secrets%20of%20Dumbledore%20(2022)/Fantastic%20Beasts%20The%20Secrets%20of%20Dumbledore%20(2022)%201080p%20HDRip%20x264%20-%20ProLover.mp4
+https://dl.dropboxusercontent.com/s/hd9wftioq544vvi/Fantastic%20Beasts%20The%20Secrets%20of%20Dumbledore.mp4
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/7t6r33XfcG7aO6UNHSVbo84rYXN.jpg" tvg-country="" tvg-url="" group-title="WAYANG",Uncharted (2022)
-http://khulnaplex.net/Data/ALLMovies/hollywood/2022/Uncharted%20(2022)/Uncharted.2022.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4
+https://dl.dropboxusercontent.com/s/lca6oys7g94frdw/Uncharted.mp4
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/bOVh67DJh0sk97iceJM09SqdJ1L.jpg" tvg-country="" tvg-url="" group-title="WAYANG",Morbius (2022)  
-http://khulnaplex.net/Data/ALLMovies/hollywood/2022/Morbius%20(2022)/Morbius.2022.1080p.WEBRip.x264.AAC-[YTS.MX].mp4
+https://dl.dropboxusercontent.com/s/rxas3itlcbjtgey/Morbius.mp4
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rFd98DjPMSy1L6KKNFrqrrGNtrD.jpg" tvg-country="" tvg-url="" group-title="WAYANG",4 Horsemen: Apocalypse (2022)    
 http://khulnaplex.net/Data/ALLMovies/hollywood/2022/4%20Horsemen%20Apocalypse%20(2022)/4.Horsemen.Apocalypse.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
@@ -1383,3 +1374,55 @@ http://khulnaplex.net/Data/ALLMovies/hollywood/2022/Jurassic%20World%20Dominion%
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg" tvg-country="" tvg-url="" group-title="WAYANG",Doctor Strange in the Multiverse of Madness (2022)
 https://fvs.io/redirector?token=THhDUTJ2UzlNd1lVOHlQSmxlMmIvdHBRWXREaTIvdE9rMG5ncnN5QkZ4bVkxUDZMTDk1ME82REVJMTcrU25mWG9wbGZVMEJoaFpLMTlNNmp2b25IVkxNUmhMcUZ2bFBoRnBFemI5cUh3WHI3WEoxUUVFd0p2cGoyMWRxN3pOSnVIcHpXRGs5VlhkYWRWayt5NittU1VqS1ZHUFdvNnlwb1dlS3orQT09OnFubDBHTmJIQnJhUjNOdmI1VUs2aWc9PQ4RPj
+
+#EXTINF:-1 group-title="WAYANG" tvg-logo="https://patch.com/img/cdn20/users/2017057/20220530/045240/styles/patch_image/public/ip-man-cover___30165231580.jpg",Ip Man The Awakening (2022)
+https://dl.dropboxusercontent.com/s/4rruj8hr0j8a4sq/Ip%20Man%20The%20Awakening.avi
+
+#EXTINF:-1 group-title="WAYANG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Moonfall_film_poster.jpg",Moonfall (2022)
+https://dl.dropboxusercontent.com/s/jync6ofyw4gvpxu/Moonfall.mp4
+
+#EXTINF:-1 group-title="WAYANG" tvg-logo="https://posterspy.com/wp-content/uploads/2020/09/SCREAM-2022-POSTER-1500x2328.jpg",Scream (2022)
+https://dl.dropboxusercontent.com/s/hw7udzztbrvbl3h/Scream.avidl.dropboxusercontent.com/s/hw7udzztbrvbl3h/Scream.avi
+
+#EXTINF:-1 group-title="WAYANG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/The_Adam_Project_poster.png",The Adam Project (2022)
+https://dl.dropboxusercontent.com/s/x9l5eaj97ofl9x0/The%20Adam%20Project.mp4
+
+#EXTINF:-1 group-title="WAYANG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/Sonic_the_Hedgehog_2_film_poster.jpg",Sonic the Hedgehog 2 (2022)
+https://dl.dropboxusercontent.com/s/2yodrvdepb056mz/Sonic%20The%20Hedgehog%202.mp4
+
+#EXTINF:-1 group-title="WAYANG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Turning_Red_poster.jpg",Turning Red (2022)
+https://dl.dropboxusercontent.com/s/7p2goz79x2412em/Turning%20Red.mkv
+
+#EXTINF:-1 group-title="WAYANG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg",Black Widow (2021)
+https://dl.dropboxusercontent.com/s/hjbaai5u8yqo11j/Black%20Widow.mp4
+
+#EXTINF:-1 group-title="WAYANG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Free_Guy_2021_Poster.jpg",Free Guy (2021)
+https://dl.dropboxusercontent.com/s/iemr3lnbshks6b6/Free%20Guy.mp4
+
+#EXTINF:-1 group-title="WAYANG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg",Shang-Chi and the Legend of the Ten Rings (2021)
+https://dl.dropboxusercontent.com/s/ju217cug2whofhy/Shang-Chi%20And%20The%20Legend%20Of%20The%20Ten%20Rings.mp4
+
+#EXTINF:-1 group-title="WAYANG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg",Spider-Man: No Way Home (2021)
+https://dl.dropboxusercontent.com/s/68f7m3k6z8ck0vb/Spider-Man%20No%20Way%20Home.mp4
+
+#EXTINF:-1 group-title="WAYANG" password="1234" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3d/Those_Who_Wish_Me_Dead.png",Those Who Wish Me Dead (2021)
+https://dl.dropboxusercontent.com/s/pxmbem5envn55ta/Those%20Who%20Wish%20Me%20Dead.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

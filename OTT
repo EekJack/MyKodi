@@ -1114,11 +1114,8 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" group-title="US",Showtime
 http://38.127.211.18/live/c2eds/Showtime/HLS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LHXa485.png" group-title="US",Syfy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LHXa485.png" group-title="Movie",Syfy
 http://38.127.211.18/live/c2eds/SYFY/HLS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/icFwjZ3.jpg" group-title="US",AMC
-http://38.127.211.18/live/c2eds/AMC/HLS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="Documentary",Discovery Science
 http://38.127.211.18/live/c2eds/Science/HLS/index.m3u8
@@ -1167,9 +1164,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playli
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UQjtEqR.png" group-title="US",Reelz Channel
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="US" tvg-logo="https://images-us-az.crackle.com/logo.png",Crackle tvᴴᴰ 
-https://crackle-plex.amagi.tv/playlist720lp.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57

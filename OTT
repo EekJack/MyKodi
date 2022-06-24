@@ -1016,7 +1016,8 @@ https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
 #KODIPROP:inputstream.adaptive.license_key=452aca9691995f5ae62629035888e110:35d62e585c052018e1c190eda89fafa3
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-id="105" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Asstro" tvg-id="Prima",Ass-tro Prima HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+https://stream.zeehanzgadget.com/prima.mpd
 
 #EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Asstro", As-stro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1044,38 +1045,13 @@ https://stream.zeehanzgadget.com/citra.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610:1807230578255fcd79e1279b13ae69d8
 #EXTINF:-1 tvg-id="112" ch-number="AstroRania" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="Asstro",Ass-tro Rania HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 https://stream.zeehanzgadget.com/rania.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217e77e40cf4ec1269ea1e278eb2c610:b2a2333955933b7dc3d71e7685971f71
 #EXTINF:-1 tvg-id="113" ch-number="AstroAura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="Asstro",Ass-tro Aura HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8cc914692987662d5beeed2a84ecf10:1ad7af3abe78cece01e7a772dd88a09b
-#EXTINF:-1 tvg-id="311" tvg-name="" group-title="AOD" tvg-logo="https://iili.io/1OtOw7.png",Ass-tro AOD HD CH311
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=615ed4bcd8cecca6b9703e54252f8c10:84b3495bfb163c17a6cc6cf43b1f02e9
-#EXTINF:-1 tvg-id="352" tvg-name="" group-title="AOD" tvg-logo="https://iili.io/1NBYsR.png",Ass-tro AOD CH352
-http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=72c97cb54df5626d72ab35a1d6efaf10:8d40587f3f21561aa2ca5b5bf008187e
-#EXTINF:-1 tvg-id="353" tvg-name="" group-title="AOD" tvg-logo="https://iili.io/1NBYsR.png",Ass-tro AOD CH353
-http://linearjitp-playback.astro.com.my/dash-wv/linear/905/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d24b39ffd2824eeb3e03eb5da918ad10:7ca1866a4eace300a65998d1fc94ac28
-#EXTINF:-1 tvg-id="354" tvg-name="" group-title="AOD" tvg-logo="https://iili.io/1NBYsR.png",Ass-tro AOD CH354
-http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12415fae0e5af6a762e14eee8017ca10:0ae4216d6d772906acd1531c12adaead
-#EXTINF:-1 tvg-id="355" tvg-name="" group-title="AOD" tvg-logo="https://iili.io/1NBYsR.png",Ass-tro AOD CH355
-http://linearjitp-playback.astro.com.my/dash-wv/linear/307/default_ott.mpd
 
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-name="Hallmark Movies & More" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" tvg-url="" group-title="Movie",Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8

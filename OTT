@@ -1114,13 +1114,13 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/ANIMAL/961ac1c875f5884f31bdd177365ef
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cpg9AYp.png" group-title="AnthymTV",Discover
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Discover/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/reelz-us.png",REELZ
+#EXTINF:-1 tvg-id="Reelz.us" tvg-name="Reelz.us" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/reelz-us.png",REELZ
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-amg-tv-1213-768x576.jpg" group-title="Entertainment",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LHXa485.png" group-title="Movie",Syfy
+#EXTINF:-1 tvg-id="SyfyEast.us" tvg-name="Syfy East" tvg-logo="https://i.imgur.com/LHXa485.png" group-title="Movie",Syfy
 http://38.127.211.18/live/c2eds/SYFY/HLS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="Documentary",Discovery Science
@@ -1167,9 +1167,6 @@ http://anren.live/HK/BiIOU11uLA.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OiMMkP3.jpg" group-title="Entertainment",Just for Laughs Gags
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UQjtEqR.png" group-title="Entertainment",Reelz Channel
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57

@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml.gz, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, http://onetv.click/schedule/epg.xml,"  refresh="3600"
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml.gz, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, http://onetv.click/schedule/epg.xml, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,"  refresh="3600"
 
 #EXTINF:-1 tvg-id="AstroUHD" ch-number="780" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",ASTRO UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -353,6 +353,9 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_pix_in.png" tvg-id="" tvg-name="" group-title="Movie",Sony Pix HD
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
+#EXTINF:-1 tvg-id="StarMoviesHDIndia.hk" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies_in_select.png" group-title="Movie",Star Movies
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="boxmovie1" tvg-name="Box Movie 1" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Movie%201%20HD.png" group-title="Movie",Box Movie 1 HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
@@ -561,25 +564,25 @@ https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.m
 #EXTINF:-1 tvg-id="392" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="Korea",KBS World
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default.mpd
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/1920px-KBS_1_logo.svg.png" group-title="Korea",KBS 1TV
+#EXTINF:0 tvg-id="KBS1TV.kr" tvg-name="KBS 1TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="Korea",KBS 1TV
 http://itskoi.dothome.co.kr/kbs.php?id=11
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1920px-KBS_2_logo.svg.png" group-title="Korea",KBS 2TV
+#EXTINF:0 tvg-id="KBS2TV.kr" tvg-name="KBS 2TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1920px-KBS_2_logo.svg.png" group-title="Korea",KBS 2TV
 http://itskoi.dothome.co.kr/kbs.php?id=12
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/4CRXneT.png" group-title="Korea",KBS Joy
+#EXTINF:0 tvg-id="KBSJoy.kr" tvg-name="KBS JOY" tvg-logo="https://i.imgur.com/4CRXneT.png" group-title="Korea",KBS Joy
 http://51.81.66.195:1935/krtv/kbs_joy_540/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/7XCSOFp.png" group-title="Korea",KBS Life
+#EXTINF:0 tvg-id="KBSLife.kr" tvg-name="KBS Life" tvg-logo="https://i.imgur.com/7XCSOFp.png" group-title="Korea",KBS Life
 http://ppmk.my.id/korea/kor.m3u8?id=kbslife
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/BzqSUVF.png" group-title="Korea",SBS
+#EXTINF:0 tvg-id="SBSTV.kr" tvg-name="SBS" tvg-logo="https://i.imgur.com/BzqSUVF.png" group-title="Korea",SBS
 http://itskoi.dothome.co.kr/sbs.php?id=S01
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/n2JajGK.png" group-title="Korea",SBS FunE
+#EXTINF:0 tvg-id="SBSfunE.kr" tvg-name="SBS funE" tvg-logo="https://i.imgur.com/n2JajGK.png" group-title="Korea",SBS FunE
 http://ye23.win/iptv/sbs5.1.php?id=S04
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/tzTx3Ta.png" group-title="Korea",SBS Plus
+#EXTINF:0 tvg-id="SBSPlus.kr" tvg-name="SBS Plus" tvg-logo="https://i.imgur.com/tzTx3Ta.png" group-title="Korea",SBS Plus
 http://ye23.win/iptv/sbs5.1.php?id=S03
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ho02Nl2.png" group-title="Korea",MNet
@@ -588,11 +591,8 @@ http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/mGIO50z.png" group-title="Korea",JTBC
 http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/r9gNY5R.png" group-title="Korea",MBC
+#EXTINF:0 tvg-id="MBCTV.kr" tvg-name="MBC" tvg-logo="https://i.imgur.com/r9gNY5R.png" group-title="Korea",MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="StarMoviesHDIndia.hk" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies_in_select.png" group-title="Movie",Star Movies
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cf5f00d7c35e9a0c4515d93e3938c10:2c2d00ff93b69f9e5e6c377fc8c80cc7

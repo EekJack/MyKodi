@@ -1048,9 +1048,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default.mpd
 #EXTINF:-1 tvg-id="HallmarkChannelEast.us" tvg-name="Hallmark Channel East" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" tvg-url="" group-title="Movie",Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1CHN" tvg-name="Star WORLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Star_World_HD_India.png" group-title="Entertainment",Star World HD
+#EXTINF:-1 tvg-id="" tvg-name="Star WORLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Star_World_HD_India.png" group-title="Entertainment",Star World HD
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-#http://live.flixhub.net/hls/star-worldhd.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jsQLDy1.png" group-title="AnthymTV",FIGHT NIGHT
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Fight/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
@@ -1085,11 +1086,9 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/WildWest/961ac1c875f5884f31bdd177365
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fc2Ipmo.png" group-title="AnthymTV",Swam Folk
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Duck/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-# https://www.anthymtv.com/gameshow
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvkgEIF.png" group-title="AnthymTV",Game Show
 https://bk7l2w4nlx53-hls-live.5centscdn.com/GAMESHOW/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-# https://www.anthymtv.com/lifestyle
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zpPhaqX.png" group-title="AnthymTV",Lifestyle
 https://bk7l2w4nlx53-hls-live.5centscdn.com/TLC/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 

@@ -1052,57 +1052,72 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #http://live.flixhub.net/hls/star-worldhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jsQLDy1.png" group-title="US",FIGHT NIGHT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jsQLDy1.png" group-title="AnthymTV",FIGHT NIGHT
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Fight/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jlB26oE.jpg" group-title="US",Food
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jlB26oE.jpg" group-title="AnthymTV",Food
 https://bk7l2w4nlx53-hls-live.5centscdn.com/FOOD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JIo6NvG.png" group-title="US",Home
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JIo6NvG.png" group-title="AnthymTV",Home
 https://bk7l2w4nlx53-hls-live.5centscdn.com/House/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xszGKYW.jpg" group-title="US",Outdoors
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xszGKYW.jpg" group-title="AnthymTV",Outdoors
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Outdoors/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E0DeGOK.png" group-title="US",Pawn Star
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E0DeGOK.png" group-title="AnthymTV",Pawn Star
 https://bk7l2w4nlx53-hls-live.5centscdn.com/PawnStars/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qpGVPCW.jpg" group-title="US",Reality
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qpGVPCW.jpg" group-title="AnthymTV",Reality
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IWxnZgg.png" group-title="US",Star
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IWxnZgg.png" group-title="AnthymTV",Star
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Star/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cyWbYaX.jpg" group-title="US",Travel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cyWbYaX.jpg" group-title="AnthymTV",Travel
 https://bk7l2w4nlx53-hls-live.5centscdn.com/TRAVEL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/53GQfC8.png" group-title="US",True Crime
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53GQfC8.png" group-title="AnthymTV",True Crime
 https://bk7l2w4nlx53-hls-live.5centscdn.com/CRIME/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qb32E1d.png" group-title="US",Wild West
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qb32E1d.png" group-title="AnthymTV",Wild West
 https://bk7l2w4nlx53-hls-live.5centscdn.com/WildWest/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fc2Ipmo.png" group-title="US",Swam Folk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fc2Ipmo.png" group-title="AnthymTV",Swam Folk
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Duck/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 # https://www.anthymtv.com/gameshow
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AvkgEIF.png" group-title="US",Game Show
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AvkgEIF.png" group-title="AnthymTV",Game Show
 https://bk7l2w4nlx53-hls-live.5centscdn.com/GAMESHOW/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 # https://www.anthymtv.com/lifestyle
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zpPhaqX.png" group-title="US",Lifestyle
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zpPhaqX.png" group-title="AnthymTV",Lifestyle
 https://bk7l2w4nlx53-hls-live.5centscdn.com/TLC/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us.svg" group-title="US",History
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us.svg" group-title="AnthymTV",History
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HcENOyq.jpg" group-title="US",Cops
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t4XtyGI.jpg" group-title="AnthymTV",Americanna Channel
+https://bk7l2w4nlx53-hls-live.5centscdn.com/Classics/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4KhV9tG.jpg" group-title="AnthymTV",Gear Head
+https://bk7l2w4nlx53-hls-live.5centscdn.com/Chassy/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HcENOyq.jpg" group-title="AnthymTV",Cops
 https://bk7l2w4nlx53-hls-live.5centscdn.com/LivePD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0IWeCl1.jpg" group-title="AnthymTV",911 NETWORK
+https://bk7l2w4nlx53-hls-live.5centscdn.com/XPD/ba50d07d532990bcd7c359a1087d85af.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IkhwEpS.jpg" group-title="US",Animal
+https://bk7l2w4nlx53-hls-live.5centscdn.com/ANIMAL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cpg9AYp.png" group-title="AnthymTV",Discover
+https://bk7l2w4nlx53-hls-live.5centscdn.com/Discover/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/reelz-us.png",REELZ
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-amg-tv-1213-768x576.jpg" group-title="US",AMG TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-amg-tv-1213-768x576.jpg" group-title="Entertainment",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHXa485.png" group-title="Movie",Syfy
@@ -1153,7 +1168,7 @@ http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OiMMkP3.jpg" group-title="Entertainment",Just for Laughs Gags
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UQjtEqR.png" group-title="US",Reelz Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UQjtEqR.png" group-title="Entertainment",Reelz Channel
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

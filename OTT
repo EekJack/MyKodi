@@ -711,7 +711,7 @@ https://liveanevia.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 #EXTINF:-1 tvg-id="708" tvg-logo="http://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png" group-title="Documentary",FOOD NETWORK FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default.mpd
 
-#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-name="Sony BBC Earth" group-title="Documentary" tvg-logo="https://iili.io/1mjMgt.png",Sony BBC Earth
+#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-name="Sony BBC Earth" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/150px-Sony_BBC_Earth.png",Sony BBC Earth
 http://103.55.144.46/hls/bbcearth.m3u8
 
 #EXTINF:-1 tvg-id="SmithsonianChannelEast.us" tvg-logo="https://www.smithsonianchannel.ca/wp-content/uploads/2018/10/smithsonian-logo-header.png" group-title="Documentary",Smithsonian Channel

@@ -157,7 +157,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sport",PTV SPORTS
-#http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
+http://103.55.144.46/hls/ptv.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -183,9 +183,11 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 #EXTINF:-1 tvg-id="SonyTen3.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="Sport",Ten 3
 #https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="StarSportsSelectHD1.hk" tvg-logo="http://live.flixhub.net/img/Star_Sports_Select_1_HD.jpg" tvg-id="" tvg-name="" group-title="Sport",Star Sport Select 1 HD
+#EXTINF:-1 tvg-id="StarSportsSelect1HD.in" tvg-logo="https://i.imgur.com/bEAfTTI.png" tvg-name="Star Sports Select HD1" group-title="Sport",Star Sport Select 1 HD
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 
-#EXTINF:-1 tvg-id="StarSportsSelectHD2.hk" tvg-logo="http://live.flixhub.net/img/select2.jpg" tvg-id="" tvg-name="" group-title="Sport",Star Sport Select 2 HD
+#EXTINF:-1 tvg-id="StarSportsSelect2HD.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg/revision/latest/scale-to-width-down/220?cb=20170728104438" tvg-id="" tvg-name="" group-title="Sport",Star Sport Select 2 HD
+http://103.55.144.46/hls/select2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tennis_channel.png" group-title="Sport",Tennis Channel
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
@@ -708,6 +710,9 @@ https://liveanevia.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=0845d8900e973747e70c9f61ebed2d10:4bdb394a43bb955d6d67107620de17db
 #EXTINF:-1 tvg-id="708" tvg-logo="http://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png" group-title="Documentary",FOOD NETWORK FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default.mpd
+
+#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-name="Sony BBC Earth" group-title="Documentary" tvg-logo="https://iili.io/1mjMgt.png",Sony BBC Earth
+http://103.55.144.46/hls/bbcearth.m3u8
 
 #EXTINF:-1 tvg-id="SmithsonianChannelEast.us" tvg-logo="https://www.smithsonianchannel.ca/wp-content/uploads/2018/10/smithsonian-logo-header.png" group-title="Documentary",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8

@@ -364,13 +364,13 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http:
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="Hollywood Classics" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Hollywood%20Classics%20HD.png" group-title="Movie",Hollywood Classics HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/redbox 1: spotlight (1080p).png" group-title="Movie",Redbox 1: Spotlight
+#EXTINF:-1 tvg-id="RedboxSpotlight.us" tvg-logo="https://i.pcmag.com/imagery/articles/078lgLwZOcCyGzBRw0uOpyz-2.fit_lim.size_1600x900.v1581954468.png" group-title="Movie",Redbox 1: Spotlight
 https://spotlight-redbox.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/redbox 2: comedy (1080p).png" group-title="Movie",Redbox 2: Comedy
+#EXTINF:-1 tvg-id="RedboxComedy.us" tvg-name="" tvg-logo="https://i.pcmag.com/imagery/articles/078lgLwZOcCyGzBRw0uOpyz-2.fit_lim.size_1600x900.v1581954468.png" group-title="Movie",Redbox 2: Comedy
 https://comedy-redbox.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/redbox 3: rush (1080p).png" group-title="Movie",Redbox 3: Rush
+#EXTINF:-1 tvg-id="RedboxRush.us" tvg-name="" tvg-logo="https://i.pcmag.com/imagery/articles/078lgLwZOcCyGzBRw0uOpyz-2.fit_lim.size_1600x900.v1581954468.png" group-title="Movie",Redbox 3: Rush
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 
 #EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/09cb1Xp/unnamed.png" group-title="Movie ",CineLife

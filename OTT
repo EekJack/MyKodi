@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="Astro UHD" ch-number="1780" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",ASTRO UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1602/
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default_primary.mpd
 
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="Sport" tvg-logo="https://iili.io/1NzqF4.png",Ass-tro Supersport 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

@@ -464,9 +464,6 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cyWbYaX.jpg" group-title="Entertainment",Travel
-https://bk7l2w4nlx53-hls-live.5centscdn.com/TRAVEL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLmqd4qx/PEOPLE-ARE-AWESOME.png" group-title="Entertainment",People Are Awesome
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
 
@@ -1060,7 +1057,7 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 #EXTINF:-1 tvg-id="" tvg-name="Star WORLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Star_World_HD_India.png" group-title="Entertainment",Star World HD
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 
-
+=AnthymTV=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jsQLDy1.png" group-title="AnthymTV",FIGHT NIGHT
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Fight/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
@@ -1121,6 +1118,8 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/ANIMAL/961ac1c875f5884f31bdd177365ef
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cpg9AYp.png" group-title="AnthymTV",Discover
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Discover/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Reelz.us" tvg-name="Reelz.us" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/reelz-us.png",REELZ
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8

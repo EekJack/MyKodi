@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"  refresh="3600"
 
-#EXTINF:-1 tvg-id="Astro UHD" ch-number="1780" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",ASTRO UHD
+#EXTINF:-1 tvg-id="Astro UHD" ch-number="1780" tvg-password="1234" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",ASTRO UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1602/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default.mpd
@@ -469,7 +469,7 @@ https://dmtv-plex.amagi.tv/playlist.m3u8?l1br3DM0501
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyODMyMzRf/AmericanHorrors.png" group-title="Entertainment",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8?l1br3DM0501
 
-#EXTINF:-1 tvg-id="AlwaysFunnyVideos.us" tvg-name="AFV TV" tvg-logo="https://images.pluto.tv/channels/5e82b55ad0213e00079c509f/colorLogoPNG.png" group-title="Entertainment",AFV TV
+#EXTINF:-1 tvg-id="AlwaysFunnyVideos.us" tvg-name="Always Funny Videos" tvg-logo="https://images.pluto.tv/channels/5e82b55ad0213e00079c509f/colorLogoPNG.png" group-title="Entertainment",AFV TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82b55ad0213e00079c509f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 MUSIC
@@ -845,7 +845,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/angrybirds/images/f/fc/AB2_Tenth_Icon.png/revision/latest/scale-to-width-down/700?cb=20211111150429" group-title="Cartoon", Angry Bird
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=547
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gZmhhv7/images.png" group-title="Cartoon",Lego
+#EXTINF:-1 tvg-id="LEGOKidsTV.us" tvg-name="LEGO Kids TV" tvg-logo="https://i.ibb.co/gZmhhv7/images.png" group-title="Cartoon",LEGO Kids TV
 https://legochannel-roku.amagi.tv/playlist.m3u8
 
 #NEWS
@@ -1196,10 +1196,10 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 #EXTINF:-1 tvg-id="Vasantham.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-title="SINGAPORE",VASANTHAM
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" group-title="SINGAPORE" tvg-id="" tvg-chno="" tvg-logo="https://i.imgur.com/DEGZtGq.png",meWATCH LIVE 1 
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" group-title="SINGAPORE" tvg-id="" tvg-logo="https://i.imgur.com/DEGZtGq.png",meWATCH LIVE 1 
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
-#EXTINF:-1 tvg-id="meWATCHLIVE2.sg" group-title="SINGAPORE" tvg-id="" tvg-chno="" tvg-logo="https://i.imgur.com/LIjBhc9.png",meWATCH LIVE 2
+#EXTINF:-1 tvg-id="meWATCHLIVE2.sg" group-title="SINGAPORE" tvg-id="" tvg-logo="https://i.imgur.com/LIjBhc9.png",meWATCH LIVE 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 #EXTINF:-1 tvg-id="ANTV.MACAN" tvg-logo="https://images.useetv.com/logo_antv_big1.png" tvg-name="ANTV" group-title="Indo",ANTV

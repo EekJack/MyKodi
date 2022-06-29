@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"  refresh="3600"
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml, https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml"  refresh="3600"
 
 #EXTINF:-1 tvg-id="Astro UHD" ch-number="1780" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",ASTRO UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -234,6 +234,21 @@ http://31.220.3.170:2095/kQ91ka4n/daJGMKt1/128230
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="" group-title="Sport" tvg-logo="https://i.postimg.cc/hvLbZB9j/image.jpg",F1
 http://31.220.3.170:2095/kQ91ka4n/daJGMKt1/127990
+
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" group-title="Sport" tvg-logo="https://i.imgur.com/eRFE0jZ.png",TSN 1
+http://162.250.220.76:80/TSN-1/mpegts
+
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png",TSN 2
+http://162.250.220.76:80/TSN-2/mpegts
+
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" group-title="Sport" tvg-logo="https://i.imgur.com/AYza8KO.png",TSN 3
+http://162.250.220.76:80/TSN-3/mpegts
+
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4" group-title="Sport" tvg-logo="https://i.imgur.com/qJyAWU8.png",TSN 4
+http://162.250.220.76:80/TSN-4/mpegts
+
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN"5 group-title="Sport" tvg-logo="https://i.imgur.com/HEzHpzz.png",TSN 5
+http://162.250.220.76:80/TSN-5/mpegts
 
 MOVIE
 

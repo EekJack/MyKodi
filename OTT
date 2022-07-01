@@ -977,7 +977,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default.mpd
 #EXTINF:-1 tvg-id="518" group-title="News" tvg-logo="https://iili.io/1NnOH7.png",ABC Australia
 http://linearjitp-playback.astro.com.my/dash-wv/linear/904/default.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/tmz (720p).png" group-title="News",TMZ
+#EXTINF:-1 tvg-id="CAAJ4000006UF" tvg-name="TMZ" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/tmz (720p).png" group-title="News",TMZ
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/MSNBC.png" group-title="News",MSNBC
@@ -1074,7 +1074,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=217e77e40cf4ec1269ea1e278eb2c610:b2a2333955933b7dc3d71e7685971f71
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default.mpd
 
-#EXTINF:-1 tvg-id="USBB19000017U" tvg-name="Hallmark Channel East" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" tvg-url="" group-title="Movie",Hallmark Movies & More
+#EXTINF:-1 tvg-id="USBB19000017U" tvg-name="Hallmark Movies & More" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" tvg-url="" group-title="Movie",Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Star WORLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Star_World_HD_India.png" group-title="Entertainment",Star World HD
@@ -1159,7 +1159,7 @@ http://38.127.211.18/live/c2eds/Science/HLS/index.m3u8
 #EXTINF:-1 tvg-id="CBSN.us" tvg-logo="https://i.imgur.com/kDqyJcP.jpg" group-title="News",CBSN (US)
 https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/12/Haunt_Roku-1.jpg" group-title="Entertainment",Haunt TV
+#EXTINF:-1 tvg-id="CABA800009T5" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/12/Haunt_Roku-1.jpg" group-title="Entertainment",Haunt TV
 https://haunttv-roku.amagi.tv/playlist720-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Documentary",Hunt Channel

@@ -3,12 +3,12 @@
 #EXTINF:-1 tvg-id="" ch-number="" group-title="TEST CHANNEL" tvg-logo="https://www.dreamstime.com/favicon-228.png",TEST
 #EXTVLCOPT:http-user-agent=otto-aplikasi
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-http://ott-navigator.my.id/thailand/truepremier1.m3u8
+http://ott-navigator.my.id/thailand/truepremier1/master.m3u8
 
 #EXTINF:-1 tvg-id="" ch-number="" group-title="TEST CHANNEL" tvg-logo="https://www.dreamstime.com/favicon-228.png",TEST 2
 #EXTVLCOPT:http-user-agent=otto-aplikasi
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://ott-navigator.my.id/indonesia/CHAMPIONSTV1.m3u8
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://ott-navigator.my.id/sports/tsn/master.m3u8?id=001
 
 #EXTINF:-1 tvg-id="Astro UHD" ch-number="1780" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",ASTRO UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

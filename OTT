@@ -6,9 +6,9 @@
 http://ott-navigator.my.id/thailand/truepremier1.m3u8
 
 #EXTINF:-1 tvg-id="" ch-number="" group-title="TEST CHANNEL" tvg-logo="https://www.dreamstime.com/favicon-228.png",TEST 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://smart-tv.livedoomovies.com:4431/02_sport5_480p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://ott-navigator.my.id/vidio3/master.m3u8?channel=CHAMPIONSTV1
 
 #EXTINF:-1 tvg-id="Astro UHD" ch-number="1780" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",ASTRO UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

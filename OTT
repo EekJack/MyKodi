@@ -244,8 +244,10 @@ https://networkbest.ru.com/cdn/premium60/chunks.m3u8|Referer=https://player.lice
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-id="LFCTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="Sport",LFC TV
-#https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-22.m3u8
-https://networkbest.ru.com/cdn/premium22/chunks.m3u8|Referer=https://player.licenses4.me
+https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-22.m3u8
+
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://i.imgur.com/3zyVm7l.png" group-title="CLUBS OF SPORTS",MUTV
+https://networkbest.ru.com/cdn/premium377/chunks.m3u8|Referer=https://player.licenses4.me
 
 MOVIE
 

@@ -223,10 +223,10 @@ https://networkbest.ru.com/cdn/premium60/chunks.m3u8|Referer=https://player.lice
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cwNQ4S5/image.jpg" group-title="Sport",Sportsmax 1
-http://38.127.211.18/live/c2eds/Sportsmax1/HLS/index.m3u8
+#http://38.127.211.18/live/c2eds/Sportsmax1/HLS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cwNQ4S5/image.jpg" group-title="Sport",Sportsmax 2
-http://38.127.211.18/live/c2eds/Sportsmax2/HLS/index.m3u8
+#http://38.127.211.18/live/c2eds/Sportsmax2/HLS/index.m3u8
 
 
 MOVIE
@@ -240,12 +240,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="Movie",HBO HD
-#https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8cfb499a75630eca1d50e584f58e9310:0a11d637ad2eaa1f7a75f42b7fc72b30
 #EXTINF:-1 tvg-id="414" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="Movie",HBO FAMILY FHD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -257,7 +257,7 @@ https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 #EXTINF:-1 tvg-id="1706" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="Movie",HBO HITS FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/200px-HBOHits-ASIA.png" group-title="Movie",HBO HITS
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
@@ -389,7 +389,7 @@ https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?sourc
 #http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Showtime.png" group-title="Movie",Showtime
-http://38.127.211.18/live/c2eds/Showtime/HLS/index.m3u8
+#http://38.127.211.18/live/c2eds/Showtime/HLS/index.m3u8
 
 #EXTINF:0 tvg-id="Pluto.TV.Spotlight.us" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="Movie",Pluto TV Spotlight
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -751,10 +751,10 @@ https://xplore-plex.amagi.tv/playlist.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="InvestigationDiscoveryEast.us" tvg-name="Investigation Discovery East" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/ID.png" group-title="Documentary",Investigation Discovery
-http://38.127.211.18/live/c2eds/ID/HLS/index.m3u8
+#http://38.127.211.18/live/c2eds/ID/HLS/index.m3u8
 
 #EXTINF:-1 tvg-id="FYIEast.us" tvg-name="FYI" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/FYI.png" group-title="Documentary",FYI
-http://38.127.211.18/live/c2eds/FYI/HLS/index.m3u8
+#http://38.127.211.18/live/c2eds/FYI/HLS/index.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVAnimals.us" tvg-name="Pluto TV Animals" tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="Documentary",ANIMALS TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -985,7 +985,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/904/default.mpd
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/MSNBC.png" group-title="News",MSNBC
-http://38.127.211.18/live/c2eds/MSNBC/HLS/index.m3u8
+#http://38.127.211.18/live/c2eds/MSNBC/HLS/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09891197fd467008f73b1fe18bfed710:fa752673e5da5541a796569371788dea
@@ -1151,10 +1151,10 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,R
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SyfyEast.us" tvg-name="Syfy East" tvg-logo="https://i.imgur.com/LHXa485.png" group-title="Movie",Syfy
-http://38.127.211.18/live/c2eds/SYFY/HLS/index.m3u8
+#http://38.127.211.18/live/c2eds/SYFY/HLS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="Documentary",Discovery Science
-http://38.127.211.18/live/c2eds/Science/HLS/index.m3u8
+#http://38.127.211.18/live/c2eds/Science/HLS/index.m3u8
 
 #EXTINF:-1 tvg-id="CBSN.us" tvg-logo="https://i.imgur.com/kDqyJcP.jpg" group-title="News",CBSN (US)
 https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8

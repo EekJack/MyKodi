@@ -397,9 +397,6 @@ https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/09cb1Xp/unnamed.png" group-title="Movie ",CineLife
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?source:iptvmate.net
 
-#EXTINF:-1 group-title="Movie" tvg-id="" tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png",Douyu TV Movies 
-https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Srm8zWy/x.png" group-title="Movie",Movies X
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
@@ -1218,9 +1215,6 @@ https://outsidetv-outside-localnow.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-id="ElectricNow.us" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Entertainment",Electric Now
 https://ov.ottera.tv/live/master.m3u8?channel=elec_en
-
-#EXTINF:-1 tvg-id="FrightFlix.us" tvg-logo="https://i.imgur.com/rgNQYAl.png" group-title="Movie",FrightFlix
-https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hollywood_movie_channel.png" group-title="Movie",Hollywood HD
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8

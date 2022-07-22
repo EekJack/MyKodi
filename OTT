@@ -9,8 +9,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default_primary.mpd
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="Sport" tvg-logo="https://iili.io/1NzqF4.png",Ass-tro Supersport 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
-https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
-#https://networkbest.ru.com/cdn/premium123/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+https://networkbest.ru.com/cdn/premium123/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -203,9 +203,6 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USAJ3504705A" tvg-name="" group-title="Sport" tvg-logo="https://image.roku.com/developer_channels/prod/c850859a0ec0928a82c0e1af8ff0f2f9198dce733c38f329057da40bfbbab926.png",Stadium
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/qelH155239.png" group-title="Sport",World Snooker
-http://203.154.243.89:28010/pa/snooker.ts
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png",BT Sport 1 HD
 https://networkbest.ru.com/cdn/premium31/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
@@ -464,11 +461,13 @@ https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2473" tvg-name="Blue Ant Entertainment" group-title="Entertainment" tvg-logo="https://i.ibb.co/5kmtnvJ/Rock-Entertainment.png",Blue-Ant Entertainment
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+#https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+https://iptv-sniper.herokuapp.com/localtv.php?channel=56
 
 #EXTINF:-1 tvg-id="2474" tvg-name="Blue Ant Extreme" group-title="Entertainment" tvg-logo="https://i.ibb.co/KLSyc92/Rock-Extreme.png",Blue-Ant Extreme
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+#https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+https://iptv-sniper.herokuapp.com/localtv.php?channel=57
 
 #EXTINF:-1 tvg-id="INBA5100031R2" tvg-logo="https://i.postimg.cc/pLmqd4qx/PEOPLE-ARE-AWESOME.png" group-title="Entertainment",People Are Awesome
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
@@ -496,6 +495,11 @@ https://amg00219-gunpowdersky-dustintl-uk-samsunguk-3hqn9.amagi.tv/playlist/gunp
 
 #EXTINF:-1 tvg-id="GBBB3800007BN" tvg-chno="4111" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/30/GBBB3800007BN_20220323T070729.png" group-title="Entertainment",Survivor
 https://amg00627-banijaygroup-surviour-uk-samsunguk-uyz22.amagi.tv/playlist/amg00627-banijaygroup-survivor-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="EntertainmentT",E! East
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium315/tracks-v1a1/mono.m3u8
 
 MUSIC
 
@@ -773,6 +777,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/601a0342dcf43700075668
 
 #EXTINF:0 tvg-id="Unsolved.Mysteries.us" tvg-logo="https://bloody-disgusting.com/wp-content/uploads/2020/06/netflix-unsolved-mysteries.png" group-title="Documentary",Unsolved Mysteries
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dIoU3FG.png" group-title="Documentary",A&E
+https://networkbest.ru.com/cdn/premium302/tracks-v1a1/mono.m3u8
 
 CARTOON
 

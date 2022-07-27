@@ -1093,10 +1093,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default.mpd
 
 #EXTINF:-1 tvg-id="USBB19000017U" tvg-name="Hallmark Movies & More" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" tvg-url="" group-title="Movie",Hallmark Movies & More
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+http://89.187.179.148:826/12month0406/Rj6ul3S3P7/109165
 
 #EXTINF:-1 tvg-id="" tvg-name="Star WORLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Star_World_HD_India.png" group-title="Entertainment",Star World HD
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Life" tvg-country="US" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_life_us.png" group-title="Movie",Discovery Life
+http://89.187.179.148:826/12month0406/Rj6ul3S3P7/109136
 
 =AnthymTV=
 
@@ -1160,8 +1164,6 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/ANIMAL/961ac1c875f5884f31bdd177365ef
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cpg9AYp.png" group-title="AnthymTV",Discover
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Discover/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Reelz.us" tvg-name="Reelz.us" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/reelz-us.png",REELZ
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8
 
@@ -1170,6 +1172,7 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SyfyEast.us" tvg-name="Syfy East" tvg-logo="https://i.imgur.com/LHXa485.png" group-title="Movie",Syfy
 #http://38.127.211.18/live/c2eds/SYFY/HLS/index.m3u8
+http://89.187.179.148:826/12month0406/Rj6ul3S3P7/109210
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="Documentary",Discovery Science
 #http://38.127.211.18/live/c2eds/Science/HLS/index.m3u8

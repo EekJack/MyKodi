@@ -1099,7 +1099,7 @@ http://89.187.179.148:826/12month0406/Rj6ul3S3P7/109165
 #EXTINF:-1 tvg-id="" tvg-name="Star WORLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Star_World_HD_India.png" group-title="Entertainment",Star World HD
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Life" tvg-country="US" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_life_us.png" group-title="Movie",Discovery Life
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Life" tvg-country="US" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_life_us.png" group-title="Documentary",Discovery Life
 http://89.187.179.148:826/12month0406/Rj6ul3S3P7/109136
 
 =AnthymTV=

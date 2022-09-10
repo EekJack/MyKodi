@@ -235,8 +235,8 @@ https://ad2017.vhls.ru.com/cdn/premium33/mono.m3u8
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="" group-title="Sport" tvg-logo="https://i.postimg.cc/hvLbZB9j/image.jpg",F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://eplayer.click/
-#http://31.220.3.170:2095/kQ91ka4n/daJGMKt1/127990
-https://ad2017.vhls.ru.com/cdn/premium60/mono.m3u8
+https://best2.globalweb.ru.com/cdn/premium60/mono.m3u8
+#https://ad2017.vhls.ru.com/cdn/premium60/mono.m3u8
 
 #EXTINF:-1 tvg-id="INBC1500009OF" tvg-chno="1214" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/42/INBC1500009OF_20220427T054754.png" group-title="Sport",Eurosport HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0

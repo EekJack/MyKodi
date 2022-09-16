@@ -12,7 +12,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default_primary.mpd
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="Sport" tvg-logo="https://iili.io/1NzqF4.png",Ass-tro Supersport 1 HD
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20414
+#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20414
+http://51.81.208.129:35461/17501083101/524668/7990
 
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -20,7 +21,8 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20414
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default.mpd
 
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20415
+#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20415
+http://51.81.208.129:35461/17501083101/524668/7988
 
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Sport",Ass-tro SuperSport 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -36,7 +38,8 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20416
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sport",Ass-tro SuperSport 4 HD
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20417
+#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20417
+http://51.81.208.129:35461/17501083101/524668/7984
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=113d6e58ea7e223e3fb4a9af3e927010:dc86f5d82e5dfaa0fbb22d220e023b7c

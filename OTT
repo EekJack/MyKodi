@@ -176,19 +176,19 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-id="SonySix.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-six-in.png" group-title="Sport",Sony Six HD
-https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
+#https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1hd.png" group-title="Sport",Ten 1
-https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
+#https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-id="SonyTen2.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="Sport",Ten 2
-https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
+#https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -405,7 +405,7 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_pix_in.png" tvg-id="" tvg-name="" group-title="Movie",Sony Pix HD
-https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
+#https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="StarMoviesHDIndia.hk" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies_in_select.png" group-title="Movie",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
@@ -638,28 +638,32 @@ https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.m
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default.mpd
 
 #EXTINF:0 tvg-id="KBS1TV.kr" tvg-name="KBS 1TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="Korea",KBS 1TV
-http://itskoi.dothome.co.kr/kbs.php?id=11
+#http://itskoi.dothome.co.kr/kbs.php?id=11
 
 #EXTINF:0 tvg-id="KBS2TV.kr" tvg-name="KBS 2TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1920px-KBS_2_logo.svg.png" group-title="Korea",KBS 2TV
-http://itskoi.dothome.co.kr/kbs.php?id=12
+#http://itskoi.dothome.co.kr/kbs.php?id=12
 
 #EXTINF:0 tvg-id="KBSLife.kr" tvg-name="KBS Life" tvg-logo="https://i.imgur.com/7XCSOFp.png" group-title="Korea",KBS Life
-http://ppmk.my.id/korea/kor.m3u8?id=kbslife
+#http://ppmk.my.id/korea/kor.m3u8?id=kbslife
 
 #EXTINF:0 tvg-id="SBSFL.kr" tvg-name="SBS Fil" tvg-logo="https://i.imgur.com/JKNSd8s.png" group-title="Korea",SBS F!L
-https://apichvod19.seezntv.com/OTM/10930_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+#https://apichvod19.seezntv.com/OTM/10930_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 
 #EXTINF:0 tvg-id="SBSTV.kr" tvg-name="SBS" tvg-logo="https://i.imgur.com/BzqSUVF.png" group-title="Korea",SBS
-http://itskoi.dothome.co.kr/sbs.php?id=S01
+#http://itskoi.dothome.co.kr/sbs.php?id=S01
 
 #EXTINF:0 tvg-id="SBSfunE.kr" tvg-name="SBS funE" tvg-logo="https://i.imgur.com/n2JajGK.png" group-title="Korea",SBS FunE
-http://ye23.win/iptv/sbs5.1.php?id=S04
+#http://ye23.win/iptv/sbs5.1.php?id=S04
 
 #EXTINF:0 tvg-id="SBSPlus.kr" tvg-name="SBS Plus" tvg-logo="https://i.imgur.com/tzTx3Ta.png" group-title="Korea",SBS Plus
-http://ye23.win/iptv/sbs5.1.php?id=S03
+#http://ye23.win/iptv/sbs5.1.php?id=S03
 
 #EXTINF:0 tvg-id="MBCTV.kr" tvg-name="MBC" tvg-logo="https://i.imgur.com/r9gNY5R.png" group-title="Korea",MBC
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+
+
+-DOCUMENTARY-
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cf5f00d7c35e9a0c4515d93e3938c10:2c2d00ff93b69f9e5e6c377fc8c80cc7
@@ -789,7 +793,7 @@ https://liveanevia.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default.mpd
 
 #EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-name="Sony BBC Earth" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/150px-Sony_BBC_Earth.png",Sony BBC Earth
-http://103.55.144.46/hls/bbcearth.m3u8
+#http://103.55.144.46/hls/bbcearth.m3u8
 
 #EXTINF:-1 tvg-id="SmithsonianChannelEast.us" tvg-logo="https://www.smithsonianchannel.ca/wp-content/uploads/2018/10/smithsonian-logo-header.png" group-title="Documentary",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8

@@ -66,7 +66,7 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb9d78b1c5776744014935bb3fe4ea10:0dc6d298bc48c0de11dc6bf9ede30323
 #EXTINF:-1 tvg-id="1802" tvg-name="SPOTV 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png" group-title="Sport",SPOTV 2 FHD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
@@ -275,7 +275,7 @@ MOVIE
 #KODIPROP:inputstream.adaptive.license_key=897aa91ee5958140b5ebd8076cced310:453b01beb73c78bd6f8ad380f8a06a8e
 #EXTINF:-1 tvg-id="1411" tvg-name="HBO HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="Movie",HBO FHD
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default-primary.mpd
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1

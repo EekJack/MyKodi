@@ -66,7 +66,7 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb9d78b1c5776744014935bb3fe4ea10:0dc6d298bc48c0de11dc6bf9ede30323
 #EXTINF:-1 tvg-id="1802" tvg-name="SPOTV 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png" group-title="Sport",SPOTV 2 FHD
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
@@ -1106,8 +1106,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Asstro", As-stro Warna HD
-https://linears-playback.astro.com.my/vsg/41acsoU5tHim2XqkqixVajCPY91kTgvDGimKbH8PM7hYM=chv-/dash-wv/jitp-linearwm/2402/default_ott.mpd
-#https://aqfadtv.xyz/warna.m3u8
+#https://linears-playback.astro.com.my/vsg/41acsoU5tHim2XqkqixVajCPY91kTgvDGimKbH8PM7hYM=chv-/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://aqfadtv.xyz/warna.m3u8
 #http://51.81.208.129:35461/17501083101/524668/733
 
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Asstro" tvg-id="",Ass-tro Ria HD
@@ -1122,8 +1122,8 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #EXTINF:-1 tvg-id="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Asstro" tvg-id="",Ass-tro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
-#https://stream.zeehanzgadget.com/citra
-http://51.81.208.129:35461/17501083101/524668/6608
+https://stream.zeehanzgadget.com/citra
+#http://51.81.208.129:35461/17501083101/524668/6608
 
 #EXTINF:-1 tvg-id="112" ch-number="AstroRania" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="Asstro",Ass-tro Rania HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

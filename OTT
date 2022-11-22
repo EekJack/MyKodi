@@ -1409,7 +1409,7 @@ https://astro1.rastream.com/amp-hitz-kch
 https://astro1.rastream.com/amp-myfm-kk
 
 
-#EXTINF:-1 tvg-id="ASTROGOPLUSLIVE" tvg-name="Astro SuperSport Plus HD" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/439_144.png",Ass-tro UHD 4K
+#EXTINF:-1 tvg-id="ASTROGOPLUSLIVE" tvg-name="" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png",Ass-tro UHD 4K
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd

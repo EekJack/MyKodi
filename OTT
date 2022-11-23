@@ -1077,7 +1077,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 #EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Asstro", As-stro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-https://skin.en-tv.xyz/2402.mpd
+http://51.81.208.129:35461/80203091402/213445/5075
 
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Asstro" tvg-id="",Ass-tro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1091,7 +1091,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #EXTINF:-1 tvg-id="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Asstro" tvg-id="",Ass-tro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-https://aqfadtv.xyz/live/citra/index.mpd
+http://51.81.208.129:35461/80203091402/213445/6608
 
 #EXTINF:-1 tvg-id="112" ch-number="AstroRania" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="Asstro",Ass-tro Rania HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

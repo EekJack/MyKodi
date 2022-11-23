@@ -1467,9 +1467,8 @@ https://webudi.openhd.lol/lb/premium114/index.m3u8|referer=https://besthdplayer.
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4b30d42612824e36a85e869beed61d37:7bee0a04b0cf9a79b815c1b4307c18cc
+#KODIPROP:inputstream.adaptive.license_key=4b30d42612824e36a85e869beed61d37:7bee0a04b0cf9a79b815c1b4307c18cc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="Test" tvg-logo="https://iili.io/1NzqF4.png",Astro SuperSport TEST2 FHD
 https://linear08-playback.sooka.my/CH1/masterCH1.mpd
-
 

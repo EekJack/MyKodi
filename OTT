@@ -779,7 +779,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e96a0423e067bd6df69
 #https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-idhdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dIoU3FG.png" group-title="Documentary",A&E
-http://173.244.43.44:900/7439929587/4879165436/176585
+#http://173.244.43.44:900/7439929587/4879165436/176585
 
 CARTOON
 

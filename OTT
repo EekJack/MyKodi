@@ -24,7 +24,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
 #EXTINF:-1 tvg-id="815" tvg-name="Astro SuperSport 5 HD" group-title="Sport" tvg-logo="https://iili.io/1N10rP.png",Ass-tro Supersport 5 HD
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
+#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5068
@@ -100,7 +100,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
 #EXTINF:-1 tvg-id="802" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="SPORT",Ass-tro Arena 2
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 
 #EXTINF:-1 tvg-id="4011" tvg-name="unifi Sports 1" group-title="Sport"  tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200219/20200219034140282its.png",unifi Sports 1 HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -174,9 +174,6 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 #https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="StarSportsSelect1HD.in" tvg-logo="https://i.imgur.com/bEAfTTI.png" tvg-name="Star Sports Select HD1" group-title="Sport",Star Sport Select 1 HD
-#http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelect2HD.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg/revision/latest/scale-to-width-down/220?cb=20170728104438" tvg-id="" tvg-name="" group-title="Sport",Star Sport Select 2 HD
 #http://103.55.144.46/hls/select2.m3u8
@@ -388,35 +385,17 @@ https://av-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_pix_in.png" tvg-id="" tvg-name="" group-title="Movie",Sony Pix HD
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="StarMoviesHDIndia.hk" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies_in_select.png" group-title="Movie",Star Movies
-#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="boxmovie1" tvg-name="Box Movie 1" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Movie%201%20HD.png" group-title="Movie",Box Movie 1 HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="Hollywood Classics" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Hollywood%20Classics%20HD.png" group-title="Movie",Hollywood Classics HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="RedboxSpotlight.us" tvg-logo="https://i.pcmag.com/imagery/articles/078lgLwZOcCyGzBRw0uOpyz-2.fit_lim.size_1600x900.v1581954468.png" group-title="Movie",Redbox 1: Spotlight
-https://spotlight-redbox.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RedboxComedy.us" tvg-name="" tvg-logo="https://i.pcmag.com/imagery/articles/078lgLwZOcCyGzBRw0uOpyz-2.fit_lim.size_1600x900.v1581954468.png" group-title="Movie",Redbox 2: Comedy
-https://comedy-redbox.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RedboxRush.us" tvg-name="" tvg-logo="https://i.pcmag.com/imagery/articles/078lgLwZOcCyGzBRw0uOpyz-2.fit_lim.size_1600x900.v1581954468.png" group-title="Movie",Redbox 3: Rush
-https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
-
 #EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/09cb1Xp/unnamed.png" group-title="Movie ",CineLife
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?source:iptvmate.net
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Srm8zWy/x.png" group-title="Movie",Movies X
 #http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Showtime.png" group-title="Movie",Showtime
-#http://38.127.211.18/live/c2eds/Showtime/HLS/index.m3u8
-
-#EXTINF:0 tvg-id="Pluto.TV.Spotlight.us" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="Movie",Pluto TV Spotlight
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 ENTERTAINMENT
 

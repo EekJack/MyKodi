@@ -1410,19 +1410,10 @@ http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
 http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR",WORLD CUP 4 FHD
-http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR",WORLD CUP 5 FHD
 https://webudi.openhd.lol/lb/premium39/index.m3u8?|Referer=https://eplayer.click/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR",WORLD CUP 6 FHD
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR",WORLD CUP 7 FHD
-https://webudi.openhd.lol/lb/premium74/index.m3u8?|Referer=eplayer.click/
-
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR",WORLD CUP 8 FHD
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR",WORLD CUP 5 FHD
 https://webudi.openhd.lol/lb/premium111/index.m3u8|referer=https://besthdplayer.click/
 
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR",WORLD CUP 9 FHD
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR",WORLD CUP 6 FHD
 https://webudi.openhd.lol/lb/premium112/index.m3u8|referer=https://besthdplayer.click/

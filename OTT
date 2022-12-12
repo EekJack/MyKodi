@@ -1412,5 +1412,6 @@ http://50.7.220.74:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&t
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR",WORLD CUP 5 FHD
 https://webudi.openhd.lol/lb/premium111/index.m3u8|referer=https://besthdplayer.click/
 
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR",WORLD CUP 6 FHD
-https://webudi.openhd.lol/lb/premium112/index.m3u8|referer=https://besthdplayer.click/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="WAYANG",Black Adam (2022)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Black.Adam.2022/Black.Adam.2022.1080p.WEB-DL.DDP5.1.Atmos.H.264-EVO.mkv

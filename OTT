@@ -31,10 +31,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 #EXTINF:-1 tvg-id="ASTROGOPLUSLIVE" tvg-name="Astro SuperSport Plus HD" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/439_144.png",Ass-tro Supersport Plus HD
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default.mpd
 
-#EXTINF:-1 tvg-id="ASTROGOPLUSLIVE" tvg-name="Astro SuperSport Plus HD" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/439_144.png",Ass-tro UHD
+#EXTINF:-1 tvg-id="ASTROGOPLUSLIVE" tvg-name="Astro SuperSport Plus HD" group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/439_144.png",Ass-tro UHD 4K
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
@@ -1395,22 +1395,13 @@ https://astro1.rastream.com/amp-myfm-kk
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png",Ass-tro UHD 4K
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 
-#EXTINF:-1 tvg-id="wc2022-1" tvg-name="wc2022 1" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR",WORLD CUP 1 FHD
-#http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png",WORLD CUP 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5027
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR",WORLD CUP 2 FHD
-#http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR",WORLD CUP 3 FHD
-#http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR",WORLD CUP 4 FHD
-#http://50.7.220.74:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
-
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR",WORLD CUP 5 FHD
-#https://webudi.openhd.lol/lb/premium111/index.m3u8|referer=https://besthdplayer.click/
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dccu/images/4/45/Black_Adam_-_Infobox_Image.jpg" group-title="WAYANG",Black Adam (2022)

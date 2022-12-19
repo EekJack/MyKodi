@@ -1391,18 +1391,5 @@ https://astro1.rastream.com/amp-hitz-kch
 #EXTINF:-1 group-title="RADIO" tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png",MyFM Sabah
 https://astro1.rastream.com/amp-myfm-kk
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png",Ass-tro UHD 4K
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png",WORLD CUP 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5027
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dccu/images/4/45/Black_Adam_-_Infobox_Image.jpg" group-title="WAYANG",Black Adam (2022)
 https://onedrive.astradamy.com/api/raw/?path=/Movies/Black.Adam.2022/Black.Adam.2022.1080p.WEB-DL.DDP5.1.Atmos.H.264-EVO.mkv

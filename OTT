@@ -761,8 +761,20 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e96a0423e067bd6df69
 #EXTINF:-1 tvg-id="INBC1500007PX" tvg-chno="1116" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/08/INBC1500007PX_20220525T002422.png" group-title="Documentary",Investigation Discovery
 #https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-idhdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dIoU3FG.png" group-title="Documentary",A&E
-#http://173.244.43.44:900/7439929587/4879165436/176585
+#EXTINF:-1 group-title="Documentary" group-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" tvg-id="LoveNature" ch-number="549" tvg-name="Love Nature 4K" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/20/Love_Nature_4K_logo.png/revision/latest/scale-to-width-down/1600?cb=20221225090807&path-prefix=vi",Love Nature 4K FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5097
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default.mpd
+
+#EXTINF:-1 group-title="Documentary" group-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" tvg-id="LoveNature" ch-number="550" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png",Love Nature FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5096
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default.mpd
+
+#EXTINF:-1 group-title="Documentary"  group-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" tvg-id="GlobalTrekker" ch-number="551" tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png",Global Trekker FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5094
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default.mpd
 
 CARTOON
 
@@ -1158,9 +1170,6 @@ https://haunttv-roku.amagi.tv/playlist720-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Documentary",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="Love Nature HD" group-title="Documentary" tvg-id="" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png",Love Nature FHD
-http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 
 #EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png" group-title="Documentary",In Wild
 #https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8

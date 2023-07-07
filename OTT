@@ -75,14 +75,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5013
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
 #EXTINF:-1 tvg-id="817" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="Sport",beIN Sports 2 FHD
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default.mpd
+https://malay.yurendtv.biz.id/dash-wv/linear/5066/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="beIN Sports 2" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2 HD
-https://nyanv-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
@@ -372,6 +373,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http:
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="Hollywood Classics" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Hollywood%20Classics%20HD.png" group-title="Movie",Hollywood Classics HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 group-title="Movie" tvg-id="sonypix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png",Sony Pix FHD
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 
 ENTERTAINMENT
@@ -707,6 +711,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5094
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default.mpd
+
+#EXTINF: -1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Documentary",Sony BBC Earth HD
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+
 
 CARTOON
 

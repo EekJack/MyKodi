@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml"  refresh="3600"
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml"  refresh="3600"
 
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" group-title="Sport" tvg-logo="https://iili.io/1NzqF4.png",Ass-tro Supersport 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -956,32 +956,37 @@ https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/salam/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yYG3XdJ/20230206-085159.png" group-title="Lokal",Salam HD
+#EXTINF:-1 tvg-id="113" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-title="Lokal",Salam HD
 https://aqfadtv.xyz/live/unifitv/salam/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/pesona/
+#EXTINF:-1 tvg-id="141" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png" group-title="Lokal",Pesona HD
+https://aqfadtv.xyz/live/unifitv/pesona/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/siar/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKyxP5WH/20230206-085144.png" group-title="Lokal",Siar
+#EXTINF:-1 tvg-id="121" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-title="Lokal",Siar
 https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/500wX4cw/20230206-085129.png" group-title="Lokal",Hypp Sensasi HD
+#EXTINF:-1 tvg-id="116" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png" group-title="Lokal",Hypp Sensasi HD
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5szSnZj/20230206-085113.png" group-title="Lokal",Hypp Inspirasi HD
+#EXTINF:-1 tvg-id="118" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png" group-title="Lokal",Hypp Inspirasi HD
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/63mCRkwF/20230206-085050.png" group-title="Lokal",Dunia Sinema HD
+#EXTINF:-1 tvg-id="128" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="Lokal",Dunia Sinema HD
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvJ5G5M7/20230206-085027.png" group-title="Lokal",Degup
+#EXTINF:-1 tvg-id="120" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-title="Lokal",Degup
 https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 
 #EXTINF:-1 tvg-id="105" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Asstro" tvg-id="Prima",Ass-tro Prima HD

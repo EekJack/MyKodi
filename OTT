@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml"  refresh="3600"
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"  refresh="3600"
 
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" group-title="Sport" tvg-logo="https://iili.io/1NzqF4.png",Ass-tro Supersport 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -59,7 +59,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd
 #EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png" group-title="Sport",SPOTV 2
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-id="821" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="Sport",WWE Network FHD
+#EXTINF:-1 tvg-id="WWENetwork" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="Sport",WWE Network FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default.mpd
@@ -71,7 +71,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="beIN Sports1" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1 HD
+#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="beIN Sports1" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1 HD
 https://nyanv-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -82,7 +82,7 @@ https://malay.yurendtv.biz.id/dash-wv/linear/5066/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="beIN Sports 2" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2 HD
+#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="beIN Sports 2" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2 HD
 #https://nyanv-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -120,7 +120,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
 #EXTINF:0 tvg-id="FightSports" tvg-name"Fight Sports HD" tvg-logo="https://www.singtel.com/content/dam/singtel/business/sb/Product%20&%20Services/TV/catalog/ProductCatalog-AlaCarte-FightSports-logo.jpg" group-title="Sport",FIGHT SPORT
 https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-id="RTMK05" tvg-name="TV SUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/RTM_HD_Sports.png/450px-RTM_HD_Sports.png" group-title="Sport",TV SUKAN
+#EXTINF:-1 tvg-id="RTMK05" tvg-name="SUKAN RTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/RTM_HD_Sports.png/450px-RTM_HD_Sports.png" group-title="Sport",TV SUKAN
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
@@ -131,12 +131,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2601
-#EXTINF:-1 tvg-id="823" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="Sport",Premier Sport FHD
+#EXTINF:-1 tvg-id="PremierSports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="Sport",Premier Sport FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2602
-#EXTINF:-1 tvg-id="800" tvg-logo="http://linear-poster.astro.com.my/prod/logo/eGG_v1.png" group-title="Sport",eGG Network
+#EXTINF:-1 tvg-id="eGGNetwork" tvg-logo="http://linear-poster.astro.com.my/prod/logo/eGG_v1.png" group-title="Sport",eGG Network
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/07/billiard-logo-sml.png" group-title="Sport",Billiard TV
@@ -239,12 +239,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305
-#EXTINF:-1 tvg-id="HITSMovie" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movie",Hits Movies FHD (MY)
+#EXTINF:-1 tvg-id="HITSMovies" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movie",Hits Movies FHD (MY)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="Hits Movies" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movie",Hits Movies HD
+#EXTINF:-1 tvg-id="HITSMovies.id" tvg-name="Hits Movies" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movie",Hits Movies HD
 #https://nyanv-live-cdn.mncnow.id.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -279,7 +279,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
-#EXTINF:-1 tvg-id="241" ch-number="BoxOfficeThangathirai" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_BoxOffice_Movies_v1.png" group-title="Movie",Asstro Box Office Movies
+#EXTINF:-1 tvg-id="BoxOfficeThangathirai" ch-number="BoxOfficeThangathirai" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_BoxOffice_Movies_v1.png" group-title="Movie",Asstro Box Office Movies
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -309,7 +309,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="CinemaWorld.MACAN" tvg-name="Cinema World" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" group-title="Movie",Cinema World
+#EXTINF:-1 tvg-id="CinemaWorld.id" tvg-name="Cinema World" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" group-title="Movie",Cinema World
 https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -381,7 +381,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2605
-#EXTINF:-1 tvg-id="712" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="Entertainment",WARNER TV FHD
+#EXTINF:-1 tvg-id=""WarnerTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="Movie",WARNER TV FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -717,7 +717,7 @@ CARTOON
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/509
-#EXTINF:-1 tvg-id="615" tvg-name="Cartoon Network HD" group-title="Cartoon" tvg-logo="https://iili.io/1No5zu.png",Cartoon Network HD
+#EXTINF:-1 tvg-id="615" tvg-name="Cartoon Network HD" group-title="Cartoon" tvg-logo="https://iili.io/1No5zu.png",Cartoon Network HD FHD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -727,17 +727,17 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetw
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408
-#EXTINF:-1 tvg-id="619" tvg-name="Boomerang HD" group-title="Cartoon" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Asstro ceria FHD
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Boomerang HD" group-title="Cartoon" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Asstro ceria FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="BoomerangSouthEastAsia.us" group-title="Cartoon" tvg-chno="555" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/46b7a315e1b7055504f680fd33058da5.jpg",Zoo Moo
+#EXTINF:-1 tvg-id="ZooMoo.id" group-title="Cartoon" tvg-chno="555" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/46b7a315e1b7055504f680fd33058da5.jpg",Zoo Moo
 https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5067
-#EXTINF:-1 tvg-id="618" tvg-name="Moonbug Kids" group-title="Cartoon" tvg-logo="https://iili.io/1eFMPV.png",Moonbug Kids HD
+#EXTINF:-1 tvg-id="MoonbugKids" tvg-name="Moonbug Kids" group-title="Cartoon" tvg-logo="https://iili.io/1eFMPV.png",Moonbug Kids FHD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -747,22 +747,22 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mp
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2511
-#EXTINF:-1 tvg-id="1616" tvg-name="Nickelodeon HD" group-title="Cartoon" tvg-logo="https://iili.io/1No7Wb.png",Nickelodeon FHD
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon HD" group-title="Cartoon" tvg-logo="https://iili.io/1No7Wb.png",Nickelodeon FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="NickelodeonSouthEastAsia.us" group-title="Cartoon" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073133989duz.png",Nickelodeon HD
+#EXTINF:-1 tvg-id="Nickelodeon.id" group-title="Cartoon" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073133989duz.png",Nickelodeon HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9982
-#EXTINF:-1 tvg-id="1617" tvg-name-"Nickelodeon Junior" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" group-title="Cartoon",NickJr
+#EXTINF:-1 tvg-id="NickJr" tvg-name-"Nickelodeon Junior" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" group-title="Cartoon",NickJr FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="1617" tvg-name"Nickelodeon Junior" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" group-title="Cartoon",NickJr
+#EXTINF:-1 tvg-id="NickJr.id" tvg-name"Nickelodeon Junior" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" group-title="Cartoon",NickJr
 #https://nyanv-live-cdn.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -782,7 +782,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:1 tvg-id="BabyFirst.MACAN" tvg-name="Baby TV HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/94_144.png" group-title="Cartoon",Baby TV 
+#EXTINF:1 tvg-id="BabyTVAsia.uk" tvg-name="Baby TV HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/94_144.png" group-title="Cartoon",Baby TV 
 https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 
@@ -790,37 +790,37 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1114
-#EXTINF:-1 tvg-id="502" tvg-name="BERNAMA" group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bernama-my.png",BERNAMA
+#EXTINF:-1 tvg-id="BernamaTV" tvg-name="BERNAMA" group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bernama-my.png",BERNAMA
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1008
-#EXTINF:-1 tvg-id="512" tvg-name="BBC World News HD" group-title="News" tvg-logo="https://iili.io/1NnEts.png",BBC World News HD
+#EXTINF:-1 tvg-id="BBCNews" tvg-name="BBC World News HD" group-title="News" tvg-logo="https://iili.io/1NnEts.png",BBC World News FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-world-news-uk.svg",BBC World News HD
+EXTINF:-1 tvg-id="BBCNews.id" group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-world-news-uk.svg",BBC World News HD
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2503
-#EXTINF:-1 tvg-id="511" tvg-name="CNN HD" group-title="News" tvg-logo="https://iili.io/1Nn1Nn.png",CNN HD
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN HD" group-title="News" tvg-logo="https://iili.io/1Nn1Nn.png",CNN FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.us" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="News",CNN HD
+EXTINF:-1 tvg-id="CNNIndonesia" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="News",CNN HD
 https://nyanv-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2110
-#EXTINF:-1 tvg-id="513" group-title="News" tvg-logo="https://www.lyngsat.com/logo/corp/aa/al_jazeera_qa.png",Al Jazeera HD
+#EXTINF:-1 tvg-id="AlJazeeraEnglish" group-title="News" tvg-logo="https://www.lyngsat.com/logo/corp/aa/al_jazeera_qa.png",Al Jazeera HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2102
-#EXTINF:-1 tvg-id="514" group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-news-uk.png",Sky News HD
+#EXTINF:-1 tvg-id="SkyNews" group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-news-uk.png",Sky News HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -830,22 +830,22 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/605
-#EXTINF:-1 tvg-id="515" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png" group-title="News",CNA HD
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png" group-title="News",CNA FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/605/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-EXTINF:-1 tvg-id="515" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png" group-title="News",CNA HD
+EXTINF:-1 tvg-id="CNA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png" group-title="News",CNA HD
 https://nyanv-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9985
-#EXTINF:-1 tvg-id="522" tvg-name="France24" group-title="News" tvg-logo="https://iili.io/1mezTg.png",France24
+#EXTINF:-1 tvg-id="France24" tvg-name="France24" group-title="News" tvg-logo="https://iili.io/1mezTg.png",France24
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/289_144.png" group-title="News",FRANCE 24
+EXTINF:-1 tvg-id="France24English" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/289_144.png" group-title="News",FRANCE 24
 https://nyanv-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -855,7 +855,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9984
-#EXTINF:-1 tvg-id="521" group-title="News" tvg-logo="https://iili.io/1me2Qj.png",DW English
+#EXTINF:-1 tvg-id="DW" group-title="News" tvg-logo="https://iili.io/1me2Qj.png",DW English
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -865,17 +865,17 @@ https://nyanv-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/900
-#EXTINF:-1 tvg-id="516" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/423_144.png" group-title="News",CNBC Asia
+#EXTINF:-1 tvg-id="CNBCAsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/423_144.png" group-title="News",CNBC Asia
 http://linearjitp-playback.astro.com.my/dash-wv/linear/900/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-EXTINF:-1 tvg-id="CNBCAsiaPacific.us" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/423_144.png" group-title="News",CNBC Asia
+EXTINF:-1 tvg-id="CNBCAsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/423_144.png" group-title="News",CNBC Asia
 https://nyanv-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5020
-#EXTINF:-1 tvg-id="517" group-title="News" tvg-logo="https://iili.io/1NnwSS.png",Bloomberg TV HD
+#EXTINF:-1 tvg-id="BloombergTV" group-title="News" tvg-logo="https://iili.io/1NnwSS.png",Bloomberg TV FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -898,12 +898,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default_primary.mpd
 #EXTINF:-1 tvg-id="603" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/tutor-tv.png" group-title="TV PENDIDIKAN",TUTOR TV SMK
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/MSNBC.png" group-title="News",MSNBC
-#http://38.127.211.18/live/c2eds/MSNBC/HLS/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025
-#EXTINF:-1 tvg-id="501" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="Asstro" tvg-id="",AWANI
+#EXTINF:-1 tvg-id=""AstroAwani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="Asstro" tvg-id="",AWANI
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 #https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
@@ -943,7 +940,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id
 #EXTINF:-1 group-title="Lokal" tvg-id="122" tvg-logo="https://www.lyngsat.com/logo/tv/dd/drama-sangat-my.png",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
-#EXTINF:-1 group-title="Lokal" tvg-id="RTMK04" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM HD
+#EXTINF:-1 group-title="Lokal" tvg-id="BERITA RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
 
 #EXTINF:-1 tvg-id="RTMK0" tvg-name="TV6" group-title="Lokal" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-tv-6-my.png",TV6
@@ -997,18 +994,18 @@ https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 #EXTINF:-1 tvg-id="120" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-title="Lokal",Degup
 https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 
-#EXTINF:-1 tvg-id="105" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Asstro" tvg-id="Prima",Ass-tro Prima HD
+#EXTINF:-1 tvg-id="AstroPrima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Asstro" tvg-id="Prima",Ass-tro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1000
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
-#EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Asstro", As-stro Warna HD
+#EXTINF:-1 tvg-id="AstroWarna" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Asstro", As-stro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 http://51.81.208.129:35461/80203091402/213445/5075
 
-#EXTINF:-1 tvg-id="1AstroRia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Asstro" tvg-id="",Ass-tro Ria HD
+#EXTINF:-1 tvg-id="AstroRia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Asstro" tvg-id="",Ass-tro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my 

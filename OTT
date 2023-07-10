@@ -1164,11 +1164,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
-#EXTINF:-1 type="movie" tvg-logo="https://onedrive.astradamy.com/api/raw/?path=/Movies/Black.Panther.Wakanda.Forever.2022/black.panther.wakanda.forever.2022.complete.bluray-untouched.proof.jpg" tvg-id="" tvg-name"" group-title="Wayang",black panther wakanda forever FHD
+#EXTINF:-1 type="movie" tvg-logo="https://onedrive.astradamy.com/api/raw/?path=/Movies/Black.Panther.Wakanda.Forever.2022/black.panther.wakanda.forever.2022.complete.bluray-untouched.proof.jpg" tvg-id="" tvg-name"" group-title="Wayang",black panther wakanda forever 2022 FHD
 https://onedrive.astradamy.com/api/raw/?path=/Movies/Black.Panther.Wakanda.Forever.2022/Black.Panther.Wakanda.Forever.2022.NORDiC.1080p.BluRay.DTS-HD.MA.7.1.x264-YOLO.mkv
 
-
-
+#EXTINF:-1 type="movie" tvg-logo="https://onedrive.astradamy.com/api/raw/?path=/Movies/Black.Panther.Wakanda.Forever.2022/black.panther.wakanda.forever.2022.complete.bluray-untouched.proof.jpg" tvg-id="" tvg-name"" group-title="Wayang",Avatar The Way Of Water 2022 FHD
+#https://onedrive.astradamy.com/api/raw/?path=/Movies/Avatar.The.Way.Of.Water.2022/Avatar.The.Way.of.Water.2022.1080p.WEB-DL.DDP5.1.Atmos.H.264-CMRG.mkv
 
 
 

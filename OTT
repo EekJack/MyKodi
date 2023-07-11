@@ -1012,7 +1012,14 @@ http://51.81.208.129:35461/80203091402/213445/5075
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my 
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
+#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
+
+
+#EXTINF:-1 tvg-id="AstroRia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Asstro" tvg-id="",Ass-tro Ria HD
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82
+Referer: https://sg-sg-sg.astro.com.my/
+Origin: https://sg-sg-sg.astro.com.my
+https://tinyurl.com/266b58cq
 
 #EXTINF:-1 tvg-id="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Asstro" tvg-id="",Ass-tro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1176,7 +1183,7 @@ https://tinyurl.com/25xa6mla
 #EXTINF:-1 type="movie" tvg-logo="https://cdn.marvel.com/content/1x/stellarvortex_reald_digital_poster_1080x1350_v1.jpg" tvg-id="" tvg-name"" group-title="Wayang",Doctor Strange in the Multiverse of Madness 2022 FHD
 https://tinyurl.com/27bescjf
 
-#EXTINF:-1 type="movie" tvg-logo="https://bit.ly/3D6iqIjg" tvg-id="" tvg-name"" group-title="Wayang",John Wick Chapter 4 2023 FHD
+#EXTINF:-1 type="movie" tvg-logo="https://johnwick.fandom.com/wiki/John_Wick:_Chapter_4?file=Chapterfour.jpeg" tvg-id="" tvg-name"" group-title="Wayang",John Wick Chapter 4 2023 FHD
 https://tinyurl.com/2xhetm8g
 
 #EXTINF:-1 type="movie" tvg-logo="https://hollywoodlife.com/wp-content/uploads/2022/12/Peter-Pan-and-Wendy-Disney-Plus-embed-1.jpg" tvg-id="" tvg-name"" group-title="Wayang",Peter Pan and Wendy 2023 FHD

@@ -1164,29 +1164,163 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
-#EXTINF:-1 type="movie" tvg-logo="https://onedrive.astradamy.com/api/raw/?path=/Movies/Black.Panther.Wakanda.Forever.2022/black.panther.wakanda.forever.2022.complete.bluray-untouched.proof.jpg" tvg-id="" tvg-name"" group-title="Wayang",black panther wakanda forever 2022 FHD
+#EXTINF:-1 type="movie" tvg-logo="https://onedrive.astradamy.com/api/raw/?path=/Movies/Black.Panther.Wakanda.Forever.2022/black.panther.wakanda.forever.2022.complete.bluray-untouched.proof.jpg" tvg-id="" tvg-name"" group-title="English",black panther wakanda forever 2022 FHD
 https://tinyurl.com/26w6subp
 
-#EXTINF:-1 type="movie" tvg-logo="https://images.disneymovieinsiders.com/3836ad6fbd0491e0fbe9c3fe2f6786aa/9f684517-cf81-42c9-a85d-51a046ce942d.jpg?r=48x71&w=640" tvg-id="" tvg-name"" group-title="Wayang",Avatar The Way Of Water 2022 FHD
+#EXTINF:-1 type="movie" tvg-logo="https://images.disneymovieinsiders.com/3836ad6fbd0491e0fbe9c3fe2f6786aa/9f684517-cf81-42c9-a85d-51a046ce942d.jpg?r=48x71&w=640" tvg-id="" tvg-name"" group-title="English",Avatar The Way Of Water 2022 FHD
 https://tinyurl.com/283lwx64
 
-#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Beast_2022_American_poster.jpg" tvg-id="" tvg-name"" group-title="Wayang",Beast 2022 FHD
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Beast_2022_American_poster.jpg" tvg-id="" tvg-name"" group-title="English",Beast 2022 FHD
 https://tinyurl.com/25xa6mla
 
-#EXTINF:-1 type="movie" tvg-logo="https://cdn.marvel.com/content/1x/stellarvortex_reald_digital_poster_1080x1350_v1.jpg" tvg-id="" tvg-name"" group-title="Wayang",Doctor Strange in the Multiverse of Madness 2022 FHD
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.marvel.com/content/1x/stellarvortex_reald_digital_poster_1080x1350_v1.jpg" tvg-id="" tvg-name"" group-title="English",Doctor Strange in the Multiverse of Madness 2022 FHD
 https://tinyurl.com/27bescjf
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/original/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg" tvg-id="" tvg-name"" group-title="Wayang",John Wick Chapter 4 2023 FHD
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/original/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg" tvg-id="" tvg-name"" group-title="English",John Wick Chapter 4 2023 FHD
 https://tinyurl.com/2xhetm8g
 
-#EXTINF:-1 type="movie" tvg-logo="https://hollywoodlife.com/wp-content/uploads/2022/12/Peter-Pan-and-Wendy-Disney-Plus-embed-1.jpg" tvg-id="" tvg-name"" group-title="Wayang",Peter Pan and Wendy 2023 FHD
+#EXTINF:-1 type="movie" tvg-logo="https://hollywoodlife.com/wp-content/uploads/2022/12/Peter-Pan-and-Wendy-Disney-Plus-embed-1.jpg" tvg-id="" tvg-name"" group-title="English",Peter Pan and Wendy 2023 FHD
 https://tinyurl.com/25cm3s5v
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZlNTIwMTktYzg0MC00NWY5LTgwNjYtZTE2MWFmNDA5ZDA5XkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_FMjpg_UX1000_.jpg" tvg-id="" tvg-name"" group-title="Wayang",Didi & Friends The Movie 2023 FHD
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZlNTIwMTktYzg0MC00NWY5LTgwNjYtZTE2MWFmNDA5ZDA5XkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_FMjpg_UX1000_.jpg" tvg-id="" tvg-name"" group-title="Melayu",Didi & Friends The Movie 2023 FHD
 https://tinyurl.com/2aljhrtf
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/original/aAngiE34BMFDTOXpjc04Lr8zsX1.jpg" tvg-id="" tvg-name"" group-title="Wayang",Fast X 2023 FHD
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/original/aAngiE34BMFDTOXpjc04Lr8zsX1.jpg" tvg-id="" tvg-name"" group-title="English",Fast X 2023 FHD
 https://tinyurl.com/28z3db6f
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/original/17OfTgQTlAUx0O18tqJOPz89HuU.jpg" tvg-id="" tvg-name"" group-title="English",Black Adam 2022 FHD
+https://tinyurl.com/28794hk9
+
+#EXTINF:-1 type="movie" tvg-logo="https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2021/05/12230135/E1Cab4kUcAUIUy-.jpg" tvg-id="" tvg-name"" group-title="English",Black Widow 2021 FHD
+https://tinyurl.com/24c5lxze
+
+#EXTINF:-1 type="movie" tvg-logo="https://sportshub.cbsistatic.com/i/2021/12/21/e8ab3328-6a95-441c-b41f-d6186d8f7b4c/fantastic-beasts-secrets-of-dumbledore.jpg?auto=webp&width=608&height=900&crop=0.676:1,smart" tvg-id="" tvg-name"" group-title="English",Fantastic Beasts The Secretso f Dumbledore 2022 FHD
+https://tinyurl.com/2dkdobk5
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.posterhub.com.sg/images/detailed/118/Godzilla_vs._Kong.jpg" tvg-id="" tvg-name"" group-title="English",Godzilla vs Kong 2021 FHD 
+https://tinyurl.com/29j83hoq
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg" tvg-id="" tvg-name"" group-title="English",Home Sweet Home Alone 2021 FHD
+https://tinyurl.com/22nmsgd2
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.comicbook.com/2021/08/marvel-eternals-final-poster-trailer-1279768.jpeg?auto=webp&width=1200&height=1778&crop=1200:1778,smart" tvg-id="" tvg-name"" group-title="English",Marvel's Eternals 2021 FHD
+https://tinyurl.com/26ksdr39
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTJiOGQyNTItNzY4Yi00NmQ1LTk3ZDctM2MyZjc5OTlmYmIwXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_.jpg" tvg-id="" tvg-name"" group-title="Melayu",Penunggang Agama 2021 FHD
+https://tinyurl.com/2ye5aq7b
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VjYjJmOTYtNzM1OS00ODAxLWIxYzQtNjllZjgxZmVlNDEwXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg" tvg-id="" tvg-name"" group-title="Melayu",Bas Terakhir Malam Raya 2023 FHD
+https://tinyurl.com/23gnh4vc
+
+#EXTINF:-1 type="movie" tvg-logo="https://i0.wp.com/batman-news.com/wp-content/uploads/2022/11/Shazam-Fury-of-the-Gods-Poster-1-01.jpg?resize=1068%2C1583&quality=80&strip=info&ssl=1" tvg-id="" tvg-name"" group-title="English",shazam fury of the gods 2023 FHD
+https://tinyurl.com/2xqd85wm
+
+#EXTINF:-1 type="movie" tvg-logo="" tvg-id="" tvg-name"" group-title="English",
+
+#EXTINF:-1 type="movie" tvg-logo="" tvg-id="" tvg-name"" group-title="English",
+
+#EXTINF:-1 type="movie" tvg-logo="" tvg-id="" tvg-name"" group-title="English",
+
+#EXTINF:-1 type="movie" tvg-logo="" tvg-id="" tvg-name"" group-title="English",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

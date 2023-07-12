@@ -907,20 +907,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 #https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:-1 group-title="Lokal" tvg-id="TV1" tvg-name="TV1 HD" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
-#https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
-#EXTINF:-1 group-title="Lokal" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
+#EXTINF:-1 group-title="Malaysia" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
 http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5027
-#EXTINF:-1 group-title="Lokal" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
+#EXTINF:-1 group-title="Malaysia" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
-#EXTINF:-1 group-title="Lokal" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
+#EXTINF:-1 group-title="Malaysia" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
 #https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
@@ -931,7 +928,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/5b318e37-8add-4b31-90c8-35fc1255014b
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1 group-title="Lokal" tvg-id="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
+#EXTINF:-1 group-title="Malaysia" tvg-id="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
 #https://aqfadtv.xyz/live/8tv/index.mpd
@@ -942,76 +939,73 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/de44629a-3dc2-47b9-8a67-33f927e3e44b
 https://unifi-live06.secureswiftcontent.com/UnifiHD/live08.mpd
 
-#EXTINF:-1 group-title="Lokal" tvg-id="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
+#EXTINF:-1 group-title="Malaysia" tvg-id="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
 #https://aqfadtv.xyz/live/tv9/index.mpd
 
-#EXTINF:-1 tvg-id="TV9" group-title="Lokal" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",TV9
+#EXTINF:-1 tvg-id="TV9" group-title="Malaysia" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",TV9
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/481b2cfd-e511-44cc-8440-b410f6f6e4a3
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 
-#EXTINF:-1 group-title="Lokal" tvg-id="OKEY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",TV Okey
+#EXTINF:-1 group-title="Malaysia" tvg-id="OKEY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",TV Okey
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
 
-#EXTINF:-1 group-title="Lokal" tvg-id="122" tvg-logo="https://www.lyngsat.com/logo/tv/dd/drama-sangat-my.png",Drama Sangat
+#EXTINF:-1 group-title="Malaysia" tvg-id="122" tvg-logo="https://www.lyngsat.com/logo/tv/dd/drama-sangat-my.png",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
-#EXTINF:-1 group-title="Lokal" tvg-id="BERITA RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM HD
+#EXTINF:-1 group-title="Malaysia" tvg-id="BERITA RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
 
-#EXTINF:-1 tvg-id="RTMK0" tvg-name="TV6" group-title="Lokal" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-tv-6-my.png",TV6
+#EXTINF:-1 tvg-id="RTMK0" tvg-name="TV6" group-title="Malaysia" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-tv-6-my.png",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5021
-#EXTINF:-1 tvg-id="TVS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVSarawak.png" group-title="Lokal",TVS
+#EXTINF:-1 tvg-id="TVS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVSarawak.png" group-title="Malaysia",TVS
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211
-#EXTINF:-1 tvg-id="AwesomeTV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/awesome-tv-my.png " group-title="Lokal",Awesome TV
+#EXTINF:-1 tvg-id="AwesomeTV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/awesome-tv-my.png " group-title="Malaysia",Awesome TV
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
-
-#EXTINF:-1 tvg-id="" ch-number="" tvg-logo="https://assets.theedgemarkets.com/suketv.jpg?Rw0DFghM85GTa2kRnsX1qMIWhluEDWuF" group-title="Lokal",Suke TV
-https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/salam/
-#EXTINF:-1 tvg-id="113" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-title="Lokal",Salam HD
+#EXTINF:-1 tvg-id="113" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-title="Malaysia",Salam HD
 https://aqfadtv.xyz/live/unifitv/salam/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/pesona/
-#EXTINF:-1 tvg-id="141" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png" group-title="Lokal",Pesona HD
+#EXTINF:-1 tvg-id="141" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png" group-title="Malaysia",Pesona HD
 https://aqfadtv.xyz/live/unifitv/pesona/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/siar/
-#EXTINF:-1 tvg-id="121" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-title="Lokal",Siar
+#EXTINF:-1 tvg-id="121" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-title="Malaysia",Siar
 https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
-#EXTINF:-1 tvg-id="116" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png" group-title="Lokal",Hypp Sensasi HD
+#EXTINF:-1 tvg-id="116" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png" group-title="Malaysia",Hypp Sensasi HD
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
-#EXTINF:-1 tvg-id="118" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png" group-title="Lokal",Hypp Inspirasi HD
+#EXTINF:-1 tvg-id="118" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png" group-title="Malaysia",Hypp Inspirasi HD
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
-#EXTINF:-1 tvg-id="128" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="Lokal",Dunia Sinema HD
+#EXTINF:-1 tvg-id="128" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="Malaysia",Dunia Sinema HD
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
-#EXTINF:-1 tvg-id="120" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-title="Lokal",Degup
+#EXTINF:-1 tvg-id="120" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-title="Malaysia",Degup
 https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 
 #EXTINF:-1 tvg-id="AstroPrima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Asstro" tvg-id="Prima",Ass-tro Prima HD

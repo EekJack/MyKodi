@@ -924,17 +924,34 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
 #https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
-https://aqfadtv.xyz/live/tv3/index.mpd
+#https://aqfadtv.xyz/live/tv3/index.mpd
+
+#EXTINF:-1 tvg-id="TV3" group-title="Malaysia" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/5b318e37-8add-4b31-90c8-35fc1255014b
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 group-title="Lokal" tvg-id="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
-https://aqfadtv.xyz/live/8tv/index.mpd
+#https://aqfadtv.xyz/live/8tv/index.mpd
 
-#EXTINF:-1 group-title="Lokal" tvg-id="TV(" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
+#EXTINF:-1 tvg-id="8TV" group-title="Malaysia" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/de44629a-3dc2-47b9-8a67-33f927e3e44b
+https://unifi-live06.secureswiftcontent.com/UnifiHD/live08.mpd
+
+#EXTINF:-1 group-title="Lokal" tvg-id="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
-https://aqfadtv.xyz/live/tv9/index.mpd
+#https://aqfadtv.xyz/live/tv9/index.mpd
+
+#EXTINF:-1 tvg-id="TV9" group-title="Lokal" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",TV9
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/481b2cfd-e511-44cc-8440-b410f6f6e4a3
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 
 #EXTINF:-1 group-title="Lokal" tvg-id="OKEY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",TV Okey
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my

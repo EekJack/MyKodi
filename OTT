@@ -1,7 +1,6 @@
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml ,https://weareblahs.github.io/epg/rtmklik.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://macan.tv/xmltv.php?username=epg&password=epg,"  refresh="3600"
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://macan.tv/xmltv.php?username=epg&password=epg,"  refresh="3600"
 #EXTM3U billed-msg="🇲🇾 HAK MILIK EekJack NOT FOR SALE 🇲🇾"
 #EXTM3U refresh="3"
-
 
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" group-title="Sport" tvg-logo="https://iili.io/1NzqF4.png",Ass-tro Supersport 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

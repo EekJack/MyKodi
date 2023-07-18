@@ -1,11 +1,4 @@
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml"
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml"
-#EXTM3U url-tvg="https://i.mjh.nz/SamsungTVPlus/all.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
-#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"
 #EXTM3U billed-msg="🇲🇾 HAK MILIK EekJack NOT FOR SALE 🇲🇾"
 #EXTM3U refresh="3"
 

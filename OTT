@@ -20,7 +20,9 @@ https://raw.githubusercontent.com/EekJack/MyKodi/main/as2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default.mpd
-https://kusnadipepenk.github.io/ntn/asp3.m3u8
+
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Sport",Ass-tro SuperSport 3 HD
+https://raw.githubusercontent.com/EekJack/MyKodi/main/as3.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sport",Ass-tro SuperSport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

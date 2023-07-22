@@ -2,10 +2,8 @@
 #EXTM3U billed-msg="🇲🇾 HAK MILIK EekJack NOT FOR SALE 🇲🇾"
 #EXTM3U refresh="3"
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="test drive" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png",test drive 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9987
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/BT_Sport_2_2018.svg/revision/latest?cb=20180510225205",BT Sport 2
+https://raw.githubusercontent.com/EekJack/MyKodi/main/bt2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="test drive" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png",test drive 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey

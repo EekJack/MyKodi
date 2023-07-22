@@ -1,16 +1,15 @@
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"
 #EXTM3U billed-msg="🇲🇾 HAK MILIK EekJack NOT FOR SALE 🇲🇾"
-#EXTM3U refresh="3"
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/BT_Sport_2_2018.svg/revision/latest?cb=20180510225205",BT Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdn8YZoXAWF9PC9AAMsYbHcn1m7v-MRZuuZg&usqp=CAU",BT Sport 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ddy1.cdnhks.lol/ddy1/premium32/playlist.m3u8
+http://webudit.cdnhks.lol/lb/premium32/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="test drive" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png",test drive 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9989
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdn8YZoXAWF9PC9AAMsYbHcn1m7v-MRZuuZg&usqp=CAU",BT Sport 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36 
+http://webudit.cdnhks.lol/lb/premium31/index.m3u8 
 
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" group-title="Sport" tvg-logo="https://iili.io/1NzqF4.png",Ass-tro Supersport 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

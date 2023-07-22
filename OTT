@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml,https://weareblahs.github.io/epg/rtmklik.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" m3uautoload=1 cache=500 deinterlace=1
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://weareblahs.github.io/epg/astro.xml,https://weareblahs.github.io/epg/rtmklik.xml,https://i.mjh.nz/SamsungTVPlus/all.xml" m3uautoload=1 cache=500 deinterlace=1
 #EXTM3U billed-msg="🇲🇾 HAK MILIK EekJack NOT FOR SALE 🇲🇾"
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdn8YZoXAWF9PC9AAMsYbHcn1m7v-MRZuuZg&usqp=CAU",BT Sport 2

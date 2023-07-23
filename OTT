@@ -1180,7 +1180,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
-#EXTINF:-1 parent-code="0000" tvg-id="AdultIPTVnetMILF.us" tvg-logo="https://adult-tvclub.com/wp-content/uploads/2019/04/favicon.png" group-title="XXX"", AdultIPTV MILF
+#EXTINF:-1 parent-code="0000" adult="1" tvg-id="AdultIPTVnetMILF.us" tvg-logo="https://adult-tvclub.com/wp-content/uploads/2019/04/favicon.png" group-title="XXX"", AdultIPTV MILF
 http://cdn.adultiptv.net/milf.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://onedrive.astradamy.com/api/raw/?path=/Movies/Black.Panther.Wakanda.Forever.2022/black.panther.wakanda.forever.2022.complete.bluray-untouched.proof.jpg" tvg-id="" tvg-name"" group-title="English",black panther wakanda forever 2022 FHD

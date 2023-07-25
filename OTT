@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/malaysia.xml, https://www.bevy.be/bevyfiles/indonesia.xml," m3uautoload=1 cache=500 deinterlace=1
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/malaysia.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml"
 #EXTM3U billed-msg="🇲🇾 HAK MILIK EekJack NOT FOR SALE 🇲🇾"
 
 

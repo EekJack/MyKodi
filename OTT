@@ -124,7 +124,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 #EXTINF:-1 tvg-id="802" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Sport",Ass-tro Arena 2
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY4OTc2NTA5MywiaWF0IjoxNjg5MTYxMDkzfQ.fvND4TkGCZeUstbKbtlQTzenlNdyNcLPoTYJ6dVrfL0"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/arena2/
 https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd

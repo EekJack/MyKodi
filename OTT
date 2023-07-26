@@ -929,18 +929,18 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/de44629a-3dc2-47b9-8a67-33f927e3e44b
 https://unifi-live06.secureswiftcontent.com/UnifiHD/live08.mpd
 
-#EXTINF:-1 tvg-id="TV9.my" group-title="Malaysia" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",TV9
+#EXTINF:-1 tvg-id="TV9.my" group-title="Malaysia" tvg-name="TV9" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",TV9
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/481b2cfd-e511-44cc-8440-b410f6f6e4a3
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="Okey.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",TV Okey
+#EXTINF:-1 group-title="Malaysia" tvg-id="Okey.my" tvg-name="TV Okey" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/TV_Okey.png/revision/latest?cb=20180622050405",TV Okey
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="122" tvg-logo="https://www.lyngsat.com/logo/tv/dd/drama-sangat-my.png",Drama Sangat
+#EXTINF:-1 group-title="Malaysia" tvg-name="Drama Sangat" tvg-id="122" tvg-logo="https://www.lyngsat.com/logo/tv/dd/drama-sangat-my.png",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="Berita RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM HD
@@ -956,10 +956,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211
-#EXTINF:-1 tvg-id="AwesomeTV.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/awesome-tv-my.png " group-title="Malaysia",Awesome TV
+#EXTINF:-1 tvg-id="AwesomeTV.my" tvg-name ="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/awesome-tv-my.png " group-title="Malaysia",Awesome TV
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
-EXTINF:-1 group-title="Malaysia" ch-number="" tvg-id="116" tvg-chno="116" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=198649901",Suke TV
+#EXTINF:-1 group-title="Malaysia" ch-number="" tvg-id="116" tvg-chno="116" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=198649901",Suke TV
 https://live.mana2.my/SukeTv/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="SelangorTV" tvg-name ="SelangorTV" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png",Selangor TV 

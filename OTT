@@ -127,7 +127,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/arena2/
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
 https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -958,6 +958,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211
 #EXTINF:-1 tvg-id="AwesomeTV.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/awesome-tv-my.png " group-title="Malaysia",Awesome TV
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
+
+EXTINF:-1 group-title="Malaysia" ch-number="" tvg-id="116" tvg-chno="116" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=198649901",Suke TV
+https://live.mana2.my/SukeTv/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="SelangorTV" tvg-name ="SelangorTV" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png",Selangor TV 
+https://bit.ly/3BMmDjL
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/salam/

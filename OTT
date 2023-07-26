@@ -1091,23 +1091,27 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-#https://video.detik.com/transtv/smil:transtv.smil/chunklist_share_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Trans 7 - [Channel 110]" tvg-logo="https://images.useetv.com/logo_trans7_small1.png?v=2.0.0.13" tvg-id="" tvg-name="Trans-7" group-title="Indo",Trans 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-#https://video.detik.com/trans7/smil:trans7.smil/chunklist_share_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://mncvision.id/userfiles/image/channel/Indosiar.png" tvg-name="Indosiar" group-title="Indo",Indosiar
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-http://tvn.x10.mx/1/master.m3u8?dl=
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://images.useetv.com/logogrey/grey_logo_sctv_small1.png?v=2.0.0.15" tvg-name="SCTV" group-title="Indo",SCTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-http://tvn.x10.mx/1/master-1.m3u8?dl=
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
 #EXTINF:-1 tvg-id="TVRI - [Channel 118]" tvg-logo="https://images.useetv.com/logo_tvri_small1.png?v=2.0.0.13" tvg-name="TVRI" group-title="Indo",TVRI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1159,8 +1163,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
-#EXTINF:-1 parent-code="1234" adult="1" tvg-id="AdultIPTVnetMILF.us" tvg-logo="https://adult-tvclub.com/wp-content/uploads/2019/04/favicon.png" group-title="18+"", AdultIPTV MILF
-#http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1043011/screenshots/6195363/artboard.png" group-title="Indo" tvg-id="Kilat TV" tvg-name="Kilat Tv",KILAT TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6857fe540a10180164aa1c95db2/manifest.mpd
+
+##WAYANG##
 
 #EXTINF:-1 type="movie" tvg-logo="https://onedrive.astradamy.com/api/raw/?path=/Movies/Black.Panther.Wakanda.Forever.2022/black.panther.wakanda.forever.2022.complete.bluray-untouched.proof.jpg" tvg-id="" tvg-name"" group-title="English",black panther wakanda forever 2022 FHD
 https://tinyurl.com/26w6subp

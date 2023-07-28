@@ -123,12 +123,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 #EXTINF:-1 tvg-id="802" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Sport",Ass-tro Arena 2
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5098
-#EXTINF:-1 tvg-id="802" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Astro_Arena_Bola_2_%282D%29.png/revision/latest/scale-to-width-down/480?cb=20230226172801" group-title="test",Ass-tro Arena bola 2
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8?dl=0
-
 #EXTINF:-1 tvg-id="802" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Sport",Ass-tro Arena 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1308,10 +1302,12 @@ https://tinyurl.com/2yk5qeau
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22213044_ico.png?ts=1678991400" group-title="test",Champions TV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=6685
-https://mooncang.my.id/api/vidio/ch.mpd?id=6685&code=champions-tv-1
+#https://mooncang.my.id/api/vidio/ch.mpd?id=6685&code=champions-tv-1
 
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://liga24.my.id/malay/astro2.mpd?id=2700
+#EXTINF:-1 tvg-id="802" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Astro_Arena_Bola_2_%282D%29.png/revision/latest/scale-to-width-down/480?cb=20230226172801" group-title="test",Ass-tro Arena bola 2
+#EXTVLCOPT:http-user-agent=Mozilla/4.0 (compatible; Mozilla/5.0 (Linux; Android 8.1.0; CPH1803) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.98 Mobile Safari/537.36",
+https://liga24.my.id/malay/astro2.mpd?id=2700
 
 

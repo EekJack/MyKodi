@@ -989,8 +989,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 #EXTINF:-1 group-title="Malaysia" ch-number="" tvg-id="116" tvg-chno="116" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=198649901",Suke TV
 https://live.mana2.my/SukeTv/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="SelangorTV" tvg-name ="SelangorTV" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png",Selangor TV 
-https://bit.ly/3BMmDjL
+#EXTINF:-1 group-title="Malaysia" tvg-id="SelangorTV" tvg-name ="SelangorTV" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png",Selangor TV
+https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/SelangorTV.m3u8
+#https://bit.ly/3BMmDjL
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/salam/

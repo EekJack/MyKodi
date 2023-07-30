@@ -5,6 +5,9 @@
 
 #SPORT#
 
+#EXTINF:-1 tvg-id="" ch-number="1" group-title="" tvg-logo="https://t3.ftcdn.net/jpg/04/87/13/32/360_F_487133202_AoYev86tqkqK6IsRjnuFWWsTbPDJtqJa.jpg ",INFO
+https://raw.githubusercontent.com/EekJack/MyKodi/main/warning.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdn8YZoXAWF9PC9AAMsYbHcn1m7v-MRZuuZg&usqp=CAU",BT Sport 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36

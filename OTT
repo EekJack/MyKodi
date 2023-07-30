@@ -5,7 +5,7 @@
 
 #SPORT#
 
-#EXTINF:-1 tvg-id="" ch-number="" group-title="" tvg-logo="https://t3.ftcdn.net/jpg/04/87/13/32/360_F_487133202_AoYev86tqkqK6IsRjnuFWWsTbPDJtqJa.jpg ",INFO
+#EXTINF:-1 tvg-id="" ch-number="1" group-title="AMARAN" tvg-logo="https://t3.ftcdn.net/jpg/04/87/13/32/360_F_487133202_AoYev86tqkqK6IsRjnuFWWsTbPDJtqJa.jpg ",INFO
 https://tinyurl.com/2d73rz8u
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdn8YZoXAWF9PC9AAMsYbHcn1m7v-MRZuuZg&usqp=CAU",BT Sport 2
@@ -1312,17 +1312,6 @@ https://tinyurl.com/2fjqujzb
 
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Z7TzgY3qcBX7VHaNG3E3t8YP1v.jpg" tvg-country="" tvg-url="" group-title="English",The Channel 2023
 https://tinyurl.com/2yk5qeau
-
-#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22213044_ico.png?ts=1678991400" group-title="test",Champions TV 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=6685
-#https://mooncang.my.id/api/vidio/ch.mpd?id=6685&code=champions-tv-1
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-#EXTINF:-1 tvg-id="802" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Astro_Arena_Bola_2_%282D%29.png/revision/latest/scale-to-width-down/480?cb=20230226172801" group-title="test",Ass-tro Arena bola 2
-#EXTVLCOPT:http-user-agent=Mozilla/4.0 (compatible; Mozilla/5.0 (Linux; Android 8.1.0; CPH1803) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.98 Mobile Safari/537.36",
-https://liga24.my.id/malay/astro2.mpd?id=2700
 
 
 

@@ -417,12 +417,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2605
-#EXTINF:-1 tvg-id=""WarnerTV"tvg-name="Warner TV HD"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="Movie",WARNER TV FHD
+#EXTINF:-1 tvg-id="WarnerTV" tvg-name="Warner TV HD"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="Movie",WARNER TV FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="WarnerTV" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png",Warner TV HD
+#EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png",Warner TV HD
 #https://nyanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 

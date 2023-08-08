@@ -7,9 +7,18 @@
 https://tinyurl.com/2d73rz8u
 
 #EXTINF:-1 tvg-id="" group-title="AMARAN" tvg-logo="https://t3.ftcdn.net/jpg/04/87/13/32/360_F_487133202_AoYev86tqkqK6IsRjnuFWWsTbPDJtqJa.jpg ",INFO 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=99eefc068db3509b9f0cf5b34114219d:6c23e31a4d83b568e84aec609a63ebc9
-https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3b91f95dc9152ce8fa34a7fed103b70:694eb12c6ca401b454bd742c374a50c0
+https://dtvott-abc.akamaized.net/dash_live_1079/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="" group-title="AMARAN" tvg-logo="https://t3.ftcdn.net/jpg/04/87/13/32/360_F_487133202_AoYev86tqkqK6IsRjnuFWWsTbPDJtqJa.jpg ",INFO 3
+3#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=50b848449e373bec925946db30cc0634:a2523f96ee3baee69dc96210d6257a54
+https://1080-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdn8YZoXAWF9PC9AAMsYbHcn1m7v-MRZuuZg&usqp=CAU",BT Sport 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/

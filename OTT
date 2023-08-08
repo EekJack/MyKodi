@@ -14,7 +14,7 @@ https://tinyurl.com/2d73rz8u
 https://dtvott-abc.akamaized.net/dash_live_1079/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="" group-title="AMARAN" tvg-logo="https://t3.ftcdn.net/jpg/04/87/13/32/360_F_487133202_AoYev86tqkqK6IsRjnuFWWsTbPDJtqJa.jpg ",INFO 3
-3#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=50b848449e373bec925946db30cc0634:a2523f96ee3baee69dc96210d6257a54

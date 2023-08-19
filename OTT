@@ -3,6 +3,12 @@ All#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
 #SPORT#
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png" group-title="Asstro",TEST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b998894f1884f64981ef63744cbefb1:ee0cfcc7ea4ca715c1bb00a2255053a9
+https://linear03-playback.sooka.my/CH4/masterCH4.mpd
+
 #EXTINF:-1 tvg-id="" ch-number="1" group-title="AMARAN" tvg-logo="https://t3.ftcdn.net/jpg/04/87/13/32/360_F_487133202_AoYev86tqkqK6IsRjnuFWWsTbPDJtqJa.jpg ",INFO
 https://tinyurl.com/2d73rz8u
 

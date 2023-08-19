@@ -7,7 +7,7 @@ All#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png" group-title="TEST",TEST
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MjgzMDk3NCwiaWF0IjoxNjkyMjI2OTc0fQ.BxfNFmwg7YfcjPjV7d2zDksh81gZr0Ua_Z9JbXYfIUs"}
-KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b998894f1884f64981ef63744cbefb1:ee0cfcc7ea4ca715c1bb00a2255053a9
 https://linear03-playback.sooka.my/CH4/masterCH4.mpd
 

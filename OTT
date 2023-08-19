@@ -4,8 +4,9 @@ All#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 #SPORT#
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png" group-title="Asstro",TEST
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png" group-title="TEST",TEST
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b998894f1884f64981ef63744cbefb1:ee0cfcc7ea4ca715c1bb00a2255053a9
 https://linear03-playback.sooka.my/CH4/masterCH4.mpd
 

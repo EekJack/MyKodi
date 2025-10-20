@@ -1,0 +1,231 @@
+<!DOCTYPE html><html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.7.11/shaka-player.ui.min.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.7.11/controls.min.css" crossorigin="anonymous">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body {
+      background: #000;
+      height: 100vh;
+      width: 100vw;
+      overflow: hidden;
+      font-family: system-ui, -apple-system, sans-serif;
+    }
+    .shaka-video-container {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+    }
+    video {
+      width: 100%;
+      height: 100%;
+      background: #000;
+      object-fit: contain;
+    }
+    .shaka-spinner-container,
+    .shaka-spinner,
+    .shaka-spinner-svg {
+      display: none !important;
+      visibility: hidden !important;
+      opacity: 0 !important;
+    }
+  </style>
+</head>
+<body>
+  <div class="shaka-video-container" data-shaka-player>
+    <video autoplay playsinline preload="metadata" poster="https://en.wikipedia.org/wiki/Astro_Arena_%28TV_channel%29#/media/File%3AAstro_Arena_1_(2024).png"></video>
+  </div>  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      shaka.polyfill.installAll();
+
+      if (!shaka.Player.isBrowserSupported()) {
+        console.error('Browser not supported');
+        return;
+      }
+
+      const video = document.querySelector('video');
+      const player = new shaka.Player();
+      await player.attach(video);
+
+      const container = document.querySelector('.shaka-video-container');
+      const ui = new shaka.ui.Overlay(player, container, video);
+
+      ui.configure({
+        controlPanelElements: [
+          'play_pause', 'time_and_duration', 'mute', 'volume',
+          'spacer', 'language', 'captions', 'picture_in_picture',
+          'quality', 'fullscreen'
+        ],
+        volumeBarColors: {
+          base: 'rgba(63, 187, 1, 1)',
+          level: 'rgb(255, 69, 0)'
+        },
+        seekBarColors: {
+          base: 'rgb(41, 41, 163)',
+          buffered: 'rgb(35, 99, 3)',
+          played: 'rgba(63, 187, 1, 1)'
+        }
+      });
+
+      // Default ClearKey DRM (unchanged)
+      let drmConfig = {
+        clearKeys: {
+          "c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c"
+        }
+      };
+
+      // Token will be fetched in real-time from your site (ck.txt)
+      let cookieHeader = "";
+
+      // Primary stream URL (unchanged)
+      let streamUrl = "http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd|user-agent=Mozilla/5.0 (Linux; Android 16; Build/1; wv)";
+
+      // Fetch token from ck.txt in real-time (with refresh)
+      async function fetchTokenFromSite() {
+        try {
+          const res = await fetch('https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://webiptv.updatesbyrahul.site/ck.txt', { cache: 'no-store', mode: 'cors' });
+          if (!res.ok) throw new Error('Token fetch HTTP ' + res.status);
+          const txt = (await res.text()).trim();
+          if (txt) {
+            cookieHeader = txt;
+            console.log('Token fetched from ck.txt:', cookieHeader);
+            return true;
+          }
+        } catch (err) {
+          console.warn('Failed to fetch token from ck.txt:', err.message);
+        }
+        return false;
+      }
+
+      // Initial fetch
+      await fetchTokenFromSite();
+
+      // Refresh token every 5 minutes
+      setInterval(fetchTokenFromSite, 5 * 60 * 1000);
+
+      player.configure({
+        drm: drmConfig,
+        streaming: {
+          lowLatencyMode: true,
+          bufferingGoal: 15,
+          rebufferingGoal: 2,
+          bufferBehind: 15,
+          retryParameters: {
+            timeout: 10000,
+            maxAttempts: 5,
+            baseDelay: 300,
+            backoffFactor: 1.2
+          },
+          segmentRequestTimeout: 8000,
+          segmentPrefetchLimit: 2,
+          useNativeHlsOnSafari: true
+        },
+        manifest: {
+          retryParameters: {
+            timeout: 8000,
+            maxAttempts: 3
+          }
+        }
+      });
+
+      // Register request filter and append cookieHeader to manifest/segment requests if needed
+      player.getNetworkingEngine().registerRequestFilter((type, request) => {
+        request.headers['Referer'] = 'https://www.jiotv.com/';
+        request.headers['User-Agent'] = "plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6";
+        if (cookieHeader) {
+          request.headers['Cookie'] = cookieHeader;
+
+          if (
+            (type === shaka.net.NetworkingEngine.RequestType.MANIFEST ||
+              type === shaka.net.NetworkingEngine.RequestType.SEGMENT) &&
+            request.uris[0] && !request.uris[0].includes('__hdnea__=')
+          ) {
+            const separator = request.uris[0].includes('?') ? '&' : '?';
+            request.uris[0] += separator + cookieHeader;
+          }
+        }
+      });
+
+      const enableAutoplay = () => {
+        video.setAttribute('autoplay', '');
+        video.setAttribute('playsinline', '');
+        video.autoplay = true;
+      };
+
+      const attemptAutoplay = async () => {
+        try {
+          video.muted = false;
+          await video.play();
+          console.log('Unmuted autoplay successful');
+          return true;
+        } catch (error) {
+          console.log('Unmuted autoplay failed:', error.message);
+          try {
+            video.muted = true;
+            await video.play();
+            console.log('Muted autoplay successful');
+            return true;
+          } catch (mutedError) {
+            console.log('Muted autoplay failed:', mutedError.message);
+            return false;
+          }
+        }
+      };
+
+      player.addEventListener('error', (event) => {
+        console.error('Shaka Player Error:', event.detail);
+      });
+
+      video.addEventListener('play', () => {
+        if (window.self === window.top && !document.fullscreenElement && window.innerWidth <= 768) {
+          container.requestFullscreen().catch(() => {
+            console.log('Fullscreen request failed');
+          });
+        }
+      }, { once: true });
+
+      video.addEventListener('loadedmetadata', () => {
+        video.volume = 0.8;
+      });
+
+      let hasUserInteracted = false;
+      const enableSoundOnInteraction = () => {
+        if (!hasUserInteracted && video.muted) {
+          video.muted = false;
+          hasUserInteracted = true;
+          console.log('Sound enabled after user interaction');
+        }
+      };
+      ['click', 'touchstart', 'keydown'].forEach(event => {
+        document.addEventListener(event, enableSoundOnInteraction, { once: true });
+      });
+
+      try {
+        enableAutoplay();
+        await player.load(streamUrl);
+        if (video.readyState >= 3) {
+          await attemptAutoplay();
+        } else {
+          video.addEventListener('canplay', attemptAutoplay, { once: true });
+          setTimeout(async () => {
+            if (video.paused) {
+              await attemptAutoplay();
+            }
+          }, 2000);
+        }
+      } catch (error) {
+        console.error('Load error:', error);
+      }
+
+      document.addEventListener('visibilitychange', () => {
+        if (!document.hidden && video.paused) {
+          attemptAutoplay();
+        }
+      });
+    });
+  </script></body>
+</html>
